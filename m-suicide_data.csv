@@ -1,0 +1,3401 @@
+,Entity,Code,Year,"Suicide mortality rate (per 100,000 population)",Continent,Continent_Country
+0,Afghanistan,AFG,2000,4.9,Asia,Asia_Afghanistan
+1,Afghanistan,AFG,2001,5.0,Asia,Asia_Afghanistan
+2,Afghanistan,AFG,2002,5.0,Asia,Asia_Afghanistan
+3,Afghanistan,AFG,2003,5.0,Asia,Asia_Afghanistan
+4,Afghanistan,AFG,2004,5.0,Asia,Asia_Afghanistan
+5,Afghanistan,AFG,2005,5.0,Asia,Asia_Afghanistan
+6,Afghanistan,AFG,2006,4.9,Asia,Asia_Afghanistan
+7,Afghanistan,AFG,2007,4.8,Asia,Asia_Afghanistan
+8,Afghanistan,AFG,2008,4.6,Asia,Asia_Afghanistan
+9,Afghanistan,AFG,2009,4.4,Asia,Asia_Afghanistan
+10,Afghanistan,AFG,2010,4.3,Asia,Asia_Afghanistan
+11,Afghanistan,AFG,2011,4.1,Asia,Asia_Afghanistan
+12,Afghanistan,AFG,2012,4.0,Asia,Asia_Afghanistan
+13,Afghanistan,AFG,2013,4.0,Asia,Asia_Afghanistan
+14,Afghanistan,AFG,2014,3.9,Asia,Asia_Afghanistan
+15,Afghanistan,AFG,2015,4.0,Asia,Asia_Afghanistan
+16,Afghanistan,AFG,2016,4.0,Asia,Asia_Afghanistan
+17,Afghanistan,AFG,2017,4.1,Asia,Asia_Afghanistan
+18,Afghanistan,AFG,2018,4.1,Asia,Asia_Afghanistan
+19,Afghanistan,AFG,2019,4.1,Asia,Asia_Afghanistan
+20,Albania,ALB,2000,4.9,Europe,Europe_Albania
+21,Albania,ALB,2001,4.5,Europe,Europe_Albania
+22,Albania,ALB,2002,4.6,Europe,Europe_Albania
+23,Albania,ALB,2003,4.8,Europe,Europe_Albania
+24,Albania,ALB,2004,4.8,Europe,Europe_Albania
+25,Albania,ALB,2005,7.5,Europe,Europe_Albania
+26,Albania,ALB,2006,7.8,Europe,Europe_Albania
+27,Albania,ALB,2007,8.1,Europe,Europe_Albania
+28,Albania,ALB,2008,8.2,Europe,Europe_Albania
+29,Albania,ALB,2009,8.1,Europe,Europe_Albania
+30,Albania,ALB,2010,7.8,Europe,Europe_Albania
+31,Albania,ALB,2011,7.9,Europe,Europe_Albania
+32,Albania,ALB,2012,5.2,Europe,Europe_Albania
+33,Albania,ALB,2013,5.3,Europe,Europe_Albania
+34,Albania,ALB,2014,5.0,Europe,Europe_Albania
+35,Albania,ALB,2015,4.8,Europe,Europe_Albania
+36,Albania,ALB,2016,4.7,Europe,Europe_Albania
+37,Albania,ALB,2017,4.7,Europe,Europe_Albania
+38,Albania,ALB,2018,4.5,Europe,Europe_Albania
+39,Albania,ALB,2019,4.3,Europe,Europe_Albania
+40,Algeria,DZA,2000,4.5,Africa,Africa_Algeria
+41,Algeria,DZA,2001,4.5,Africa,Africa_Algeria
+42,Algeria,DZA,2002,4.4,Africa,Africa_Algeria
+43,Algeria,DZA,2003,4.1,Africa,Africa_Algeria
+44,Algeria,DZA,2004,4.0,Africa,Africa_Algeria
+45,Algeria,DZA,2005,3.9,Africa,Africa_Algeria
+46,Algeria,DZA,2006,3.7,Africa,Africa_Algeria
+47,Algeria,DZA,2007,3.5,Africa,Africa_Algeria
+48,Algeria,DZA,2008,3.4,Africa,Africa_Algeria
+49,Algeria,DZA,2009,3.2,Africa,Africa_Algeria
+50,Algeria,DZA,2010,3.0,Africa,Africa_Algeria
+51,Algeria,DZA,2011,3.0,Africa,Africa_Algeria
+52,Algeria,DZA,2012,2.9,Africa,Africa_Algeria
+53,Algeria,DZA,2013,2.9,Africa,Africa_Algeria
+54,Algeria,DZA,2014,2.8,Africa,Africa_Algeria
+55,Algeria,DZA,2015,2.7,Africa,Africa_Algeria
+56,Algeria,DZA,2016,2.6,Africa,Africa_Algeria
+57,Algeria,DZA,2017,2.5,Africa,Africa_Algeria
+58,Algeria,DZA,2018,2.5,Africa,Africa_Algeria
+59,Algeria,DZA,2019,2.5,Africa,Africa_Algeria
+60,Angola,AGO,2000,8.7,Africa,Africa_Angola
+61,Angola,AGO,2001,8.6,Africa,Africa_Angola
+62,Angola,AGO,2002,8.6,Africa,Africa_Angola
+63,Angola,AGO,2003,8.8,Africa,Africa_Angola
+64,Angola,AGO,2004,8.6,Africa,Africa_Angola
+65,Angola,AGO,2005,8.1,Africa,Africa_Angola
+66,Angola,AGO,2006,8.6,Africa,Africa_Angola
+67,Angola,AGO,2007,7.4,Africa,Africa_Angola
+68,Angola,AGO,2008,7.5,Africa,Africa_Angola
+69,Angola,AGO,2009,6.7,Africa,Africa_Angola
+70,Angola,AGO,2010,7.0,Africa,Africa_Angola
+71,Angola,AGO,2011,6.6,Africa,Africa_Angola
+72,Angola,AGO,2012,6.9,Africa,Africa_Angola
+73,Angola,AGO,2013,6.9,Africa,Africa_Angola
+74,Angola,AGO,2014,6.4,Africa,Africa_Angola
+75,Angola,AGO,2015,6.5,Africa,Africa_Angola
+76,Angola,AGO,2016,6.2,Africa,Africa_Angola
+77,Angola,AGO,2017,6.0,Africa,Africa_Angola
+78,Angola,AGO,2018,6.0,Africa,Africa_Angola
+79,Angola,AGO,2019,6.1,Africa,Africa_Angola
+80,Antigua and Barbuda,ATG,2000,1.9,North America,North America_Antigua and Barbuda
+81,Antigua and Barbuda,ATG,2001,1.9,North America,North America_Antigua and Barbuda
+82,Antigua and Barbuda,ATG,2002,1.3,North America,North America_Antigua and Barbuda
+83,Antigua and Barbuda,ATG,2003,1.3,North America,North America_Antigua and Barbuda
+84,Antigua and Barbuda,ATG,2004,1.7,North America,North America_Antigua and Barbuda
+85,Antigua and Barbuda,ATG,2005,1.3,North America,North America_Antigua and Barbuda
+86,Antigua and Barbuda,ATG,2006,0.5,North America,North America_Antigua and Barbuda
+87,Antigua and Barbuda,ATG,2007,0.4,North America,North America_Antigua and Barbuda
+88,Antigua and Barbuda,ATG,2008,0.3,North America,North America_Antigua and Barbuda
+89,Antigua and Barbuda,ATG,2009,0.0,North America,North America_Antigua and Barbuda
+90,Antigua and Barbuda,ATG,2010,0.2,North America,North America_Antigua and Barbuda
+91,Antigua and Barbuda,ATG,2011,0.2,North America,North America_Antigua and Barbuda
+92,Antigua and Barbuda,ATG,2012,0.0,North America,North America_Antigua and Barbuda
+93,Antigua and Barbuda,ATG,2013,0.0,North America,North America_Antigua and Barbuda
+94,Antigua and Barbuda,ATG,2014,0.4,North America,North America_Antigua and Barbuda
+95,Antigua and Barbuda,ATG,2015,0.4,North America,North America_Antigua and Barbuda
+96,Antigua and Barbuda,ATG,2016,0.5,North America,North America_Antigua and Barbuda
+97,Antigua and Barbuda,ATG,2017,0.0,North America,North America_Antigua and Barbuda
+98,Antigua and Barbuda,ATG,2018,0.4,North America,North America_Antigua and Barbuda
+99,Antigua and Barbuda,ATG,2019,0.4,North America,North America_Antigua and Barbuda
+100,Argentina,ARG,2000,9.1,South America,South America_Argentina
+101,Argentina,ARG,2001,10.3,South America,South America_Argentina
+102,Argentina,ARG,2002,10.2,South America,South America_Argentina
+103,Argentina,ARG,2003,9.7,South America,South America_Argentina
+104,Argentina,ARG,2004,8.7,South America,South America_Argentina
+105,Argentina,ARG,2005,8.6,South America,South America_Argentina
+106,Argentina,ARG,2006,8.6,South America,South America_Argentina
+107,Argentina,ARG,2007,8.3,South America,South America_Argentina
+108,Argentina,ARG,2008,8.7,South America,South America_Argentina
+109,Argentina,ARG,2009,8.4,South America,South America_Argentina
+110,Argentina,ARG,2010,8.6,South America,South America_Argentina
+111,Argentina,ARG,2011,8.5,South America,South America_Argentina
+112,Argentina,ARG,2012,9.1,South America,South America_Argentina
+113,Argentina,ARG,2013,8.6,South America,South America_Argentina
+114,Argentina,ARG,2014,9.3,South America,South America_Argentina
+115,Argentina,ARG,2015,8.3,South America,South America_Argentina
+116,Argentina,ARG,2016,8.3,South America,South America_Argentina
+117,Argentina,ARG,2017,8.9,South America,South America_Argentina
+118,Argentina,ARG,2018,9.2,South America,South America_Argentina
+119,Argentina,ARG,2019,8.4,South America,South America_Argentina
+120,Armenia,ARM,2000,3.4,Europe,Europe_Armenia
+121,Armenia,ARM,2001,3.1,Europe,Europe_Armenia
+122,Armenia,ARM,2002,3.5,Europe,Europe_Armenia
+123,Armenia,ARM,2003,2.6,Europe,Europe_Armenia
+124,Armenia,ARM,2004,4.0,Europe,Europe_Armenia
+125,Armenia,ARM,2005,4.2,Europe,Europe_Armenia
+126,Armenia,ARM,2006,5.9,Europe,Europe_Armenia
+127,Armenia,ARM,2007,5.8,Europe,Europe_Armenia
+128,Armenia,ARM,2008,4.8,Europe,Europe_Armenia
+129,Armenia,ARM,2009,4.8,Europe,Europe_Armenia
+130,Armenia,ARM,2010,6.8,Europe,Europe_Armenia
+131,Armenia,ARM,2011,6.8,Europe,Europe_Armenia
+132,Armenia,ARM,2012,7.4,Europe,Europe_Armenia
+133,Armenia,ARM,2013,6.4,Europe,Europe_Armenia
+134,Armenia,ARM,2014,6.3,Europe,Europe_Armenia
+135,Armenia,ARM,2015,6.2,Europe,Europe_Armenia
+136,Armenia,ARM,2016,5.7,Europe,Europe_Armenia
+137,Armenia,ARM,2017,3.0,Europe,Europe_Armenia
+138,Armenia,ARM,2018,2.1,Europe,Europe_Armenia
+139,Armenia,ARM,2019,3.3,Europe,Europe_Armenia
+140,Australia,AUS,2000,12.7,Oceania,Oceania_Australia
+141,Australia,AUS,2001,12.2,Oceania,Oceania_Australia
+142,Australia,AUS,2002,11.3,Oceania,Oceania_Australia
+143,Australia,AUS,2003,10.5,Oceania,Oceania_Australia
+144,Australia,AUS,2004,10.3,Oceania,Oceania_Australia
+145,Australia,AUS,2005,11.2,Oceania,Oceania_Australia
+146,Australia,AUS,2006,10.6,Oceania,Oceania_Australia
+147,Australia,AUS,2007,10.9,Oceania,Oceania_Australia
+148,Australia,AUS,2008,11.6,Oceania,Oceania_Australia
+149,Australia,AUS,2009,11.2,Oceania,Oceania_Australia
+150,Australia,AUS,2010,11.7,Oceania,Oceania_Australia
+151,Australia,AUS,2011,11.2,Oceania,Oceania_Australia
+152,Australia,AUS,2012,11.7,Oceania,Oceania_Australia
+153,Australia,AUS,2013,11.5,Oceania,Oceania_Australia
+154,Australia,AUS,2014,12.7,Oceania,Oceania_Australia
+155,Australia,AUS,2015,13.2,Oceania,Oceania_Australia
+156,Australia,AUS,2016,12.2,Oceania,Oceania_Australia
+157,Australia,AUS,2017,13.1,Oceania,Oceania_Australia
+158,Australia,AUS,2018,12.4,Oceania,Oceania_Australia
+159,Australia,AUS,2019,12.5,Oceania,Oceania_Australia
+160,Austria,AUT,2000,19.9,Europe,Europe_Austria
+161,Austria,AUT,2001,18.6,Europe,Europe_Austria
+162,Austria,AUT,2002,19.3,Europe,Europe_Austria
+163,Austria,AUT,2003,18.2,Europe,Europe_Austria
+164,Austria,AUT,2004,17.5,Europe,Europe_Austria
+165,Austria,AUT,2005,17.2,Europe,Europe_Austria
+166,Austria,AUT,2006,16.4,Europe,Europe_Austria
+167,Austria,AUT,2007,16.0,Europe,Europe_Austria
+168,Austria,AUT,2008,15.8,Europe,Europe_Austria
+169,Austria,AUT,2009,16.0,Europe,Europe_Austria
+170,Austria,AUT,2010,16.1,Europe,Europe_Austria
+171,Austria,AUT,2011,16.5,Europe,Europe_Austria
+172,Austria,AUT,2012,16.3,Europe,Europe_Austria
+173,Austria,AUT,2013,16.2,Europe,Europe_Austria
+174,Austria,AUT,2014,16.5,Europe,Europe_Austria
+175,Austria,AUT,2015,16.0,Europe,Europe_Austria
+176,Austria,AUT,2016,15.5,Europe,Europe_Austria
+177,Austria,AUT,2017,15.4,Europe,Europe_Austria
+178,Austria,AUT,2018,15.7,Europe,Europe_Austria
+179,Austria,AUT,2019,14.6,Europe,Europe_Austria
+180,Azerbaijan,AZE,2000,3.1,Europe,Europe_Azerbaijan
+181,Azerbaijan,AZE,2001,3.4,Europe,Europe_Azerbaijan
+182,Azerbaijan,AZE,2002,3.6,Europe,Europe_Azerbaijan
+183,Azerbaijan,AZE,2003,3.8,Europe,Europe_Azerbaijan
+184,Azerbaijan,AZE,2004,4.3,Europe,Europe_Azerbaijan
+185,Azerbaijan,AZE,2005,4.5,Europe,Europe_Azerbaijan
+186,Azerbaijan,AZE,2006,4.7,Europe,Europe_Azerbaijan
+187,Azerbaijan,AZE,2007,4.9,Europe,Europe_Azerbaijan
+188,Azerbaijan,AZE,2008,4.7,Europe,Europe_Azerbaijan
+189,Azerbaijan,AZE,2009,4.6,Europe,Europe_Azerbaijan
+190,Azerbaijan,AZE,2010,4.6,Europe,Europe_Azerbaijan
+191,Azerbaijan,AZE,2011,4.5,Europe,Europe_Azerbaijan
+192,Azerbaijan,AZE,2012,4.4,Europe,Europe_Azerbaijan
+193,Azerbaijan,AZE,2013,4.3,Europe,Europe_Azerbaijan
+194,Azerbaijan,AZE,2014,4.2,Europe,Europe_Azerbaijan
+195,Azerbaijan,AZE,2015,4.1,Europe,Europe_Azerbaijan
+196,Azerbaijan,AZE,2016,4.0,Europe,Europe_Azerbaijan
+197,Azerbaijan,AZE,2017,4.0,Europe,Europe_Azerbaijan
+198,Azerbaijan,AZE,2018,4.0,Europe,Europe_Azerbaijan
+199,Azerbaijan,AZE,2019,4.1,Europe,Europe_Azerbaijan
+200,Bahamas,BHS,2000,2.3,North America,North America_Bahamas
+201,Bahamas,BHS,2001,2.5,North America,North America_Bahamas
+202,Bahamas,BHS,2002,2.3,North America,North America_Bahamas
+203,Bahamas,BHS,2003,2.4,North America,North America_Bahamas
+204,Bahamas,BHS,2004,3.2,North America,North America_Bahamas
+205,Bahamas,BHS,2005,3.0,North America,North America_Bahamas
+206,Bahamas,BHS,2006,3.5,North America,North America_Bahamas
+207,Bahamas,BHS,2007,3.2,North America,North America_Bahamas
+208,Bahamas,BHS,2008,3.3,North America,North America_Bahamas
+209,Bahamas,BHS,2009,3.3,North America,North America_Bahamas
+210,Bahamas,BHS,2010,3.6,North America,North America_Bahamas
+211,Bahamas,BHS,2011,3.7,North America,North America_Bahamas
+212,Bahamas,BHS,2012,3.5,North America,North America_Bahamas
+213,Bahamas,BHS,2013,3.1,North America,North America_Bahamas
+214,Bahamas,BHS,2014,3.3,North America,North America_Bahamas
+215,Bahamas,BHS,2015,3.5,North America,North America_Bahamas
+216,Bahamas,BHS,2016,3.6,North America,North America_Bahamas
+217,Bahamas,BHS,2017,3.4,North America,North America_Bahamas
+218,Bahamas,BHS,2018,3.5,North America,North America_Bahamas
+219,Bahamas,BHS,2019,3.5,North America,North America_Bahamas
+220,Bahrain,BHR,2000,6.6,Asia,Asia_Bahrain
+221,Bahrain,BHR,2001,8.8,Asia,Asia_Bahrain
+222,Bahrain,BHR,2002,9.2,Asia,Asia_Bahrain
+223,Bahrain,BHR,2003,10.2,Asia,Asia_Bahrain
+224,Bahrain,BHR,2004,10.2,Asia,Asia_Bahrain
+225,Bahrain,BHR,2005,10.3,Asia,Asia_Bahrain
+226,Bahrain,BHR,2006,8.2,Asia,Asia_Bahrain
+227,Bahrain,BHR,2007,9.6,Asia,Asia_Bahrain
+228,Bahrain,BHR,2008,9.2,Asia,Asia_Bahrain
+229,Bahrain,BHR,2009,8.6,Asia,Asia_Bahrain
+230,Bahrain,BHR,2010,8.2,Asia,Asia_Bahrain
+231,Bahrain,BHR,2011,7.9,Asia,Asia_Bahrain
+232,Bahrain,BHR,2012,7.4,Asia,Asia_Bahrain
+233,Bahrain,BHR,2013,7.1,Asia,Asia_Bahrain
+234,Bahrain,BHR,2014,7.4,Asia,Asia_Bahrain
+235,Bahrain,BHR,2015,7.4,Asia,Asia_Bahrain
+236,Bahrain,BHR,2016,7.7,Asia,Asia_Bahrain
+237,Bahrain,BHR,2017,8.1,Asia,Asia_Bahrain
+238,Bahrain,BHR,2018,8.6,Asia,Asia_Bahrain
+239,Bahrain,BHR,2019,8.9,Asia,Asia_Bahrain
+240,Bangladesh,BGD,2000,6.0,Asia,Asia_Bangladesh
+241,Bangladesh,BGD,2001,5.7,Asia,Asia_Bangladesh
+242,Bangladesh,BGD,2002,5.3,Asia,Asia_Bangladesh
+243,Bangladesh,BGD,2003,5.1,Asia,Asia_Bangladesh
+244,Bangladesh,BGD,2004,4.9,Asia,Asia_Bangladesh
+245,Bangladesh,BGD,2005,4.9,Asia,Asia_Bangladesh
+246,Bangladesh,BGD,2006,5.0,Asia,Asia_Bangladesh
+247,Bangladesh,BGD,2007,4.9,Asia,Asia_Bangladesh
+248,Bangladesh,BGD,2008,4.7,Asia,Asia_Bangladesh
+249,Bangladesh,BGD,2009,4.6,Asia,Asia_Bangladesh
+250,Bangladesh,BGD,2010,4.4,Asia,Asia_Bangladesh
+251,Bangladesh,BGD,2011,4.0,Asia,Asia_Bangladesh
+252,Bangladesh,BGD,2012,3.7,Asia,Asia_Bangladesh
+253,Bangladesh,BGD,2013,3.5,Asia,Asia_Bangladesh
+254,Bangladesh,BGD,2014,3.5,Asia,Asia_Bangladesh
+255,Bangladesh,BGD,2015,3.4,Asia,Asia_Bangladesh
+256,Bangladesh,BGD,2016,3.4,Asia,Asia_Bangladesh
+257,Bangladesh,BGD,2017,3.5,Asia,Asia_Bangladesh
+258,Bangladesh,BGD,2018,3.6,Asia,Asia_Bangladesh
+259,Bangladesh,BGD,2019,3.7,Asia,Asia_Bangladesh
+260,Barbados,BRB,2000,2.6,North America,North America_Barbados
+261,Barbados,BRB,2001,1.6,North America,North America_Barbados
+262,Barbados,BRB,2002,0.3,North America,North America_Barbados
+263,Barbados,BRB,2003,1.2,North America,North America_Barbados
+264,Barbados,BRB,2004,1.4,North America,North America_Barbados
+265,Barbados,BRB,2005,2.9,North America,North America_Barbados
+266,Barbados,BRB,2006,1.6,North America,North America_Barbados
+267,Barbados,BRB,2007,1.5,North America,North America_Barbados
+268,Barbados,BRB,2008,1.0,North America,North America_Barbados
+269,Barbados,BRB,2009,1.5,North America,North America_Barbados
+270,Barbados,BRB,2010,1.6,North America,North America_Barbados
+271,Barbados,BRB,2011,1.0,North America,North America_Barbados
+272,Barbados,BRB,2012,0.5,North America,North America_Barbados
+273,Barbados,BRB,2013,0.3,North America,North America_Barbados
+274,Barbados,BRB,2014,0.6,North America,North America_Barbados
+275,Barbados,BRB,2015,0.6,North America,North America_Barbados
+276,Barbados,BRB,2016,0.6,North America,North America_Barbados
+277,Barbados,BRB,2017,0.6,North America,North America_Barbados
+278,Barbados,BRB,2018,0.6,North America,North America_Barbados
+279,Barbados,BRB,2019,0.6,North America,North America_Barbados
+280,Belarus,BLR,2000,41.8,Europe,Europe_Belarus
+281,Belarus,BLR,2001,43.3,Europe,Europe_Belarus
+282,Belarus,BLR,2002,44.3,Europe,Europe_Belarus
+283,Belarus,BLR,2003,42.9,Europe,Europe_Belarus
+284,Belarus,BLR,2004,42.1,Europe,Europe_Belarus
+285,Belarus,BLR,2005,43.5,Europe,Europe_Belarus
+286,Belarus,BLR,2006,40.9,Europe,Europe_Belarus
+287,Belarus,BLR,2007,36.8,Europe,Europe_Belarus
+288,Belarus,BLR,2008,36.7,Europe,Europe_Belarus
+289,Belarus,BLR,2009,36.5,Europe,Europe_Belarus
+290,Belarus,BLR,2010,35.9,Europe,Europe_Belarus
+291,Belarus,BLR,2011,36.2,Europe,Europe_Belarus
+292,Belarus,BLR,2012,29.9,Europe,Europe_Belarus
+293,Belarus,BLR,2013,27.9,Europe,Europe_Belarus
+294,Belarus,BLR,2014,26.3,Europe,Europe_Belarus
+295,Belarus,BLR,2015,24.3,Europe,Europe_Belarus
+296,Belarus,BLR,2016,24.2,Europe,Europe_Belarus
+297,Belarus,BLR,2017,23.3,Europe,Europe_Belarus
+298,Belarus,BLR,2018,22.8,Europe,Europe_Belarus
+299,Belarus,BLR,2019,21.2,Europe,Europe_Belarus
+300,Belgium,BEL,2000,22.0,Europe,Europe_Belgium
+301,Belgium,BEL,2001,22.3,Europe,Europe_Belgium
+302,Belgium,BEL,2002,20.9,Europe,Europe_Belgium
+303,Belgium,BEL,2003,21.5,Europe,Europe_Belgium
+304,Belgium,BEL,2004,20.2,Europe,Europe_Belgium
+305,Belgium,BEL,2005,20.7,Europe,Europe_Belgium
+306,Belgium,BEL,2006,20.2,Europe,Europe_Belgium
+307,Belgium,BEL,2007,18.7,Europe,Europe_Belgium
+308,Belgium,BEL,2008,20.3,Europe,Europe_Belgium
+309,Belgium,BEL,2009,20.6,Europe,Europe_Belgium
+310,Belgium,BEL,2010,20.5,Europe,Europe_Belgium
+311,Belgium,BEL,2011,21.1,Europe,Europe_Belgium
+312,Belgium,BEL,2012,20.8,Europe,Europe_Belgium
+313,Belgium,BEL,2013,19.5,Europe,Europe_Belgium
+314,Belgium,BEL,2014,19.4,Europe,Europe_Belgium
+315,Belgium,BEL,2015,18.6,Europe,Europe_Belgium
+316,Belgium,BEL,2016,19.3,Europe,Europe_Belgium
+317,Belgium,BEL,2017,18.9,Europe,Europe_Belgium
+318,Belgium,BEL,2018,18.7,Europe,Europe_Belgium
+319,Belgium,BEL,2019,18.3,Europe,Europe_Belgium
+320,Belize,BLZ,2000,7.4,North America,North America_Belize
+321,Belize,BLZ,2001,6.0,North America,North America_Belize
+322,Belize,BLZ,2002,6.1,North America,North America_Belize
+323,Belize,BLZ,2003,6.3,North America,North America_Belize
+324,Belize,BLZ,2004,6.9,North America,North America_Belize
+325,Belize,BLZ,2005,5.4,North America,North America_Belize
+326,Belize,BLZ,2006,5.6,North America,North America_Belize
+327,Belize,BLZ,2007,5.2,North America,North America_Belize
+328,Belize,BLZ,2008,4.4,North America,North America_Belize
+329,Belize,BLZ,2009,6.2,North America,North America_Belize
+330,Belize,BLZ,2010,6.9,North America,North America_Belize
+331,Belize,BLZ,2011,6.8,North America,North America_Belize
+332,Belize,BLZ,2012,6.3,North America,North America_Belize
+333,Belize,BLZ,2013,5.9,North America,North America_Belize
+334,Belize,BLZ,2014,6.0,North America,North America_Belize
+335,Belize,BLZ,2015,6.0,North America,North America_Belize
+336,Belize,BLZ,2016,5.8,North America,North America_Belize
+337,Belize,BLZ,2017,7.0,North America,North America_Belize
+338,Belize,BLZ,2018,6.5,North America,North America_Belize
+339,Belize,BLZ,2019,7.1,North America,North America_Belize
+340,Benin,BEN,2000,8.8,Africa,Africa_Benin
+341,Benin,BEN,2001,8.8,Africa,Africa_Benin
+342,Benin,BEN,2002,8.8,Africa,Africa_Benin
+343,Benin,BEN,2003,8.8,Africa,Africa_Benin
+344,Benin,BEN,2004,8.8,Africa,Africa_Benin
+345,Benin,BEN,2005,8.7,Africa,Africa_Benin
+346,Benin,BEN,2006,8.6,Africa,Africa_Benin
+347,Benin,BEN,2007,8.5,Africa,Africa_Benin
+348,Benin,BEN,2008,8.2,Africa,Africa_Benin
+349,Benin,BEN,2009,8.5,Africa,Africa_Benin
+350,Benin,BEN,2010,8.4,Africa,Africa_Benin
+351,Benin,BEN,2011,8.5,Africa,Africa_Benin
+352,Benin,BEN,2012,8.3,Africa,Africa_Benin
+353,Benin,BEN,2013,8.3,Africa,Africa_Benin
+354,Benin,BEN,2014,8.2,Africa,Africa_Benin
+355,Benin,BEN,2015,8.1,Africa,Africa_Benin
+356,Benin,BEN,2016,8.0,Africa,Africa_Benin
+357,Benin,BEN,2017,8.0,Africa,Africa_Benin
+358,Benin,BEN,2018,7.9,Africa,Africa_Benin
+359,Benin,BEN,2019,7.8,Africa,Africa_Benin
+360,Bhutan,BTN,2000,4.8,Asia,Asia_Bhutan
+361,Bhutan,BTN,2001,4.9,Asia,Asia_Bhutan
+362,Bhutan,BTN,2002,4.7,Asia,Asia_Bhutan
+363,Bhutan,BTN,2003,4.6,Asia,Asia_Bhutan
+364,Bhutan,BTN,2004,4.5,Asia,Asia_Bhutan
+365,Bhutan,BTN,2005,4.5,Asia,Asia_Bhutan
+366,Bhutan,BTN,2006,4.5,Asia,Asia_Bhutan
+367,Bhutan,BTN,2007,4.4,Asia,Asia_Bhutan
+368,Bhutan,BTN,2008,4.3,Asia,Asia_Bhutan
+369,Bhutan,BTN,2009,4.3,Asia,Asia_Bhutan
+370,Bhutan,BTN,2010,4.2,Asia,Asia_Bhutan
+371,Bhutan,BTN,2011,4.3,Asia,Asia_Bhutan
+372,Bhutan,BTN,2012,4.3,Asia,Asia_Bhutan
+373,Bhutan,BTN,2013,4.4,Asia,Asia_Bhutan
+374,Bhutan,BTN,2014,4.4,Asia,Asia_Bhutan
+375,Bhutan,BTN,2015,4.5,Asia,Asia_Bhutan
+376,Bhutan,BTN,2016,4.5,Asia,Asia_Bhutan
+377,Bhutan,BTN,2017,4.6,Asia,Asia_Bhutan
+378,Bhutan,BTN,2018,4.6,Asia,Asia_Bhutan
+379,Bhutan,BTN,2019,4.6,Asia,Asia_Bhutan
+380,Bolivia,BOL,2000,6.9,South America,South America_Bolivia
+381,Bolivia,BOL,2001,6.6,South America,South America_Bolivia
+382,Bolivia,BOL,2002,6.6,South America,South America_Bolivia
+383,Bolivia,BOL,2003,6.4,South America,South America_Bolivia
+384,Bolivia,BOL,2004,6.3,South America,South America_Bolivia
+385,Bolivia,BOL,2005,6.3,South America,South America_Bolivia
+386,Bolivia,BOL,2006,5.9,South America,South America_Bolivia
+387,Bolivia,BOL,2007,6.1,South America,South America_Bolivia
+388,Bolivia,BOL,2008,6.0,South America,South America_Bolivia
+389,Bolivia,BOL,2009,6.0,South America,South America_Bolivia
+390,Bolivia,BOL,2010,6.0,South America,South America_Bolivia
+391,Bolivia,BOL,2011,6.1,South America,South America_Bolivia
+392,Bolivia,BOL,2012,6.0,South America,South America_Bolivia
+393,Bolivia,BOL,2013,6.0,South America,South America_Bolivia
+394,Bolivia,BOL,2014,6.2,South America,South America_Bolivia
+395,Bolivia,BOL,2015,6.4,South America,South America_Bolivia
+396,Bolivia,BOL,2016,6.6,South America,South America_Bolivia
+397,Bolivia,BOL,2017,6.4,South America,South America_Bolivia
+398,Bolivia,BOL,2018,6.3,South America,South America_Bolivia
+399,Bolivia,BOL,2019,6.2,South America,South America_Bolivia
+400,Bosnia and Herzegovina,BIH,2000,9.0,Europe,Europe_Bosnia and Herzegovina
+401,Bosnia and Herzegovina,BIH,2001,9.4,Europe,Europe_Bosnia and Herzegovina
+402,Bosnia and Herzegovina,BIH,2002,9.8,Europe,Europe_Bosnia and Herzegovina
+403,Bosnia and Herzegovina,BIH,2003,9.9,Europe,Europe_Bosnia and Herzegovina
+404,Bosnia and Herzegovina,BIH,2004,10.0,Europe,Europe_Bosnia and Herzegovina
+405,Bosnia and Herzegovina,BIH,2005,10.8,Europe,Europe_Bosnia and Herzegovina
+406,Bosnia and Herzegovina,BIH,2006,10.7,Europe,Europe_Bosnia and Herzegovina
+407,Bosnia and Herzegovina,BIH,2007,11.5,Europe,Europe_Bosnia and Herzegovina
+408,Bosnia and Herzegovina,BIH,2008,10.8,Europe,Europe_Bosnia and Herzegovina
+409,Bosnia and Herzegovina,BIH,2009,10.7,Europe,Europe_Bosnia and Herzegovina
+410,Bosnia and Herzegovina,BIH,2010,10.5,Europe,Europe_Bosnia and Herzegovina
+411,Bosnia and Herzegovina,BIH,2011,10.6,Europe,Europe_Bosnia and Herzegovina
+412,Bosnia and Herzegovina,BIH,2012,10.4,Europe,Europe_Bosnia and Herzegovina
+413,Bosnia and Herzegovina,BIH,2013,10.6,Europe,Europe_Bosnia and Herzegovina
+414,Bosnia and Herzegovina,BIH,2014,10.6,Europe,Europe_Bosnia and Herzegovina
+415,Bosnia and Herzegovina,BIH,2015,10.7,Europe,Europe_Bosnia and Herzegovina
+416,Bosnia and Herzegovina,BIH,2016,10.5,Europe,Europe_Bosnia and Herzegovina
+417,Bosnia and Herzegovina,BIH,2017,10.5,Europe,Europe_Bosnia and Herzegovina
+418,Bosnia and Herzegovina,BIH,2018,10.8,Europe,Europe_Bosnia and Herzegovina
+419,Bosnia and Herzegovina,BIH,2019,10.9,Europe,Europe_Bosnia and Herzegovina
+420,Botswana,BWA,2000,35.3,Africa,Africa_Botswana
+421,Botswana,BWA,2001,34.5,Africa,Africa_Botswana
+422,Botswana,BWA,2002,32.7,Africa,Africa_Botswana
+423,Botswana,BWA,2003,31.2,Africa,Africa_Botswana
+424,Botswana,BWA,2004,31.8,Africa,Africa_Botswana
+425,Botswana,BWA,2005,34.0,Africa,Africa_Botswana
+426,Botswana,BWA,2006,32.0,Africa,Africa_Botswana
+427,Botswana,BWA,2007,29.3,Africa,Africa_Botswana
+428,Botswana,BWA,2008,28.4,Africa,Africa_Botswana
+429,Botswana,BWA,2009,25.1,Africa,Africa_Botswana
+430,Botswana,BWA,2010,24.4,Africa,Africa_Botswana
+431,Botswana,BWA,2011,22.7,Africa,Africa_Botswana
+432,Botswana,BWA,2012,22.6,Africa,Africa_Botswana
+433,Botswana,BWA,2013,21.6,Africa,Africa_Botswana
+434,Botswana,BWA,2014,19.6,Africa,Africa_Botswana
+435,Botswana,BWA,2015,19.0,Africa,Africa_Botswana
+436,Botswana,BWA,2016,17.8,Africa,Africa_Botswana
+437,Botswana,BWA,2017,17.4,Africa,Africa_Botswana
+438,Botswana,BWA,2018,17.4,Africa,Africa_Botswana
+439,Botswana,BWA,2019,16.1,Africa,Africa_Botswana
+440,Brazil,BRA,2000,4.0,South America,South America_Brazil
+441,Brazil,BRA,2001,4.4,South America,South America_Brazil
+442,Brazil,BRA,2002,4.4,South America,South America_Brazil
+443,Brazil,BRA,2003,4.3,South America,South America_Brazil
+444,Brazil,BRA,2004,4.4,South America,South America_Brazil
+445,Brazil,BRA,2005,4.7,South America,South America_Brazil
+446,Brazil,BRA,2006,4.7,South America,South America_Brazil
+447,Brazil,BRA,2007,4.9,South America,South America_Brazil
+448,Brazil,BRA,2008,5.1,South America,South America_Brazil
+449,Brazil,BRA,2009,5.1,South America,South America_Brazil
+450,Brazil,BRA,2010,5.0,South America,South America_Brazil
+451,Brazil,BRA,2011,5.2,South America,South America_Brazil
+452,Brazil,BRA,2012,5.4,South America,South America_Brazil
+453,Brazil,BRA,2013,5.6,South America,South America_Brazil
+454,Brazil,BRA,2014,5.6,South America,South America_Brazil
+455,Brazil,BRA,2015,5.9,South America,South America_Brazil
+456,Brazil,BRA,2016,6.0,South America,South America_Brazil
+457,Brazil,BRA,2017,6.6,South America,South America_Brazil
+458,Brazil,BRA,2018,7.0,South America,South America_Brazil
+459,Brazil,BRA,2019,6.9,South America,South America_Brazil
+460,Brunei,BRN,2000,1.9,Asia,Asia_Brunei
+461,Brunei,BRN,2001,1.3,Asia,Asia_Brunei
+462,Brunei,BRN,2002,1.6,Asia,Asia_Brunei
+463,Brunei,BRN,2003,1.6,Asia,Asia_Brunei
+464,Brunei,BRN,2004,1.9,Asia,Asia_Brunei
+465,Brunei,BRN,2005,2.2,Asia,Asia_Brunei
+466,Brunei,BRN,2006,2.9,Asia,Asia_Brunei
+467,Brunei,BRN,2007,2.6,Asia,Asia_Brunei
+468,Brunei,BRN,2008,2.1,Asia,Asia_Brunei
+469,Brunei,BRN,2009,1.8,Asia,Asia_Brunei
+470,Brunei,BRN,2010,1.3,Asia,Asia_Brunei
+471,Brunei,BRN,2011,1.9,Asia,Asia_Brunei
+472,Brunei,BRN,2012,2.1,Asia,Asia_Brunei
+473,Brunei,BRN,2013,1.8,Asia,Asia_Brunei
+474,Brunei,BRN,2014,1.8,Asia,Asia_Brunei
+475,Brunei,BRN,2015,1.9,Asia,Asia_Brunei
+476,Brunei,BRN,2016,2.6,Asia,Asia_Brunei
+477,Brunei,BRN,2017,3.3,Asia,Asia_Brunei
+478,Brunei,BRN,2018,3.1,Asia,Asia_Brunei
+479,Brunei,BRN,2019,2.7,Asia,Asia_Brunei
+480,Bulgaria,BGR,2000,18.2,Europe,Europe_Bulgaria
+481,Bulgaria,BGR,2001,17.5,Europe,Europe_Bulgaria
+482,Bulgaria,BGR,2002,17.5,Europe,Europe_Bulgaria
+483,Bulgaria,BGR,2003,15.1,Europe,Europe_Bulgaria
+484,Bulgaria,BGR,2004,14.2,Europe,Europe_Bulgaria
+485,Bulgaria,BGR,2005,13.3,Europe,Europe_Bulgaria
+486,Bulgaria,BGR,2006,13.4,Europe,Europe_Bulgaria
+487,Bulgaria,BGR,2007,12.5,Europe,Europe_Bulgaria
+488,Bulgaria,BGR,2008,13.2,Europe,Europe_Bulgaria
+489,Bulgaria,BGR,2009,12.3,Europe,Europe_Bulgaria
+490,Bulgaria,BGR,2010,12.4,Europe,Europe_Bulgaria
+491,Bulgaria,BGR,2011,11.0,Europe,Europe_Bulgaria
+492,Bulgaria,BGR,2012,12.5,Europe,Europe_Bulgaria
+493,Bulgaria,BGR,2013,10.5,Europe,Europe_Bulgaria
+494,Bulgaria,BGR,2014,10.4,Europe,Europe_Bulgaria
+495,Bulgaria,BGR,2015,9.8,Europe,Europe_Bulgaria
+496,Bulgaria,BGR,2016,9.7,Europe,Europe_Bulgaria
+497,Bulgaria,BGR,2017,10.3,Europe,Europe_Bulgaria
+498,Bulgaria,BGR,2018,9.7,Europe,Europe_Bulgaria
+499,Bulgaria,BGR,2019,9.7,Europe,Europe_Bulgaria
+500,Burundi,BDI,2000,11.7,Africa,Africa_Burundi
+501,Burundi,BDI,2001,10.8,Africa,Africa_Burundi
+502,Burundi,BDI,2002,10.2,Africa,Africa_Burundi
+503,Burundi,BDI,2003,9.7,Africa,Africa_Burundi
+504,Burundi,BDI,2004,9.2,Africa,Africa_Burundi
+505,Burundi,BDI,2005,8.9,Africa,Africa_Burundi
+506,Burundi,BDI,2006,8.9,Africa,Africa_Burundi
+507,Burundi,BDI,2007,8.4,Africa,Africa_Burundi
+508,Burundi,BDI,2008,7.9,Africa,Africa_Burundi
+509,Burundi,BDI,2009,7.7,Africa,Africa_Burundi
+510,Burundi,BDI,2010,7.6,Africa,Africa_Burundi
+511,Burundi,BDI,2011,7.4,Africa,Africa_Burundi
+512,Burundi,BDI,2012,7.1,Africa,Africa_Burundi
+513,Burundi,BDI,2013,7.0,Africa,Africa_Burundi
+514,Burundi,BDI,2014,6.7,Africa,Africa_Burundi
+515,Burundi,BDI,2015,6.4,Africa,Africa_Burundi
+516,Burundi,BDI,2016,6.4,Africa,Africa_Burundi
+517,Burundi,BDI,2017,6.4,Africa,Africa_Burundi
+518,Burundi,BDI,2018,6.3,Africa,Africa_Burundi
+519,Burundi,BDI,2019,6.2,Africa,Africa_Burundi
+520,Cambodia,KHM,2000,5.0,Asia,Asia_Cambodia
+521,Cambodia,KHM,2001,5.1,Asia,Asia_Cambodia
+522,Cambodia,KHM,2002,5.1,Asia,Asia_Cambodia
+523,Cambodia,KHM,2003,5.1,Asia,Asia_Cambodia
+524,Cambodia,KHM,2004,5.3,Asia,Asia_Cambodia
+525,Cambodia,KHM,2005,5.5,Asia,Asia_Cambodia
+526,Cambodia,KHM,2006,5.7,Asia,Asia_Cambodia
+527,Cambodia,KHM,2007,5.7,Asia,Asia_Cambodia
+528,Cambodia,KHM,2008,5.6,Asia,Asia_Cambodia
+529,Cambodia,KHM,2009,5.4,Asia,Asia_Cambodia
+530,Cambodia,KHM,2010,5.4,Asia,Asia_Cambodia
+531,Cambodia,KHM,2011,5.3,Asia,Asia_Cambodia
+532,Cambodia,KHM,2012,5.2,Asia,Asia_Cambodia
+533,Cambodia,KHM,2013,5.2,Asia,Asia_Cambodia
+534,Cambodia,KHM,2014,5.1,Asia,Asia_Cambodia
+535,Cambodia,KHM,2015,5.1,Asia,Asia_Cambodia
+536,Cambodia,KHM,2016,5.1,Asia,Asia_Cambodia
+537,Cambodia,KHM,2017,5.0,Asia,Asia_Cambodia
+538,Cambodia,KHM,2018,4.9,Asia,Asia_Cambodia
+539,Cambodia,KHM,2019,4.9,Asia,Asia_Cambodia
+540,Cameroon,CMR,2000,10.7,Africa,Africa_Cameroon
+541,Cameroon,CMR,2001,10.8,Africa,Africa_Cameroon
+542,Cameroon,CMR,2002,10.6,Africa,Africa_Cameroon
+543,Cameroon,CMR,2003,10.8,Africa,Africa_Cameroon
+544,Cameroon,CMR,2004,10.7,Africa,Africa_Cameroon
+545,Cameroon,CMR,2005,11.4,Africa,Africa_Cameroon
+546,Cameroon,CMR,2006,11.7,Africa,Africa_Cameroon
+547,Cameroon,CMR,2007,11.4,Africa,Africa_Cameroon
+548,Cameroon,CMR,2008,11.2,Africa,Africa_Cameroon
+549,Cameroon,CMR,2009,11.1,Africa,Africa_Cameroon
+550,Cameroon,CMR,2010,10.8,Africa,Africa_Cameroon
+551,Cameroon,CMR,2011,10.8,Africa,Africa_Cameroon
+552,Cameroon,CMR,2012,10.6,Africa,Africa_Cameroon
+553,Cameroon,CMR,2013,10.4,Africa,Africa_Cameroon
+554,Cameroon,CMR,2014,10.0,Africa,Africa_Cameroon
+555,Cameroon,CMR,2015,9.5,Africa,Africa_Cameroon
+556,Cameroon,CMR,2016,9.2,Africa,Africa_Cameroon
+557,Cameroon,CMR,2017,9.0,Africa,Africa_Cameroon
+558,Cameroon,CMR,2018,8.9,Africa,Africa_Cameroon
+559,Cameroon,CMR,2019,9.0,Africa,Africa_Cameroon
+560,Canada,CAN,2000,11.9,North America,North America_Canada
+561,Canada,CAN,2001,12.2,North America,North America_Canada
+562,Canada,CAN,2002,11.9,North America,North America_Canada
+563,Canada,CAN,2003,12.4,North America,North America_Canada
+564,Canada,CAN,2004,11.7,North America,North America_Canada
+565,Canada,CAN,2005,12.2,North America,North America_Canada
+566,Canada,CAN,2006,11.2,North America,North America_Canada
+567,Canada,CAN,2007,11.5,North America,North America_Canada
+568,Canada,CAN,2008,11.5,North America,North America_Canada
+569,Canada,CAN,2009,12.0,North America,North America_Canada
+570,Canada,CAN,2010,12.1,North America,North America_Canada
+571,Canada,CAN,2011,11.3,North America,North America_Canada
+572,Canada,CAN,2012,11.8,North America,North America_Canada
+573,Canada,CAN,2013,12.1,North America,North America_Canada
+574,Canada,CAN,2014,12.7,North America,North America_Canada
+575,Canada,CAN,2015,13.0,North America,North America_Canada
+576,Canada,CAN,2016,11.9,North America,North America_Canada
+577,Canada,CAN,2017,13.0,North America,North America_Canada
+578,Canada,CAN,2018,12.0,North America,North America_Canada
+579,Canada,CAN,2019,11.8,North America,North America_Canada
+580,Cape Verde,CPV,2000,12.0,Africa,Africa_Cape Verde
+581,Cape Verde,CPV,2001,12.1,Africa,Africa_Cape Verde
+582,Cape Verde,CPV,2002,12.3,Africa,Africa_Cape Verde
+583,Cape Verde,CPV,2003,12.4,Africa,Africa_Cape Verde
+584,Cape Verde,CPV,2004,12.8,Africa,Africa_Cape Verde
+585,Cape Verde,CPV,2005,13.2,Africa,Africa_Cape Verde
+586,Cape Verde,CPV,2006,13.1,Africa,Africa_Cape Verde
+587,Cape Verde,CPV,2007,13.5,Africa,Africa_Cape Verde
+588,Cape Verde,CPV,2008,14.0,Africa,Africa_Cape Verde
+589,Cape Verde,CPV,2009,14.4,Africa,Africa_Cape Verde
+590,Cape Verde,CPV,2010,14.8,Africa,Africa_Cape Verde
+591,Cape Verde,CPV,2011,14.8,Africa,Africa_Cape Verde
+592,Cape Verde,CPV,2012,14.9,Africa,Africa_Cape Verde
+593,Cape Verde,CPV,2013,14.6,Africa,Africa_Cape Verde
+594,Cape Verde,CPV,2014,14.4,Africa,Africa_Cape Verde
+595,Cape Verde,CPV,2015,14.4,Africa,Africa_Cape Verde
+596,Cape Verde,CPV,2016,14.4,Africa,Africa_Cape Verde
+597,Cape Verde,CPV,2017,14.2,Africa,Africa_Cape Verde
+598,Cape Verde,CPV,2018,13.4,Africa,Africa_Cape Verde
+599,Cape Verde,CPV,2019,12.9,Africa,Africa_Cape Verde
+600,Central African Republic,CAF,2000,19.0,Africa,Africa_Central African Republic
+601,Central African Republic,CAF,2001,17.7,Africa,Africa_Central African Republic
+602,Central African Republic,CAF,2002,17.4,Africa,Africa_Central African Republic
+603,Central African Republic,CAF,2003,16.4,Africa,Africa_Central African Republic
+604,Central African Republic,CAF,2004,15.7,Africa,Africa_Central African Republic
+605,Central African Republic,CAF,2005,15.1,Africa,Africa_Central African Republic
+606,Central African Republic,CAF,2006,15.7,Africa,Africa_Central African Republic
+607,Central African Republic,CAF,2007,15.4,Africa,Africa_Central African Republic
+608,Central African Republic,CAF,2008,15.1,Africa,Africa_Central African Republic
+609,Central African Republic,CAF,2009,16.0,Africa,Africa_Central African Republic
+610,Central African Republic,CAF,2010,15.8,Africa,Africa_Central African Republic
+611,Central African Republic,CAF,2011,15.4,Africa,Africa_Central African Republic
+612,Central African Republic,CAF,2012,14.7,Africa,Africa_Central African Republic
+613,Central African Republic,CAF,2013,14.9,Africa,Africa_Central African Republic
+614,Central African Republic,CAF,2014,15.6,Africa,Africa_Central African Republic
+615,Central African Republic,CAF,2015,14.4,Africa,Africa_Central African Republic
+616,Central African Republic,CAF,2016,13.7,Africa,Africa_Central African Republic
+617,Central African Republic,CAF,2017,14.3,Africa,Africa_Central African Republic
+618,Central African Republic,CAF,2018,12.8,Africa,Africa_Central African Republic
+619,Central African Republic,CAF,2019,12.3,Africa,Africa_Central African Republic
+620,Chad,TCD,2000,7.8,Africa,Africa_Chad
+621,Chad,TCD,2001,7.8,Africa,Africa_Chad
+622,Chad,TCD,2002,7.7,Africa,Africa_Chad
+623,Chad,TCD,2003,7.8,Africa,Africa_Chad
+624,Chad,TCD,2004,7.5,Africa,Africa_Chad
+625,Chad,TCD,2005,7.5,Africa,Africa_Chad
+626,Chad,TCD,2006,7.5,Africa,Africa_Chad
+627,Chad,TCD,2007,7.7,Africa,Africa_Chad
+628,Chad,TCD,2008,7.5,Africa,Africa_Chad
+629,Chad,TCD,2009,7.6,Africa,Africa_Chad
+630,Chad,TCD,2010,7.7,Africa,Africa_Chad
+631,Chad,TCD,2011,7.7,Africa,Africa_Chad
+632,Chad,TCD,2012,7.6,Africa,Africa_Chad
+633,Chad,TCD,2013,7.4,Africa,Africa_Chad
+634,Chad,TCD,2014,7.1,Africa,Africa_Chad
+635,Chad,TCD,2015,6.8,Africa,Africa_Chad
+636,Chad,TCD,2016,6.7,Africa,Africa_Chad
+637,Chad,TCD,2017,6.7,Africa,Africa_Chad
+638,Chad,TCD,2018,6.6,Africa,Africa_Chad
+639,Chad,TCD,2019,6.4,Africa,Africa_Chad
+640,Chile,CHL,2000,10.3,South America,South America_Chile
+641,Chile,CHL,2001,10.3,South America,South America_Chile
+642,Chile,CHL,2002,9.6,South America,South America_Chile
+643,Chile,CHL,2003,9.7,South America,South America_Chile
+644,Chile,CHL,2004,10.1,South America,South America_Chile
+645,Chile,CHL,2005,9.7,South America,South America_Chile
+646,Chile,CHL,2006,10.0,South America,South America_Chile
+647,Chile,CHL,2007,11.0,South America,South America_Chile
+648,Chile,CHL,2008,12.2,South America,South America_Chile
+649,Chile,CHL,2009,12.7,South America,South America_Chile
+650,Chile,CHL,2010,11.6,South America,South America_Chile
+651,Chile,CHL,2011,11.7,South America,South America_Chile
+652,Chile,CHL,2012,10.5,South America,South America_Chile
+653,Chile,CHL,2013,9.8,South America,South America_Chile
+654,Chile,CHL,2014,9.9,South America,South America_Chile
+655,Chile,CHL,2015,10.0,South America,South America_Chile
+656,Chile,CHL,2016,10.0,South America,South America_Chile
+657,Chile,CHL,2017,9.3,South America,South America_Chile
+658,Chile,CHL,2018,8.8,South America,South America_Chile
+659,Chile,CHL,2019,9.0,South America,South America_Chile
+660,China,CHN,2000,14.3,Asia,Asia_China
+661,China,CHN,2001,12.9,Asia,Asia_China
+662,China,CHN,2002,12.2,Asia,Asia_China
+663,China,CHN,2003,12.8,Asia,Asia_China
+664,China,CHN,2004,13.3,Asia,Asia_China
+665,China,CHN,2005,12.9,Asia,Asia_China
+666,China,CHN,2006,12.1,Asia,Asia_China
+667,China,CHN,2007,11.5,Asia,Asia_China
+668,China,CHN,2008,11.1,Asia,Asia_China
+669,China,CHN,2009,10.7,Asia,Asia_China
+670,China,CHN,2010,10.2,Asia,Asia_China
+671,China,CHN,2011,9.6,Asia,Asia_China
+672,China,CHN,2012,9.0,Asia,Asia_China
+673,China,CHN,2013,8.6,Asia,Asia_China
+674,China,CHN,2014,8.4,Asia,Asia_China
+675,China,CHN,2015,8.1,Asia,Asia_China
+676,China,CHN,2016,8.2,Asia,Asia_China
+677,China,CHN,2017,8.1,Asia,Asia_China
+678,China,CHN,2018,8.1,Asia,Asia_China
+679,China,CHN,2019,8.1,Asia,Asia_China
+680,Colombia,COL,2000,5.0,South America,South America_Colombia
+681,Colombia,COL,2001,4.9,South America,South America_Colombia
+682,Colombia,COL,2002,4.7,South America,South America_Colombia
+683,Colombia,COL,2003,4.6,South America,South America_Colombia
+684,Colombia,COL,2004,4.5,South America,South America_Colombia
+685,Colombia,COL,2005,4.1,South America,South America_Colombia
+686,Colombia,COL,2006,4.1,South America,South America_Colombia
+687,Colombia,COL,2007,4.1,South America,South America_Colombia
+688,Colombia,COL,2008,4.2,South America,South America_Colombia
+689,Colombia,COL,2009,4.1,South America,South America_Colombia
+690,Colombia,COL,2010,3.8,South America,South America_Colombia
+691,Colombia,COL,2011,3.7,South America,South America_Colombia
+692,Colombia,COL,2012,3.8,South America,South America_Colombia
+693,Colombia,COL,2013,3.7,South America,South America_Colombia
+694,Colombia,COL,2014,3.8,South America,South America_Colombia
+695,Colombia,COL,2015,4.1,South America,South America_Colombia
+696,Colombia,COL,2016,4.2,South America,South America_Colombia
+697,Colombia,COL,2017,4.7,South America,South America_Colombia
+698,Colombia,COL,2018,4.0,South America,South America_Colombia
+699,Colombia,COL,2019,3.9,South America,South America_Colombia
+700,Comoros,COM,2000,6.3,Africa,Africa_Comoros
+701,Comoros,COM,2001,6.2,Africa,Africa_Comoros
+702,Comoros,COM,2002,5.9,Africa,Africa_Comoros
+703,Comoros,COM,2003,5.8,Africa,Africa_Comoros
+704,Comoros,COM,2004,5.5,Africa,Africa_Comoros
+705,Comoros,COM,2005,5.4,Africa,Africa_Comoros
+706,Comoros,COM,2006,5.4,Africa,Africa_Comoros
+707,Comoros,COM,2007,5.3,Africa,Africa_Comoros
+708,Comoros,COM,2008,5.4,Africa,Africa_Comoros
+709,Comoros,COM,2009,5.0,Africa,Africa_Comoros
+710,Comoros,COM,2010,5.6,Africa,Africa_Comoros
+711,Comoros,COM,2011,5.1,Africa,Africa_Comoros
+712,Comoros,COM,2012,5.2,Africa,Africa_Comoros
+713,Comoros,COM,2013,5.2,Africa,Africa_Comoros
+714,Comoros,COM,2014,5.5,Africa,Africa_Comoros
+715,Comoros,COM,2015,5.5,Africa,Africa_Comoros
+716,Comoros,COM,2016,5.5,Africa,Africa_Comoros
+717,Comoros,COM,2017,5.4,Africa,Africa_Comoros
+718,Comoros,COM,2018,5.4,Africa,Africa_Comoros
+719,Comoros,COM,2019,5.4,Africa,Africa_Comoros
+720,Congo,COG,2000,14.5,Africa,Africa_Congo
+721,Congo,COG,2001,12.4,Africa,Africa_Congo
+722,Congo,COG,2002,11.0,Africa,Africa_Congo
+723,Congo,COG,2003,10.1,Africa,Africa_Congo
+724,Congo,COG,2004,10.2,Africa,Africa_Congo
+725,Congo,COG,2005,9.7,Africa,Africa_Congo
+726,Congo,COG,2006,9.6,Africa,Africa_Congo
+727,Congo,COG,2007,9.3,Africa,Africa_Congo
+728,Congo,COG,2008,8.9,Africa,Africa_Congo
+729,Congo,COG,2009,9.3,Africa,Africa_Congo
+730,Congo,COG,2010,9.0,Africa,Africa_Congo
+731,Congo,COG,2011,8.7,Africa,Africa_Congo
+732,Congo,COG,2012,8.9,Africa,Africa_Congo
+733,Congo,COG,2013,8.2,Africa,Africa_Congo
+734,Congo,COG,2014,7.5,Africa,Africa_Congo
+735,Congo,COG,2015,6.8,Africa,Africa_Congo
+736,Congo,COG,2016,6.7,Africa,Africa_Congo
+737,Congo,COG,2017,6.6,Africa,Africa_Congo
+738,Congo,COG,2018,6.5,Africa,Africa_Congo
+739,Congo,COG,2019,6.5,Africa,Africa_Congo
+740,Costa Rica,CRI,2000,6.4,North America,North America_Costa Rica
+741,Costa Rica,CRI,2001,5.2,North America,North America_Costa Rica
+742,Costa Rica,CRI,2002,7.0,North America,North America_Costa Rica
+743,Costa Rica,CRI,2003,7.9,North America,North America_Costa Rica
+744,Costa Rica,CRI,2004,8.1,North America,North America_Costa Rica
+745,Costa Rica,CRI,2005,6.6,North America,North America_Costa Rica
+746,Costa Rica,CRI,2006,8.4,North America,North America_Costa Rica
+747,Costa Rica,CRI,2007,5.7,North America,North America_Costa Rica
+748,Costa Rica,CRI,2008,5.5,North America,North America_Costa Rica
+749,Costa Rica,CRI,2009,5.6,North America,North America_Costa Rica
+750,Costa Rica,CRI,2010,6.9,North America,North America_Costa Rica
+751,Costa Rica,CRI,2011,6.9,North America,North America_Costa Rica
+752,Costa Rica,CRI,2012,6.6,North America,North America_Costa Rica
+753,Costa Rica,CRI,2013,6.7,North America,North America_Costa Rica
+754,Costa Rica,CRI,2014,5.6,North America,North America_Costa Rica
+755,Costa Rica,CRI,2015,6.7,North America,North America_Costa Rica
+756,Costa Rica,CRI,2016,7.7,North America,North America_Costa Rica
+757,Costa Rica,CRI,2017,6.1,North America,North America_Costa Rica
+758,Costa Rica,CRI,2018,7.2,North America,North America_Costa Rica
+759,Costa Rica,CRI,2019,8.1,North America,North America_Costa Rica
+760,Croatia,HRV,2000,20.8,Europe,Europe_Croatia
+761,Croatia,HRV,2001,19.7,Europe,Europe_Croatia
+762,Croatia,HRV,2002,19.5,Europe,Europe_Croatia
+763,Croatia,HRV,2003,19.7,Europe,Europe_Croatia
+764,Croatia,HRV,2004,20.2,Europe,Europe_Croatia
+765,Croatia,HRV,2005,20.1,Europe,Europe_Croatia
+766,Croatia,HRV,2006,18.3,Europe,Europe_Croatia
+767,Croatia,HRV,2007,18.1,Europe,Europe_Croatia
+768,Croatia,HRV,2008,18.4,Europe,Europe_Croatia
+769,Croatia,HRV,2009,18.3,Europe,Europe_Croatia
+770,Croatia,HRV,2010,18.3,Europe,Europe_Croatia
+771,Croatia,HRV,2011,16.4,Europe,Europe_Croatia
+772,Croatia,HRV,2012,18.4,Europe,Europe_Croatia
+773,Croatia,HRV,2013,16.5,Europe,Europe_Croatia
+774,Croatia,HRV,2014,17.3,Europe,Europe_Croatia
+775,Croatia,HRV,2015,17.6,Europe,Europe_Croatia
+776,Croatia,HRV,2016,16.4,Europe,Europe_Croatia
+777,Croatia,HRV,2017,15.7,Europe,Europe_Croatia
+778,Croatia,HRV,2018,16.4,Europe,Europe_Croatia
+779,Croatia,HRV,2019,16.4,Europe,Europe_Croatia
+780,Cuba,CUB,2000,17.2,North America,North America_Cuba
+781,Cuba,CUB,2001,15.3,North America,North America_Cuba
+782,Cuba,CUB,2002,14.7,North America,North America_Cuba
+783,Cuba,CUB,2003,13.8,North America,North America_Cuba
+784,Cuba,CUB,2004,13.9,North America,North America_Cuba
+785,Cuba,CUB,2005,12.9,North America,North America_Cuba
+786,Cuba,CUB,2006,12.7,North America,North America_Cuba
+787,Cuba,CUB,2007,12.2,North America,North America_Cuba
+788,Cuba,CUB,2008,12.9,North America,North America_Cuba
+789,Cuba,CUB,2009,13.7,North America,North America_Cuba
+790,Cuba,CUB,2010,14.4,North America,North America_Cuba
+791,Cuba,CUB,2011,14.1,North America,North America_Cuba
+792,Cuba,CUB,2012,13.8,North America,North America_Cuba
+793,Cuba,CUB,2013,13.9,North America,North America_Cuba
+794,Cuba,CUB,2014,13.4,North America,North America_Cuba
+795,Cuba,CUB,2015,14.0,North America,North America_Cuba
+796,Cuba,CUB,2016,13.4,North America,North America_Cuba
+797,Cuba,CUB,2017,14.5,North America,North America_Cuba
+798,Cuba,CUB,2018,14.3,North America,North America_Cuba
+799,Cuba,CUB,2019,14.5,North America,North America_Cuba
+800,Cyprus,CYP,2000,2.0,Europe,Europe_Cyprus
+801,Cyprus,CYP,2001,2.1,Europe,Europe_Cyprus
+802,Cyprus,CYP,2002,2.2,Europe,Europe_Cyprus
+803,Cyprus,CYP,2003,2.2,Europe,Europe_Cyprus
+804,Cyprus,CYP,2004,0.9,Europe,Europe_Cyprus
+805,Cyprus,CYP,2005,2.6,Europe,Europe_Cyprus
+806,Cyprus,CYP,2006,3.5,Europe,Europe_Cyprus
+807,Cyprus,CYP,2007,3.1,Europe,Europe_Cyprus
+808,Cyprus,CYP,2008,6.1,Europe,Europe_Cyprus
+809,Cyprus,CYP,2009,4.5,Europe,Europe_Cyprus
+810,Cyprus,CYP,2010,5.3,Europe,Europe_Cyprus
+811,Cyprus,CYP,2011,4.3,Europe,Europe_Cyprus
+812,Cyprus,CYP,2012,5.4,Europe,Europe_Cyprus
+813,Cyprus,CYP,2013,5.7,Europe,Europe_Cyprus
+814,Cyprus,CYP,2014,5.4,Europe,Europe_Cyprus
+815,Cyprus,CYP,2015,4.7,Europe,Europe_Cyprus
+816,Cyprus,CYP,2016,4.6,Europe,Europe_Cyprus
+817,Cyprus,CYP,2017,3.7,Europe,Europe_Cyprus
+818,Cyprus,CYP,2018,4.2,Europe,Europe_Cyprus
+819,Cyprus,CYP,2019,3.6,Europe,Europe_Cyprus
+820,Denmark,DNK,2000,15.6,Europe,Europe_Denmark
+821,Denmark,DNK,2001,15.8,Europe,Europe_Denmark
+822,Denmark,DNK,2002,14.9,Europe,Europe_Denmark
+823,Denmark,DNK,2003,13.6,Europe,Europe_Denmark
+824,Denmark,DNK,2004,14.2,Europe,Europe_Denmark
+825,Denmark,DNK,2005,14.8,Europe,Europe_Denmark
+826,Denmark,DNK,2006,14.7,Europe,Europe_Denmark
+827,Denmark,DNK,2007,12.6,Europe,Europe_Denmark
+828,Denmark,DNK,2008,13.1,Europe,Europe_Denmark
+829,Denmark,DNK,2009,12.9,Europe,Europe_Denmark
+830,Denmark,DNK,2010,11.8,Europe,Europe_Denmark
+831,Denmark,DNK,2011,12.6,Europe,Europe_Denmark
+832,Denmark,DNK,2012,12.8,Europe,Europe_Denmark
+833,Denmark,DNK,2013,12.1,Europe,Europe_Denmark
+834,Denmark,DNK,2014,12.0,Europe,Europe_Denmark
+835,Denmark,DNK,2015,10.9,Europe,Europe_Denmark
+836,Denmark,DNK,2016,10.9,Europe,Europe_Denmark
+837,Denmark,DNK,2017,11.3,Europe,Europe_Denmark
+838,Denmark,DNK,2018,11.4,Europe,Europe_Denmark
+839,Denmark,DNK,2019,10.7,Europe,Europe_Denmark
+840,Djibouti,DJI,2000,7.2,Africa,Africa_Djibouti
+841,Djibouti,DJI,2001,7.0,Africa,Africa_Djibouti
+842,Djibouti,DJI,2002,7.3,Africa,Africa_Djibouti
+843,Djibouti,DJI,2003,7.4,Africa,Africa_Djibouti
+844,Djibouti,DJI,2004,7.5,Africa,Africa_Djibouti
+845,Djibouti,DJI,2005,7.6,Africa,Africa_Djibouti
+846,Djibouti,DJI,2006,7.5,Africa,Africa_Djibouti
+847,Djibouti,DJI,2007,7.5,Africa,Africa_Djibouti
+848,Djibouti,DJI,2008,7.6,Africa,Africa_Djibouti
+849,Djibouti,DJI,2009,7.8,Africa,Africa_Djibouti
+850,Djibouti,DJI,2010,8.2,Africa,Africa_Djibouti
+851,Djibouti,DJI,2011,8.5,Africa,Africa_Djibouti
+852,Djibouti,DJI,2012,8.7,Africa,Africa_Djibouti
+853,Djibouti,DJI,2013,9.0,Africa,Africa_Djibouti
+854,Djibouti,DJI,2014,9.2,Africa,Africa_Djibouti
+855,Djibouti,DJI,2015,9.0,Africa,Africa_Djibouti
+856,Djibouti,DJI,2016,9.3,Africa,Africa_Djibouti
+857,Djibouti,DJI,2017,9.7,Africa,Africa_Djibouti
+858,Djibouti,DJI,2018,9.7,Africa,Africa_Djibouti
+859,Djibouti,DJI,2019,9.6,Africa,Africa_Djibouti
+860,Dominican Republic,DOM,2000,3.9,North America,North America_Dominican Republic
+861,Dominican Republic,DOM,2001,3.9,North America,North America_Dominican Republic
+862,Dominican Republic,DOM,2002,4.1,North America,North America_Dominican Republic
+863,Dominican Republic,DOM,2003,4.4,North America,North America_Dominican Republic
+864,Dominican Republic,DOM,2004,4.5,North America,North America_Dominican Republic
+865,Dominican Republic,DOM,2005,4.8,North America,North America_Dominican Republic
+866,Dominican Republic,DOM,2006,4.7,North America,North America_Dominican Republic
+867,Dominican Republic,DOM,2007,4.8,North America,North America_Dominican Republic
+868,Dominican Republic,DOM,2008,4.8,North America,North America_Dominican Republic
+869,Dominican Republic,DOM,2009,4.9,North America,North America_Dominican Republic
+870,Dominican Republic,DOM,2010,4.7,North America,North America_Dominican Republic
+871,Dominican Republic,DOM,2011,4.9,North America,North America_Dominican Republic
+872,Dominican Republic,DOM,2012,5.2,North America,North America_Dominican Republic
+873,Dominican Republic,DOM,2013,5.5,North America,North America_Dominican Republic
+874,Dominican Republic,DOM,2014,6.1,North America,North America_Dominican Republic
+875,Dominican Republic,DOM,2015,6.4,North America,North America_Dominican Republic
+876,Dominican Republic,DOM,2016,6.4,North America,North America_Dominican Republic
+877,Dominican Republic,DOM,2017,5.7,North America,North America_Dominican Republic
+878,Dominican Republic,DOM,2018,5.2,North America,North America_Dominican Republic
+879,Dominican Republic,DOM,2019,4.9,North America,North America_Dominican Republic
+880,Ecuador,ECU,2000,6.4,South America,South America_Ecuador
+881,Ecuador,ECU,2001,6.9,South America,South America_Ecuador
+882,Ecuador,ECU,2002,7.9,South America,South America_Ecuador
+883,Ecuador,ECU,2003,8.5,South America,South America_Ecuador
+884,Ecuador,ECU,2004,9.0,South America,South America_Ecuador
+885,Ecuador,ECU,2005,9.9,South America,South America_Ecuador
+886,Ecuador,ECU,2006,10.0,South America,South America_Ecuador
+887,Ecuador,ECU,2007,10.2,South America,South America_Ecuador
+888,Ecuador,ECU,2008,10.5,South America,South America_Ecuador
+889,Ecuador,ECU,2009,10.5,South America,South America_Ecuador
+890,Ecuador,ECU,2010,9.9,South America,South America_Ecuador
+891,Ecuador,ECU,2011,9.8,South America,South America_Ecuador
+892,Ecuador,ECU,2012,10.1,South America,South America_Ecuador
+893,Ecuador,ECU,2013,9.6,South America,South America_Ecuador
+894,Ecuador,ECU,2014,8.8,South America,South America_Ecuador
+895,Ecuador,ECU,2015,8.8,South America,South America_Ecuador
+896,Ecuador,ECU,2016,9.0,South America,South America_Ecuador
+897,Ecuador,ECU,2017,9.2,South America,South America_Ecuador
+898,Ecuador,ECU,2018,8.1,South America,South America_Ecuador
+899,Ecuador,ECU,2019,7.6,South America,South America_Ecuador
+900,Egypt,EGY,2000,3.1,Africa,Africa_Egypt
+901,Egypt,EGY,2001,3.2,Africa,Africa_Egypt
+902,Egypt,EGY,2002,3.2,Africa,Africa_Egypt
+903,Egypt,EGY,2003,3.2,Africa,Africa_Egypt
+904,Egypt,EGY,2004,3.1,Africa,Africa_Egypt
+905,Egypt,EGY,2005,3.1,Africa,Africa_Egypt
+906,Egypt,EGY,2006,3.1,Africa,Africa_Egypt
+907,Egypt,EGY,2007,3.1,Africa,Africa_Egypt
+908,Egypt,EGY,2008,3.1,Africa,Africa_Egypt
+909,Egypt,EGY,2009,3.1,Africa,Africa_Egypt
+910,Egypt,EGY,2010,3.2,Africa,Africa_Egypt
+911,Egypt,EGY,2011,3.3,Africa,Africa_Egypt
+912,Egypt,EGY,2012,3.4,Africa,Africa_Egypt
+913,Egypt,EGY,2013,3.4,Africa,Africa_Egypt
+914,Egypt,EGY,2014,3.3,Africa,Africa_Egypt
+915,Egypt,EGY,2015,3.3,Africa,Africa_Egypt
+916,Egypt,EGY,2016,3.2,Africa,Africa_Egypt
+917,Egypt,EGY,2017,3.0,Africa,Africa_Egypt
+918,Egypt,EGY,2018,3.0,Africa,Africa_Egypt
+919,Egypt,EGY,2019,3.0,Africa,Africa_Egypt
+920,El Salvador,SLV,2000,6.2,North America,North America_El Salvador
+921,El Salvador,SLV,2001,6.8,North America,North America_El Salvador
+922,El Salvador,SLV,2002,5.3,North America,North America_El Salvador
+923,El Salvador,SLV,2003,6.5,North America,North America_El Salvador
+924,El Salvador,SLV,2004,6.8,North America,North America_El Salvador
+925,El Salvador,SLV,2005,7.8,North America,North America_El Salvador
+926,El Salvador,SLV,2006,6.6,North America,North America_El Salvador
+927,El Salvador,SLV,2007,7.9,North America,North America_El Salvador
+928,El Salvador,SLV,2008,6.8,North America,North America_El Salvador
+929,El Salvador,SLV,2009,8.6,North America,North America_El Salvador
+930,El Salvador,SLV,2010,6.1,North America,North America_El Salvador
+931,El Salvador,SLV,2011,8.0,North America,North America_El Salvador
+932,El Salvador,SLV,2012,6.8,North America,North America_El Salvador
+933,El Salvador,SLV,2013,6.4,North America,North America_El Salvador
+934,El Salvador,SLV,2014,5.8,North America,North America_El Salvador
+935,El Salvador,SLV,2015,6.9,North America,North America_El Salvador
+936,El Salvador,SLV,2016,5.7,North America,North America_El Salvador
+937,El Salvador,SLV,2017,6.1,North America,North America_El Salvador
+938,El Salvador,SLV,2018,6.0,North America,North America_El Salvador
+939,El Salvador,SLV,2019,6.1,North America,North America_El Salvador
+940,Equatorial Guinea,GNQ,2000,12.6,Africa,Africa_Equatorial Guinea
+941,Equatorial Guinea,GNQ,2001,11.4,Africa,Africa_Equatorial Guinea
+942,Equatorial Guinea,GNQ,2002,10.1,Africa,Africa_Equatorial Guinea
+943,Equatorial Guinea,GNQ,2003,9.7,Africa,Africa_Equatorial Guinea
+944,Equatorial Guinea,GNQ,2004,9.3,Africa,Africa_Equatorial Guinea
+945,Equatorial Guinea,GNQ,2005,8.9,Africa,Africa_Equatorial Guinea
+946,Equatorial Guinea,GNQ,2006,9.2,Africa,Africa_Equatorial Guinea
+947,Equatorial Guinea,GNQ,2007,9.0,Africa,Africa_Equatorial Guinea
+948,Equatorial Guinea,GNQ,2008,8.8,Africa,Africa_Equatorial Guinea
+949,Equatorial Guinea,GNQ,2009,8.9,Africa,Africa_Equatorial Guinea
+950,Equatorial Guinea,GNQ,2010,10.0,Africa,Africa_Equatorial Guinea
+951,Equatorial Guinea,GNQ,2011,11.2,Africa,Africa_Equatorial Guinea
+952,Equatorial Guinea,GNQ,2012,10.0,Africa,Africa_Equatorial Guinea
+953,Equatorial Guinea,GNQ,2013,8.4,Africa,Africa_Equatorial Guinea
+954,Equatorial Guinea,GNQ,2014,8.8,Africa,Africa_Equatorial Guinea
+955,Equatorial Guinea,GNQ,2015,9.8,Africa,Africa_Equatorial Guinea
+956,Equatorial Guinea,GNQ,2016,9.3,Africa,Africa_Equatorial Guinea
+957,Equatorial Guinea,GNQ,2017,7.8,Africa,Africa_Equatorial Guinea
+958,Equatorial Guinea,GNQ,2018,8.3,Africa,Africa_Equatorial Guinea
+959,Equatorial Guinea,GNQ,2019,7.9,Africa,Africa_Equatorial Guinea
+960,Eritrea,ERI,2000,14.5,Africa,Africa_Eritrea
+961,Eritrea,ERI,2001,14.0,Africa,Africa_Eritrea
+962,Eritrea,ERI,2002,13.7,Africa,Africa_Eritrea
+963,Eritrea,ERI,2003,12.8,Africa,Africa_Eritrea
+964,Eritrea,ERI,2004,13.0,Africa,Africa_Eritrea
+965,Eritrea,ERI,2005,13.1,Africa,Africa_Eritrea
+966,Eritrea,ERI,2006,13.2,Africa,Africa_Eritrea
+967,Eritrea,ERI,2007,12.9,Africa,Africa_Eritrea
+968,Eritrea,ERI,2008,13.3,Africa,Africa_Eritrea
+969,Eritrea,ERI,2009,13.0,Africa,Africa_Eritrea
+970,Eritrea,ERI,2010,12.7,Africa,Africa_Eritrea
+971,Eritrea,ERI,2011,12.5,Africa,Africa_Eritrea
+972,Eritrea,ERI,2012,12.3,Africa,Africa_Eritrea
+973,Eritrea,ERI,2013,12.0,Africa,Africa_Eritrea
+974,Eritrea,ERI,2014,11.7,Africa,Africa_Eritrea
+975,Eritrea,ERI,2015,11.6,Africa,Africa_Eritrea
+976,Eritrea,ERI,2016,11.5,Africa,Africa_Eritrea
+977,Eritrea,ERI,2017,11.3,Africa,Africa_Eritrea
+978,Eritrea,ERI,2018,11.3,Africa,Africa_Eritrea
+979,Eritrea,ERI,2019,10.9,Africa,Africa_Eritrea
+980,Estonia,EST,2000,29.1,Europe,Europe_Estonia
+981,Estonia,EST,2001,30.3,Europe,Europe_Estonia
+982,Estonia,EST,2002,29.3,Europe,Europe_Estonia
+983,Estonia,EST,2003,26.3,Europe,Europe_Estonia
+984,Estonia,EST,2004,26.5,Europe,Europe_Estonia
+985,Estonia,EST,2005,22.6,Europe,Europe_Estonia
+986,Estonia,EST,2006,20.9,Europe,Europe_Estonia
+987,Estonia,EST,2007,21.4,Europe,Europe_Estonia
+988,Estonia,EST,2008,19.4,Europe,Europe_Estonia
+989,Estonia,EST,2009,23.3,Europe,Europe_Estonia
+990,Estonia,EST,2010,18.8,Europe,Europe_Estonia
+991,Estonia,EST,2011,18.2,Europe,Europe_Estonia
+992,Estonia,EST,2012,21.1,Europe,Europe_Estonia
+993,Estonia,EST,2013,18.9,Europe,Europe_Estonia
+994,Estonia,EST,2014,19.5,Europe,Europe_Estonia
+995,Estonia,EST,2015,15.9,Europe,Europe_Estonia
+996,Estonia,EST,2016,15.7,Europe,Europe_Estonia
+997,Estonia,EST,2017,18.7,Europe,Europe_Estonia
+998,Estonia,EST,2018,15.3,Europe,Europe_Estonia
+999,Estonia,EST,2019,14.9,Europe,Europe_Estonia
+1000,Ethiopia,ETH,2000,9.7,Africa,Africa_Ethiopia
+1001,Ethiopia,ETH,2001,9.3,Africa,Africa_Ethiopia
+1002,Ethiopia,ETH,2002,8.9,Africa,Africa_Ethiopia
+1003,Ethiopia,ETH,2003,8.6,Africa,Africa_Ethiopia
+1004,Ethiopia,ETH,2004,8.3,Africa,Africa_Ethiopia
+1005,Ethiopia,ETH,2005,8.1,Africa,Africa_Ethiopia
+1006,Ethiopia,ETH,2006,7.8,Africa,Africa_Ethiopia
+1007,Ethiopia,ETH,2007,7.7,Africa,Africa_Ethiopia
+1008,Ethiopia,ETH,2008,7.6,Africa,Africa_Ethiopia
+1009,Ethiopia,ETH,2009,7.4,Africa,Africa_Ethiopia
+1010,Ethiopia,ETH,2010,7.1,Africa,Africa_Ethiopia
+1011,Ethiopia,ETH,2011,6.7,Africa,Africa_Ethiopia
+1012,Ethiopia,ETH,2012,6.1,Africa,Africa_Ethiopia
+1013,Ethiopia,ETH,2013,5.7,Africa,Africa_Ethiopia
+1014,Ethiopia,ETH,2014,5.5,Africa,Africa_Ethiopia
+1015,Ethiopia,ETH,2015,5.5,Africa,Africa_Ethiopia
+1016,Ethiopia,ETH,2016,5.5,Africa,Africa_Ethiopia
+1017,Ethiopia,ETH,2017,5.4,Africa,Africa_Ethiopia
+1018,Ethiopia,ETH,2018,5.4,Africa,Africa_Ethiopia
+1019,Ethiopia,ETH,2019,5.4,Africa,Africa_Ethiopia
+1020,Fiji,FJI,2000,10.6,Oceania,Oceania_Fiji
+1021,Fiji,FJI,2001,10.4,Oceania,Oceania_Fiji
+1022,Fiji,FJI,2002,10.1,Oceania,Oceania_Fiji
+1023,Fiji,FJI,2003,9.7,Oceania,Oceania_Fiji
+1024,Fiji,FJI,2004,9.4,Oceania,Oceania_Fiji
+1025,Fiji,FJI,2005,9.5,Oceania,Oceania_Fiji
+1026,Fiji,FJI,2006,9.2,Oceania,Oceania_Fiji
+1027,Fiji,FJI,2007,9.4,Oceania,Oceania_Fiji
+1028,Fiji,FJI,2008,9.6,Oceania,Oceania_Fiji
+1029,Fiji,FJI,2009,9.7,Oceania,Oceania_Fiji
+1030,Fiji,FJI,2010,9.6,Oceania,Oceania_Fiji
+1031,Fiji,FJI,2011,9.8,Oceania,Oceania_Fiji
+1032,Fiji,FJI,2012,10.0,Oceania,Oceania_Fiji
+1033,Fiji,FJI,2013,10.0,Oceania,Oceania_Fiji
+1034,Fiji,FJI,2014,9.7,Oceania,Oceania_Fiji
+1035,Fiji,FJI,2015,9.4,Oceania,Oceania_Fiji
+1036,Fiji,FJI,2016,9.4,Oceania,Oceania_Fiji
+1037,Fiji,FJI,2017,9.3,Oceania,Oceania_Fiji
+1038,Fiji,FJI,2018,9.1,Oceania,Oceania_Fiji
+1039,Fiji,FJI,2019,9.0,Oceania,Oceania_Fiji
+1040,Finland,FIN,2000,24.3,Europe,Europe_Finland
+1041,Finland,FIN,2001,24.1,Europe,Europe_Finland
+1042,Finland,FIN,2002,22.0,Europe,Europe_Finland
+1043,Finland,FIN,2003,21.7,Europe,Europe_Finland
+1044,Finland,FIN,2004,21.2,Europe,Europe_Finland
+1045,Finland,FIN,2005,19.9,Europe,Europe_Finland
+1046,Finland,FIN,2006,21.0,Europe,Europe_Finland
+1047,Finland,FIN,2007,19.7,Europe,Europe_Finland
+1048,Finland,FIN,2008,20.6,Europe,Europe_Finland
+1049,Finland,FIN,2009,20.4,Europe,Europe_Finland
+1050,Finland,FIN,2010,18.6,Europe,Europe_Finland
+1051,Finland,FIN,2011,17.9,Europe,Europe_Finland
+1052,Finland,FIN,2012,17.0,Europe,Europe_Finland
+1053,Finland,FIN,2013,17.2,Europe,Europe_Finland
+1054,Finland,FIN,2014,15.4,Europe,Europe_Finland
+1055,Finland,FIN,2015,14.0,Europe,Europe_Finland
+1056,Finland,FIN,2016,15.2,Europe,Europe_Finland
+1057,Finland,FIN,2017,15.9,Europe,Europe_Finland
+1058,Finland,FIN,2018,16.2,Europe,Europe_Finland
+1059,Finland,FIN,2019,15.3,Europe,Europe_Finland
+1060,France,FRA,2000,20.2,Europe,Europe_France
+1061,France,FRA,2001,19.5,Europe,Europe_France
+1062,France,FRA,2002,19.8,Europe,Europe_France
+1063,France,FRA,2003,20.1,Europe,Europe_France
+1064,France,FRA,2004,19.5,Europe,Europe_France
+1065,France,FRA,2005,19.1,Europe,Europe_France
+1066,France,FRA,2006,18.5,Europe,Europe_France
+1067,France,FRA,2007,17.9,Europe,Europe_France
+1068,France,FRA,2008,18.2,Europe,Europe_France
+1069,France,FRA,2009,18.4,Europe,Europe_France
+1070,France,FRA,2010,18.2,Europe,Europe_France
+1071,France,FRA,2011,18.0,Europe,Europe_France
+1072,France,FRA,2012,17.8,Europe,Europe_France
+1073,France,FRA,2013,17.0,Europe,Europe_France
+1074,France,FRA,2014,15.6,Europe,Europe_France
+1075,France,FRA,2015,15.8,Europe,Europe_France
+1076,France,FRA,2016,14.9,Europe,Europe_France
+1077,France,FRA,2017,14.6,Europe,Europe_France
+1078,France,FRA,2018,14.2,Europe,Europe_France
+1079,France,FRA,2019,13.8,Europe,Europe_France
+1080,Gabon,GAB,2000,13.0,Africa,Africa_Gabon
+1081,Gabon,GAB,2001,12.2,Africa,Africa_Gabon
+1082,Gabon,GAB,2002,11.2,Africa,Africa_Gabon
+1083,Gabon,GAB,2003,11.0,Africa,Africa_Gabon
+1084,Gabon,GAB,2004,10.1,Africa,Africa_Gabon
+1085,Gabon,GAB,2005,10.2,Africa,Africa_Gabon
+1086,Gabon,GAB,2006,10.6,Africa,Africa_Gabon
+1087,Gabon,GAB,2007,10.4,Africa,Africa_Gabon
+1088,Gabon,GAB,2008,11.3,Africa,Africa_Gabon
+1089,Gabon,GAB,2009,10.2,Africa,Africa_Gabon
+1090,Gabon,GAB,2010,10.1,Africa,Africa_Gabon
+1091,Gabon,GAB,2011,10.0,Africa,Africa_Gabon
+1092,Gabon,GAB,2012,8.9,Africa,Africa_Gabon
+1093,Gabon,GAB,2013,8.6,Africa,Africa_Gabon
+1094,Gabon,GAB,2014,9.8,Africa,Africa_Gabon
+1095,Gabon,GAB,2015,9.6,Africa,Africa_Gabon
+1096,Gabon,GAB,2016,9.2,Africa,Africa_Gabon
+1097,Gabon,GAB,2017,8.8,Africa,Africa_Gabon
+1098,Gabon,GAB,2018,8.6,Africa,Africa_Gabon
+1099,Gabon,GAB,2019,8.4,Africa,Africa_Gabon
+1100,Gambia,GMB,2000,5.6,Africa,Africa_Gambia
+1101,Gambia,GMB,2001,5.7,Africa,Africa_Gambia
+1102,Gambia,GMB,2002,5.8,Africa,Africa_Gambia
+1103,Gambia,GMB,2003,5.8,Africa,Africa_Gambia
+1104,Gambia,GMB,2004,5.9,Africa,Africa_Gambia
+1105,Gambia,GMB,2005,5.8,Africa,Africa_Gambia
+1106,Gambia,GMB,2006,5.7,Africa,Africa_Gambia
+1107,Gambia,GMB,2007,5.7,Africa,Africa_Gambia
+1108,Gambia,GMB,2008,5.6,Africa,Africa_Gambia
+1109,Gambia,GMB,2009,5.5,Africa,Africa_Gambia
+1110,Gambia,GMB,2010,5.3,Africa,Africa_Gambia
+1111,Gambia,GMB,2011,5.4,Africa,Africa_Gambia
+1112,Gambia,GMB,2012,5.3,Africa,Africa_Gambia
+1113,Gambia,GMB,2013,5.3,Africa,Africa_Gambia
+1114,Gambia,GMB,2014,5.3,Africa,Africa_Gambia
+1115,Gambia,GMB,2015,5.1,Africa,Africa_Gambia
+1116,Gambia,GMB,2016,4.9,Africa,Africa_Gambia
+1117,Gambia,GMB,2017,4.9,Africa,Africa_Gambia
+1118,Gambia,GMB,2018,4.8,Africa,Africa_Gambia
+1119,Gambia,GMB,2019,4.8,Africa,Africa_Gambia
+1120,Georgia,GEO,2000,7.4,Europe,Europe_Georgia
+1121,Georgia,GEO,2001,6.9,Europe,Europe_Georgia
+1122,Georgia,GEO,2002,8.2,Europe,Europe_Georgia
+1123,Georgia,GEO,2003,6.6,Europe,Europe_Georgia
+1124,Georgia,GEO,2004,7.4,Europe,Europe_Georgia
+1125,Georgia,GEO,2005,6.2,Europe,Europe_Georgia
+1126,Georgia,GEO,2006,6.2,Europe,Europe_Georgia
+1127,Georgia,GEO,2007,6.1,Europe,Europe_Georgia
+1128,Georgia,GEO,2008,7.5,Europe,Europe_Georgia
+1129,Georgia,GEO,2009,8.5,Europe,Europe_Georgia
+1130,Georgia,GEO,2010,8.3,Europe,Europe_Georgia
+1131,Georgia,GEO,2011,8.7,Europe,Europe_Georgia
+1132,Georgia,GEO,2012,9.2,Europe,Europe_Georgia
+1133,Georgia,GEO,2013,9.8,Europe,Europe_Georgia
+1134,Georgia,GEO,2014,10.3,Europe,Europe_Georgia
+1135,Georgia,GEO,2015,10.5,Europe,Europe_Georgia
+1136,Georgia,GEO,2016,10.7,Europe,Europe_Georgia
+1137,Georgia,GEO,2017,9.6,Europe,Europe_Georgia
+1138,Georgia,GEO,2018,9.4,Europe,Europe_Georgia
+1139,Georgia,GEO,2019,9.2,Europe,Europe_Georgia
+1140,Germany,DEU,2000,14.5,Europe,Europe_Germany
+1141,Germany,DEU,2001,14.5,Europe,Europe_Germany
+1142,Germany,DEU,2002,14.6,Europe,Europe_Germany
+1143,Germany,DEU,2003,14.4,Europe,Europe_Germany
+1144,Germany,DEU,2004,14.0,Europe,Europe_Germany
+1145,Germany,DEU,2005,13.3,Europe,Europe_Germany
+1146,Germany,DEU,2006,12.8,Europe,Europe_Germany
+1147,Germany,DEU,2007,12.4,Europe,Europe_Germany
+1148,Germany,DEU,2008,12.5,Europe,Europe_Germany
+1149,Germany,DEU,2009,12.8,Europe,Europe_Germany
+1150,Germany,DEU,2010,13.2,Europe,Europe_Germany
+1151,Germany,DEU,2011,13.2,Europe,Europe_Germany
+1152,Germany,DEU,2012,12.9,Europe,Europe_Germany
+1153,Germany,DEU,2013,13.4,Europe,Europe_Germany
+1154,Germany,DEU,2014,13.4,Europe,Europe_Germany
+1155,Germany,DEU,2015,13.3,Europe,Europe_Germany
+1156,Germany,DEU,2016,13.0,Europe,Europe_Germany
+1157,Germany,DEU,2017,12.6,Europe,Europe_Germany
+1158,Germany,DEU,2018,12.9,Europe,Europe_Germany
+1159,Germany,DEU,2019,12.3,Europe,Europe_Germany
+1160,Ghana,GHA,2000,5.4,Africa,Africa_Ghana
+1161,Ghana,GHA,2001,5.8,Africa,Africa_Ghana
+1162,Ghana,GHA,2002,6.1,Africa,Africa_Ghana
+1163,Ghana,GHA,2003,6.4,Africa,Africa_Ghana
+1164,Ghana,GHA,2004,6.6,Africa,Africa_Ghana
+1165,Ghana,GHA,2005,6.9,Africa,Africa_Ghana
+1166,Ghana,GHA,2006,7.0,Africa,Africa_Ghana
+1167,Ghana,GHA,2007,7.2,Africa,Africa_Ghana
+1168,Ghana,GHA,2008,7.5,Africa,Africa_Ghana
+1169,Ghana,GHA,2009,7.6,Africa,Africa_Ghana
+1170,Ghana,GHA,2010,7.8,Africa,Africa_Ghana
+1171,Ghana,GHA,2011,7.8,Africa,Africa_Ghana
+1172,Ghana,GHA,2012,7.8,Africa,Africa_Ghana
+1173,Ghana,GHA,2013,7.7,Africa,Africa_Ghana
+1174,Ghana,GHA,2014,7.5,Africa,Africa_Ghana
+1175,Ghana,GHA,2015,7.3,Africa,Africa_Ghana
+1176,Ghana,GHA,2016,7.2,Africa,Africa_Ghana
+1177,Ghana,GHA,2017,7.0,Africa,Africa_Ghana
+1178,Ghana,GHA,2018,6.6,Africa,Africa_Ghana
+1179,Ghana,GHA,2019,6.6,Africa,Africa_Ghana
+1180,Greece,GRC,2000,3.5,Europe,Europe_Greece
+1181,Greece,GRC,2001,3.1,Europe,Europe_Greece
+1182,Greece,GRC,2002,2.9,Europe,Europe_Greece
+1183,Greece,GRC,2003,3.3,Europe,Europe_Greece
+1184,Greece,GRC,2004,3.1,Europe,Europe_Greece
+1185,Greece,GRC,2005,3.7,Europe,Europe_Greece
+1186,Greece,GRC,2006,3.7,Europe,Europe_Greece
+1187,Greece,GRC,2007,3.0,Europe,Europe_Greece
+1188,Greece,GRC,2008,3.4,Europe,Europe_Greece
+1189,Greece,GRC,2009,3.6,Europe,Europe_Greece
+1190,Greece,GRC,2010,3.5,Europe,Europe_Greece
+1191,Greece,GRC,2011,4.4,Europe,Europe_Greece
+1192,Greece,GRC,2012,4.8,Europe,Europe_Greece
+1193,Greece,GRC,2013,5.0,Europe,Europe_Greece
+1194,Greece,GRC,2014,5.3,Europe,Europe_Greece
+1195,Greece,GRC,2015,5.0,Europe,Europe_Greece
+1196,Greece,GRC,2016,4.7,Europe,Europe_Greece
+1197,Greece,GRC,2017,5.1,Europe,Europe_Greece
+1198,Greece,GRC,2018,5.1,Europe,Europe_Greece
+1199,Greece,GRC,2019,5.1,Europe,Europe_Greece
+1200,Grenada,GRD,2000,1.9,North America,North America_Grenada
+1201,Grenada,GRD,2001,0.4,North America,North America_Grenada
+1202,Grenada,GRD,2002,3.2,North America,North America_Grenada
+1203,Grenada,GRD,2003,2.4,North America,North America_Grenada
+1204,Grenada,GRD,2004,4.6,North America,North America_Grenada
+1205,Grenada,GRD,2005,3.1,North America,North America_Grenada
+1206,Grenada,GRD,2006,5.1,North America,North America_Grenada
+1207,Grenada,GRD,2007,2.0,North America,North America_Grenada
+1208,Grenada,GRD,2008,2.4,North America,North America_Grenada
+1209,Grenada,GRD,2009,0.7,North America,North America_Grenada
+1210,Grenada,GRD,2010,0.9,North America,North America_Grenada
+1211,Grenada,GRD,2011,1.7,North America,North America_Grenada
+1212,Grenada,GRD,2012,1.7,North America,North America_Grenada
+1213,Grenada,GRD,2013,1.2,North America,North America_Grenada
+1214,Grenada,GRD,2014,0.6,North America,North America_Grenada
+1215,Grenada,GRD,2015,0.7,North America,North America_Grenada
+1216,Grenada,GRD,2016,1.0,North America,North America_Grenada
+1217,Grenada,GRD,2017,0.6,North America,North America_Grenada
+1218,Grenada,GRD,2018,0.3,North America,North America_Grenada
+1219,Grenada,GRD,2019,0.7,North America,North America_Grenada
+1220,Guatemala,GTM,2000,10.2,North America,North America_Guatemala
+1221,Guatemala,GTM,2001,10.7,North America,North America_Guatemala
+1222,Guatemala,GTM,2002,10.5,North America,North America_Guatemala
+1223,Guatemala,GTM,2003,10.8,North America,North America_Guatemala
+1224,Guatemala,GTM,2004,11.0,North America,North America_Guatemala
+1225,Guatemala,GTM,2005,11.4,North America,North America_Guatemala
+1226,Guatemala,GTM,2006,10.7,North America,North America_Guatemala
+1227,Guatemala,GTM,2007,8.3,North America,North America_Guatemala
+1228,Guatemala,GTM,2008,8.0,North America,North America_Guatemala
+1229,Guatemala,GTM,2009,7.9,North America,North America_Guatemala
+1230,Guatemala,GTM,2010,7.3,North America,North America_Guatemala
+1231,Guatemala,GTM,2011,6.6,North America,North America_Guatemala
+1232,Guatemala,GTM,2012,6.1,North America,North America_Guatemala
+1233,Guatemala,GTM,2013,5.9,North America,North America_Guatemala
+1234,Guatemala,GTM,2014,5.8,North America,North America_Guatemala
+1235,Guatemala,GTM,2015,5.8,North America,North America_Guatemala
+1236,Guatemala,GTM,2016,5.7,North America,North America_Guatemala
+1237,Guatemala,GTM,2017,5.6,North America,North America_Guatemala
+1238,Guatemala,GTM,2018,6.0,North America,North America_Guatemala
+1239,Guatemala,GTM,2019,5.9,North America,North America_Guatemala
+1240,Guinea,GIN,2000,5.4,Africa,Africa_Guinea
+1241,Guinea,GIN,2001,5.4,Africa,Africa_Guinea
+1242,Guinea,GIN,2002,5.6,Africa,Africa_Guinea
+1243,Guinea,GIN,2003,5.6,Africa,Africa_Guinea
+1244,Guinea,GIN,2004,5.7,Africa,Africa_Guinea
+1245,Guinea,GIN,2005,5.6,Africa,Africa_Guinea
+1246,Guinea,GIN,2006,6.0,Africa,Africa_Guinea
+1247,Guinea,GIN,2007,6.3,Africa,Africa_Guinea
+1248,Guinea,GIN,2008,6.3,Africa,Africa_Guinea
+1249,Guinea,GIN,2009,6.4,Africa,Africa_Guinea
+1250,Guinea,GIN,2010,6.8,Africa,Africa_Guinea
+1251,Guinea,GIN,2011,7.0,Africa,Africa_Guinea
+1252,Guinea,GIN,2012,7.1,Africa,Africa_Guinea
+1253,Guinea,GIN,2013,7.3,Africa,Africa_Guinea
+1254,Guinea,GIN,2014,7.1,Africa,Africa_Guinea
+1255,Guinea,GIN,2015,7.2,Africa,Africa_Guinea
+1256,Guinea,GIN,2016,7.1,Africa,Africa_Guinea
+1257,Guinea,GIN,2017,7.0,Africa,Africa_Guinea
+1258,Guinea,GIN,2018,6.9,Africa,Africa_Guinea
+1259,Guinea,GIN,2019,7.0,Africa,Africa_Guinea
+1260,Guinea-Bissau,GNB,2000,9.5,Africa,Africa_Guinea-Bissau
+1261,Guinea-Bissau,GNB,2001,9.3,Africa,Africa_Guinea-Bissau
+1262,Guinea-Bissau,GNB,2002,9.1,Africa,Africa_Guinea-Bissau
+1263,Guinea-Bissau,GNB,2003,8.8,Africa,Africa_Guinea-Bissau
+1264,Guinea-Bissau,GNB,2004,8.8,Africa,Africa_Guinea-Bissau
+1265,Guinea-Bissau,GNB,2005,8.4,Africa,Africa_Guinea-Bissau
+1266,Guinea-Bissau,GNB,2006,8.4,Africa,Africa_Guinea-Bissau
+1267,Guinea-Bissau,GNB,2007,8.4,Africa,Africa_Guinea-Bissau
+1268,Guinea-Bissau,GNB,2008,8.4,Africa,Africa_Guinea-Bissau
+1269,Guinea-Bissau,GNB,2009,8.5,Africa,Africa_Guinea-Bissau
+1270,Guinea-Bissau,GNB,2010,8.4,Africa,Africa_Guinea-Bissau
+1271,Guinea-Bissau,GNB,2011,8.2,Africa,Africa_Guinea-Bissau
+1272,Guinea-Bissau,GNB,2012,8.0,Africa,Africa_Guinea-Bissau
+1273,Guinea-Bissau,GNB,2013,8.1,Africa,Africa_Guinea-Bissau
+1274,Guinea-Bissau,GNB,2014,7.8,Africa,Africa_Guinea-Bissau
+1275,Guinea-Bissau,GNB,2015,7.3,Africa,Africa_Guinea-Bissau
+1276,Guinea-Bissau,GNB,2016,7.3,Africa,Africa_Guinea-Bissau
+1277,Guinea-Bissau,GNB,2017,7.3,Africa,Africa_Guinea-Bissau
+1278,Guinea-Bissau,GNB,2018,7.2,Africa,Africa_Guinea-Bissau
+1279,Guinea-Bissau,GNB,2019,7.0,Africa,Africa_Guinea-Bissau
+1280,Guyana,GUY,2000,31.4,South America,South America_Guyana
+1281,Guyana,GUY,2001,34.7,South America,South America_Guyana
+1282,Guyana,GUY,2002,34.5,South America,South America_Guyana
+1283,Guyana,GUY,2003,33.2,South America,South America_Guyana
+1284,Guyana,GUY,2004,32.5,South America,South America_Guyana
+1285,Guyana,GUY,2005,30.9,South America,South America_Guyana
+1286,Guyana,GUY,2006,30.7,South America,South America_Guyana
+1287,Guyana,GUY,2007,30.9,South America,South America_Guyana
+1288,Guyana,GUY,2008,30.0,South America,South America_Guyana
+1289,Guyana,GUY,2009,32.9,South America,South America_Guyana
+1290,Guyana,GUY,2010,33.3,South America,South America_Guyana
+1291,Guyana,GUY,2011,32.6,South America,South America_Guyana
+1292,Guyana,GUY,2012,35.0,South America,South America_Guyana
+1293,Guyana,GUY,2013,38.2,South America,South America_Guyana
+1294,Guyana,GUY,2014,37.2,South America,South America_Guyana
+1295,Guyana,GUY,2015,37.3,South America,South America_Guyana
+1296,Guyana,GUY,2016,37.9,South America,South America_Guyana
+1297,Guyana,GUY,2017,38.5,South America,South America_Guyana
+1298,Guyana,GUY,2018,39.5,South America,South America_Guyana
+1299,Guyana,GUY,2019,40.3,South America,South America_Guyana
+1300,Haiti,HTI,2000,9.7,North America,North America_Haiti
+1301,Haiti,HTI,2001,9.5,North America,North America_Haiti
+1302,Haiti,HTI,2002,9.3,North America,North America_Haiti
+1303,Haiti,HTI,2003,9.3,North America,North America_Haiti
+1304,Haiti,HTI,2004,9.0,North America,North America_Haiti
+1305,Haiti,HTI,2005,9.4,North America,North America_Haiti
+1306,Haiti,HTI,2006,9.6,North America,North America_Haiti
+1307,Haiti,HTI,2007,10.0,North America,North America_Haiti
+1308,Haiti,HTI,2008,10.1,North America,North America_Haiti
+1309,Haiti,HTI,2009,10.3,North America,North America_Haiti
+1310,Haiti,HTI,2010,10.9,North America,North America_Haiti
+1311,Haiti,HTI,2011,10.1,North America,North America_Haiti
+1312,Haiti,HTI,2012,10.0,North America,North America_Haiti
+1313,Haiti,HTI,2013,9.9,North America,North America_Haiti
+1314,Haiti,HTI,2014,10.0,North America,North America_Haiti
+1315,Haiti,HTI,2015,10.0,North America,North America_Haiti
+1316,Haiti,HTI,2016,9.8,North America,North America_Haiti
+1317,Haiti,HTI,2017,9.7,North America,North America_Haiti
+1318,Haiti,HTI,2018,9.7,North America,North America_Haiti
+1319,Haiti,HTI,2019,9.6,North America,North America_Haiti
+1320,Honduras,HND,2000,2.1,North America,North America_Honduras
+1321,Honduras,HND,2001,2.1,North America,North America_Honduras
+1322,Honduras,HND,2002,2.1,North America,North America_Honduras
+1323,Honduras,HND,2003,2.2,North America,North America_Honduras
+1324,Honduras,HND,2004,2.1,North America,North America_Honduras
+1325,Honduras,HND,2005,2.2,North America,North America_Honduras
+1326,Honduras,HND,2006,2.2,North America,North America_Honduras
+1327,Honduras,HND,2007,2.1,North America,North America_Honduras
+1328,Honduras,HND,2008,2.1,North America,North America_Honduras
+1329,Honduras,HND,2009,2.0,North America,North America_Honduras
+1330,Honduras,HND,2010,2.0,North America,North America_Honduras
+1331,Honduras,HND,2011,1.9,North America,North America_Honduras
+1332,Honduras,HND,2012,3.3,North America,North America_Honduras
+1333,Honduras,HND,2013,3.2,North America,North America_Honduras
+1334,Honduras,HND,2014,3.4,North America,North America_Honduras
+1335,Honduras,HND,2015,4.0,North America,North America_Honduras
+1336,Honduras,HND,2016,2.0,North America,North America_Honduras
+1337,Honduras,HND,2017,2.1,North America,North America_Honduras
+1338,Honduras,HND,2018,2.0,North America,North America_Honduras
+1339,Honduras,HND,2019,2.1,North America,North America_Honduras
+1340,Hungary,HUN,2000,33.4,Europe,Europe_Hungary
+1341,Hungary,HUN,2001,29.8,Europe,Europe_Hungary
+1342,Hungary,HUN,2002,28.6,Europe,Europe_Hungary
+1343,Hungary,HUN,2003,28.0,Europe,Europe_Hungary
+1344,Hungary,HUN,2004,27.5,Europe,Europe_Hungary
+1345,Hungary,HUN,2005,26.4,Europe,Europe_Hungary
+1346,Hungary,HUN,2006,24.9,Europe,Europe_Hungary
+1347,Hungary,HUN,2007,25.0,Europe,Europe_Hungary
+1348,Hungary,HUN,2008,25.4,Europe,Europe_Hungary
+1349,Hungary,HUN,2009,25.4,Europe,Europe_Hungary
+1350,Hungary,HUN,2010,25.5,Europe,Europe_Hungary
+1351,Hungary,HUN,2011,25.1,Europe,Europe_Hungary
+1352,Hungary,HUN,2012,24.8,Europe,Europe_Hungary
+1353,Hungary,HUN,2013,22.1,Europe,Europe_Hungary
+1354,Hungary,HUN,2014,20.4,Europe,Europe_Hungary
+1355,Hungary,HUN,2015,19.9,Europe,Europe_Hungary
+1356,Hungary,HUN,2016,18.7,Europe,Europe_Hungary
+1357,Hungary,HUN,2017,17.5,Europe,Europe_Hungary
+1358,Hungary,HUN,2018,17.7,Europe,Europe_Hungary
+1359,Hungary,HUN,2019,16.6,Europe,Europe_Hungary
+1360,Iceland,ISL,2000,13.1,Europe,Europe_Iceland
+1361,Iceland,ISL,2001,12.8,Europe,Europe_Iceland
+1362,Iceland,ISL,2002,12.2,Europe,Europe_Iceland
+1363,Iceland,ISL,2003,12.5,Europe,Europe_Iceland
+1364,Iceland,ISL,2004,12.4,Europe,Europe_Iceland
+1365,Iceland,ISL,2005,11.8,Europe,Europe_Iceland
+1366,Iceland,ISL,2006,12.5,Europe,Europe_Iceland
+1367,Iceland,ISL,2007,14.8,Europe,Europe_Iceland
+1368,Iceland,ISL,2008,14.8,Europe,Europe_Iceland
+1369,Iceland,ISL,2009,14.3,Europe,Europe_Iceland
+1370,Iceland,ISL,2010,12.8,Europe,Europe_Iceland
+1371,Iceland,ISL,2011,11.6,Europe,Europe_Iceland
+1372,Iceland,ISL,2012,13.5,Europe,Europe_Iceland
+1373,Iceland,ISL,2013,13.9,Europe,Europe_Iceland
+1374,Iceland,ISL,2014,15.7,Europe,Europe_Iceland
+1375,Iceland,ISL,2015,14.3,Europe,Europe_Iceland
+1376,Iceland,ISL,2016,13.0,Europe,Europe_Iceland
+1377,Iceland,ISL,2017,12.2,Europe,Europe_Iceland
+1378,Iceland,ISL,2018,10.8,Europe,Europe_Iceland
+1379,Iceland,ISL,2019,11.9,Europe,Europe_Iceland
+1380,India,IND,2000,17.0,Asia,Asia_India
+1381,India,IND,2001,16.6,Asia,Asia_India
+1382,India,IND,2002,16.1,Asia,Asia_India
+1383,India,IND,2003,15.3,Asia,Asia_India
+1384,India,IND,2004,15.2,Asia,Asia_India
+1385,India,IND,2005,15.5,Asia,Asia_India
+1386,India,IND,2006,15.6,Asia,Asia_India
+1387,India,IND,2007,15.3,Asia,Asia_India
+1388,India,IND,2008,15.1,Asia,Asia_India
+1389,India,IND,2009,14.5,Asia,Asia_India
+1390,India,IND,2010,14.6,Asia,Asia_India
+1391,India,IND,2011,14.7,Asia,Asia_India
+1392,India,IND,2012,14.3,Asia,Asia_India
+1393,India,IND,2013,13.7,Asia,Asia_India
+1394,India,IND,2014,12.8,Asia,Asia_India
+1395,India,IND,2015,12.3,Asia,Asia_India
+1396,India,IND,2016,12.1,Asia,Asia_India
+1397,India,IND,2017,12.0,Asia,Asia_India
+1398,India,IND,2018,12.6,Asia,Asia_India
+1399,India,IND,2019,12.7,Asia,Asia_India
+1400,Indonesia,IDN,2000,3.5,Asia,Asia_Indonesia
+1401,Indonesia,IDN,2001,3.4,Asia,Asia_Indonesia
+1402,Indonesia,IDN,2002,3.3,Asia,Asia_Indonesia
+1403,Indonesia,IDN,2003,3.2,Asia,Asia_Indonesia
+1404,Indonesia,IDN,2004,3.2,Asia,Asia_Indonesia
+1405,Indonesia,IDN,2005,3.0,Asia,Asia_Indonesia
+1406,Indonesia,IDN,2006,2.9,Asia,Asia_Indonesia
+1407,Indonesia,IDN,2007,2.9,Asia,Asia_Indonesia
+1408,Indonesia,IDN,2008,2.8,Asia,Asia_Indonesia
+1409,Indonesia,IDN,2009,2.7,Asia,Asia_Indonesia
+1410,Indonesia,IDN,2010,2.6,Asia,Asia_Indonesia
+1411,Indonesia,IDN,2011,2.6,Asia,Asia_Indonesia
+1412,Indonesia,IDN,2012,2.5,Asia,Asia_Indonesia
+1413,Indonesia,IDN,2013,2.5,Asia,Asia_Indonesia
+1414,Indonesia,IDN,2014,2.4,Asia,Asia_Indonesia
+1415,Indonesia,IDN,2015,2.4,Asia,Asia_Indonesia
+1416,Indonesia,IDN,2016,2.4,Asia,Asia_Indonesia
+1417,Indonesia,IDN,2017,2.4,Asia,Asia_Indonesia
+1418,Indonesia,IDN,2018,2.4,Asia,Asia_Indonesia
+1419,Indonesia,IDN,2019,2.4,Asia,Asia_Indonesia
+1420,Iran,IRN,2000,8.0,Asia,Asia_Iran
+1421,Iran,IRN,2001,7.8,Asia,Asia_Iran
+1422,Iran,IRN,2002,7.5,Asia,Asia_Iran
+1423,Iran,IRN,2003,7.0,Asia,Asia_Iran
+1424,Iran,IRN,2004,6.7,Asia,Asia_Iran
+1425,Iran,IRN,2005,6.3,Asia,Asia_Iran
+1426,Iran,IRN,2006,6.0,Asia,Asia_Iran
+1427,Iran,IRN,2007,6.4,Asia,Asia_Iran
+1428,Iran,IRN,2008,6.2,Asia,Asia_Iran
+1429,Iran,IRN,2009,6.2,Asia,Asia_Iran
+1430,Iran,IRN,2010,6.3,Asia,Asia_Iran
+1431,Iran,IRN,2011,6.8,Asia,Asia_Iran
+1432,Iran,IRN,2012,6.7,Asia,Asia_Iran
+1433,Iran,IRN,2013,6.6,Asia,Asia_Iran
+1434,Iran,IRN,2014,6.5,Asia,Asia_Iran
+1435,Iran,IRN,2015,6.3,Asia,Asia_Iran
+1436,Iran,IRN,2016,6.2,Asia,Asia_Iran
+1437,Iran,IRN,2017,6.0,Asia,Asia_Iran
+1438,Iran,IRN,2018,5.7,Asia,Asia_Iran
+1439,Iran,IRN,2019,5.2,Asia,Asia_Iran
+1440,Iraq,IRQ,2000,3.8,Asia,Asia_Iraq
+1441,Iraq,IRQ,2001,3.8,Asia,Asia_Iraq
+1442,Iraq,IRQ,2002,3.8,Asia,Asia_Iraq
+1443,Iraq,IRQ,2003,3.8,Asia,Asia_Iraq
+1444,Iraq,IRQ,2004,3.8,Asia,Asia_Iraq
+1445,Iraq,IRQ,2005,3.8,Asia,Asia_Iraq
+1446,Iraq,IRQ,2006,3.8,Asia,Asia_Iraq
+1447,Iraq,IRQ,2007,3.7,Asia,Asia_Iraq
+1448,Iraq,IRQ,2008,3.6,Asia,Asia_Iraq
+1449,Iraq,IRQ,2009,3.7,Asia,Asia_Iraq
+1450,Iraq,IRQ,2010,3.9,Asia,Asia_Iraq
+1451,Iraq,IRQ,2011,4.1,Asia,Asia_Iraq
+1452,Iraq,IRQ,2012,4.1,Asia,Asia_Iraq
+1453,Iraq,IRQ,2013,4.2,Asia,Asia_Iraq
+1454,Iraq,IRQ,2014,4.1,Asia,Asia_Iraq
+1455,Iraq,IRQ,2015,4.1,Asia,Asia_Iraq
+1456,Iraq,IRQ,2016,4.0,Asia,Asia_Iraq
+1457,Iraq,IRQ,2017,3.9,Asia,Asia_Iraq
+1458,Iraq,IRQ,2018,3.7,Asia,Asia_Iraq
+1459,Iraq,IRQ,2019,3.6,Asia,Asia_Iraq
+1460,Ireland,IRL,2000,12.7,Europe,Europe_Ireland
+1461,Ireland,IRL,2001,13.2,Europe,Europe_Ireland
+1462,Ireland,IRL,2002,12.2,Europe,Europe_Ireland
+1463,Ireland,IRL,2003,12.1,Europe,Europe_Ireland
+1464,Ireland,IRL,2004,11.9,Europe,Europe_Ireland
+1465,Ireland,IRL,2005,11.8,Europe,Europe_Ireland
+1466,Ireland,IRL,2006,10.9,Europe,Europe_Ireland
+1467,Ireland,IRL,2007,11.5,Europe,Europe_Ireland
+1468,Ireland,IRL,2008,12.2,Europe,Europe_Ireland
+1469,Ireland,IRL,2009,14.0,Europe,Europe_Ireland
+1470,Ireland,IRL,2010,11.9,Europe,Europe_Ireland
+1471,Ireland,IRL,2011,12.5,Europe,Europe_Ireland
+1472,Ireland,IRL,2012,12.4,Europe,Europe_Ireland
+1473,Ireland,IRL,2013,11.4,Europe,Europe_Ireland
+1474,Ireland,IRL,2014,11.0,Europe,Europe_Ireland
+1475,Ireland,IRL,2015,9.3,Europe,Europe_Ireland
+1476,Ireland,IRL,2016,10.0,Europe,Europe_Ireland
+1477,Ireland,IRL,2017,10.0,Europe,Europe_Ireland
+1478,Ireland,IRL,2018,9.9,Europe,Europe_Ireland
+1479,Ireland,IRL,2019,9.6,Europe,Europe_Ireland
+1480,Israel,ISR,2000,6.8,Asia,Asia_Israel
+1481,Israel,ISR,2001,6.4,Asia,Asia_Israel
+1482,Israel,ISR,2002,5.9,Asia,Asia_Israel
+1483,Israel,ISR,2003,6.4,Asia,Asia_Israel
+1484,Israel,ISR,2004,6.1,Asia,Asia_Israel
+1485,Israel,ISR,2005,6.7,Asia,Asia_Israel
+1486,Israel,ISR,2006,5.5,Asia,Asia_Israel
+1487,Israel,ISR,2007,5.2,Asia,Asia_Israel
+1488,Israel,ISR,2008,5.3,Asia,Asia_Israel
+1489,Israel,ISR,2009,6.0,Asia,Asia_Israel
+1490,Israel,ISR,2010,6.7,Asia,Asia_Israel
+1491,Israel,ISR,2011,5.7,Asia,Asia_Israel
+1492,Israel,ISR,2012,6.1,Asia,Asia_Israel
+1493,Israel,ISR,2013,5.2,Asia,Asia_Israel
+1494,Israel,ISR,2014,5.1,Asia,Asia_Israel
+1495,Israel,ISR,2015,4.5,Asia,Asia_Israel
+1496,Israel,ISR,2016,5.2,Asia,Asia_Israel
+1497,Israel,ISR,2017,5.1,Asia,Asia_Israel
+1498,Israel,ISR,2018,5.4,Asia,Asia_Israel
+1499,Israel,ISR,2019,5.3,Asia,Asia_Israel
+1500,Italy,ITA,2000,7.5,Europe,Europe_Italy
+1501,Italy,ITA,2001,7.3,Europe,Europe_Italy
+1502,Italy,ITA,2002,7.4,Europe,Europe_Italy
+1503,Italy,ITA,2003,7.4,Europe,Europe_Italy
+1504,Italy,ITA,2004,7.2,Europe,Europe_Italy
+1505,Italy,ITA,2005,6.7,Europe,Europe_Italy
+1506,Italy,ITA,2006,6.7,Europe,Europe_Italy
+1507,Italy,ITA,2007,6.7,Europe,Europe_Italy
+1508,Italy,ITA,2008,6.9,Europe,Europe_Italy
+1509,Italy,ITA,2009,7.0,Europe,Europe_Italy
+1510,Italy,ITA,2010,6.9,Europe,Europe_Italy
+1511,Italy,ITA,2011,7.4,Europe,Europe_Italy
+1512,Italy,ITA,2012,7.6,Europe,Europe_Italy
+1513,Italy,ITA,2013,7.5,Europe,Europe_Italy
+1514,Italy,ITA,2014,7.2,Europe,Europe_Italy
+1515,Italy,ITA,2015,7.1,Europe,Europe_Italy
+1516,Italy,ITA,2016,6.6,Europe,Europe_Italy
+1517,Italy,ITA,2017,7.1,Europe,Europe_Italy
+1518,Italy,ITA,2018,6.7,Europe,Europe_Italy
+1519,Italy,ITA,2019,6.7,Europe,Europe_Italy
+1520,Jamaica,JAM,2000,1.9,North America,North America_Jamaica
+1521,Jamaica,JAM,2001,1.9,North America,North America_Jamaica
+1522,Jamaica,JAM,2002,1.8,North America,North America_Jamaica
+1523,Jamaica,JAM,2003,1.7,North America,North America_Jamaica
+1524,Jamaica,JAM,2004,1.6,North America,North America_Jamaica
+1525,Jamaica,JAM,2005,1.5,North America,North America_Jamaica
+1526,Jamaica,JAM,2006,1.5,North America,North America_Jamaica
+1527,Jamaica,JAM,2007,1.8,North America,North America_Jamaica
+1528,Jamaica,JAM,2008,2.2,North America,North America_Jamaica
+1529,Jamaica,JAM,2009,2.3,North America,North America_Jamaica
+1530,Jamaica,JAM,2010,1.9,North America,North America_Jamaica
+1531,Jamaica,JAM,2011,2.2,North America,North America_Jamaica
+1532,Jamaica,JAM,2012,2.1,North America,North America_Jamaica
+1533,Jamaica,JAM,2013,2.0,North America,North America_Jamaica
+1534,Jamaica,JAM,2014,2.2,North America,North America_Jamaica
+1535,Jamaica,JAM,2015,2.2,North America,North America_Jamaica
+1536,Jamaica,JAM,2016,2.2,North America,North America_Jamaica
+1537,Jamaica,JAM,2017,2.3,North America,North America_Jamaica
+1538,Jamaica,JAM,2018,2.3,North America,North America_Jamaica
+1539,Jamaica,JAM,2019,2.4,North America,North America_Jamaica
+1540,Japan,JPN,2000,23.9,Asia,Asia_Japan
+1541,Japan,JPN,2001,23.2,Asia,Asia_Japan
+1542,Japan,JPN,2002,23.8,Asia,Asia_Japan
+1543,Japan,JPN,2003,25.6,Asia,Asia_Japan
+1544,Japan,JPN,2004,24.1,Asia,Asia_Japan
+1545,Japan,JPN,2005,24.3,Asia,Asia_Japan
+1546,Japan,JPN,2006,23.9,Asia,Asia_Japan
+1547,Japan,JPN,2007,25.0,Asia,Asia_Japan
+1548,Japan,JPN,2008,24.4,Asia,Asia_Japan
+1549,Japan,JPN,2009,24.9,Asia,Asia_Japan
+1550,Japan,JPN,2010,24.1,Asia,Asia_Japan
+1551,Japan,JPN,2011,23.4,Asia,Asia_Japan
+1552,Japan,JPN,2012,21.6,Asia,Asia_Japan
+1553,Japan,JPN,2013,21.4,Asia,Asia_Japan
+1554,Japan,JPN,2014,20.1,Asia,Asia_Japan
+1555,Japan,JPN,2015,19.1,Asia,Asia_Japan
+1556,Japan,JPN,2016,17.5,Asia,Asia_Japan
+1557,Japan,JPN,2017,17.0,Asia,Asia_Japan
+1558,Japan,JPN,2018,16.7,Asia,Asia_Japan
+1559,Japan,JPN,2019,15.3,Asia,Asia_Japan
+1560,Jordan,JOR,2000,2.5,Asia,Asia_Jordan
+1561,Jordan,JOR,2001,2.4,Asia,Asia_Jordan
+1562,Jordan,JOR,2002,2.3,Asia,Asia_Jordan
+1563,Jordan,JOR,2003,2.3,Asia,Asia_Jordan
+1564,Jordan,JOR,2004,2.2,Asia,Asia_Jordan
+1565,Jordan,JOR,2005,2.0,Asia,Asia_Jordan
+1566,Jordan,JOR,2006,1.9,Asia,Asia_Jordan
+1567,Jordan,JOR,2007,1.7,Asia,Asia_Jordan
+1568,Jordan,JOR,2008,1.7,Asia,Asia_Jordan
+1569,Jordan,JOR,2009,1.6,Asia,Asia_Jordan
+1570,Jordan,JOR,2010,1.5,Asia,Asia_Jordan
+1571,Jordan,JOR,2011,1.5,Asia,Asia_Jordan
+1572,Jordan,JOR,2012,1.5,Asia,Asia_Jordan
+1573,Jordan,JOR,2013,1.5,Asia,Asia_Jordan
+1574,Jordan,JOR,2014,1.5,Asia,Asia_Jordan
+1575,Jordan,JOR,2015,1.5,Asia,Asia_Jordan
+1576,Jordan,JOR,2016,1.5,Asia,Asia_Jordan
+1577,Jordan,JOR,2017,1.5,Asia,Asia_Jordan
+1578,Jordan,JOR,2018,1.6,Asia,Asia_Jordan
+1579,Jordan,JOR,2019,1.6,Asia,Asia_Jordan
+1580,Kazakhstan,KAZ,2000,38.7,Asia,Asia_Kazakhstan
+1581,Kazakhstan,KAZ,2001,39.0,Asia,Asia_Kazakhstan
+1582,Kazakhstan,KAZ,2002,38.2,Asia,Asia_Kazakhstan
+1583,Kazakhstan,KAZ,2003,39.2,Asia,Asia_Kazakhstan
+1584,Kazakhstan,KAZ,2004,39.7,Asia,Asia_Kazakhstan
+1585,Kazakhstan,KAZ,2005,39.2,Asia,Asia_Kazakhstan
+1586,Kazakhstan,KAZ,2006,38.0,Asia,Asia_Kazakhstan
+1587,Kazakhstan,KAZ,2007,38.0,Asia,Asia_Kazakhstan
+1588,Kazakhstan,KAZ,2008,34.6,Asia,Asia_Kazakhstan
+1589,Kazakhstan,KAZ,2009,30.3,Asia,Asia_Kazakhstan
+1590,Kazakhstan,KAZ,2010,29.9,Asia,Asia_Kazakhstan
+1591,Kazakhstan,KAZ,2011,28.7,Asia,Asia_Kazakhstan
+1592,Kazakhstan,KAZ,2012,27.6,Asia,Asia_Kazakhstan
+1593,Kazakhstan,KAZ,2013,26.3,Asia,Asia_Kazakhstan
+1594,Kazakhstan,KAZ,2014,24.2,Asia,Asia_Kazakhstan
+1595,Kazakhstan,KAZ,2015,23.2,Asia,Asia_Kazakhstan
+1596,Kazakhstan,KAZ,2016,21.7,Asia,Asia_Kazakhstan
+1597,Kazakhstan,KAZ,2017,20.8,Asia,Asia_Kazakhstan
+1598,Kazakhstan,KAZ,2018,19.0,Asia,Asia_Kazakhstan
+1599,Kazakhstan,KAZ,2019,17.6,Asia,Asia_Kazakhstan
+1600,Kenya,KEN,2000,7.6,Africa,Africa_Kenya
+1601,Kenya,KEN,2001,6.9,Africa,Africa_Kenya
+1602,Kenya,KEN,2002,6.4,Africa,Africa_Kenya
+1603,Kenya,KEN,2003,6.1,Africa,Africa_Kenya
+1604,Kenya,KEN,2004,5.7,Africa,Africa_Kenya
+1605,Kenya,KEN,2005,6.0,Africa,Africa_Kenya
+1606,Kenya,KEN,2006,6.0,Africa,Africa_Kenya
+1607,Kenya,KEN,2007,6.3,Africa,Africa_Kenya
+1608,Kenya,KEN,2008,6.2,Africa,Africa_Kenya
+1609,Kenya,KEN,2009,6.0,Africa,Africa_Kenya
+1610,Kenya,KEN,2010,6.0,Africa,Africa_Kenya
+1611,Kenya,KEN,2011,5.9,Africa,Africa_Kenya
+1612,Kenya,KEN,2012,5.9,Africa,Africa_Kenya
+1613,Kenya,KEN,2013,5.9,Africa,Africa_Kenya
+1614,Kenya,KEN,2014,5.7,Africa,Africa_Kenya
+1615,Kenya,KEN,2015,5.5,Africa,Africa_Kenya
+1616,Kenya,KEN,2016,5.4,Africa,Africa_Kenya
+1617,Kenya,KEN,2017,5.6,Africa,Africa_Kenya
+1618,Kenya,KEN,2018,6.0,Africa,Africa_Kenya
+1619,Kenya,KEN,2019,6.1,Africa,Africa_Kenya
+1620,Kiribati,KIR,2000,31.2,Oceania,Oceania_Kiribati
+1621,Kiribati,KIR,2001,31.1,Oceania,Oceania_Kiribati
+1622,Kiribati,KIR,2002,30.9,Oceania,Oceania_Kiribati
+1623,Kiribati,KIR,2003,29.4,Oceania,Oceania_Kiribati
+1624,Kiribati,KIR,2004,29.3,Oceania,Oceania_Kiribati
+1625,Kiribati,KIR,2005,30.1,Oceania,Oceania_Kiribati
+1626,Kiribati,KIR,2006,29.4,Oceania,Oceania_Kiribati
+1627,Kiribati,KIR,2007,30.9,Oceania,Oceania_Kiribati
+1628,Kiribati,KIR,2008,31.5,Oceania,Oceania_Kiribati
+1629,Kiribati,KIR,2009,30.9,Oceania,Oceania_Kiribati
+1630,Kiribati,KIR,2010,30.7,Oceania,Oceania_Kiribati
+1631,Kiribati,KIR,2011,30.8,Oceania,Oceania_Kiribati
+1632,Kiribati,KIR,2012,30.0,Oceania,Oceania_Kiribati
+1633,Kiribati,KIR,2013,30.5,Oceania,Oceania_Kiribati
+1634,Kiribati,KIR,2014,29.8,Oceania,Oceania_Kiribati
+1635,Kiribati,KIR,2015,29.7,Oceania,Oceania_Kiribati
+1636,Kiribati,KIR,2016,29.5,Oceania,Oceania_Kiribati
+1637,Kiribati,KIR,2017,29.6,Oceania,Oceania_Kiribati
+1638,Kiribati,KIR,2018,28.1,Oceania,Oceania_Kiribati
+1639,Kiribati,KIR,2019,28.3,Oceania,Oceania_Kiribati
+1640,Kuwait,KWT,2000,3.0,Asia,Asia_Kuwait
+1641,Kuwait,KWT,2001,2.6,Asia,Asia_Kuwait
+1642,Kuwait,KWT,2002,2.8,Asia,Asia_Kuwait
+1643,Kuwait,KWT,2003,2.6,Asia,Asia_Kuwait
+1644,Kuwait,KWT,2004,2.7,Asia,Asia_Kuwait
+1645,Kuwait,KWT,2005,2.6,Asia,Asia_Kuwait
+1646,Kuwait,KWT,2006,2.7,Asia,Asia_Kuwait
+1647,Kuwait,KWT,2007,2.6,Asia,Asia_Kuwait
+1648,Kuwait,KWT,2008,2.9,Asia,Asia_Kuwait
+1649,Kuwait,KWT,2009,2.7,Asia,Asia_Kuwait
+1650,Kuwait,KWT,2010,2.5,Asia,Asia_Kuwait
+1651,Kuwait,KWT,2011,2.3,Asia,Asia_Kuwait
+1652,Kuwait,KWT,2012,2.4,Asia,Asia_Kuwait
+1653,Kuwait,KWT,2013,2.4,Asia,Asia_Kuwait
+1654,Kuwait,KWT,2014,2.5,Asia,Asia_Kuwait
+1655,Kuwait,KWT,2015,2.6,Asia,Asia_Kuwait
+1656,Kuwait,KWT,2016,2.6,Asia,Asia_Kuwait
+1657,Kuwait,KWT,2017,2.7,Asia,Asia_Kuwait
+1658,Kuwait,KWT,2018,2.8,Asia,Asia_Kuwait
+1659,Kuwait,KWT,2019,2.9,Asia,Asia_Kuwait
+1660,Kyrgyzstan,KGZ,2000,14.8,Asia,Asia_Kyrgyzstan
+1661,Kyrgyzstan,KGZ,2001,14.1,Asia,Asia_Kyrgyzstan
+1662,Kyrgyzstan,KGZ,2002,14.0,Asia,Asia_Kyrgyzstan
+1663,Kyrgyzstan,KGZ,2003,13.2,Asia,Asia_Kyrgyzstan
+1664,Kyrgyzstan,KGZ,2004,12.6,Asia,Asia_Kyrgyzstan
+1665,Kyrgyzstan,KGZ,2005,13.2,Asia,Asia_Kyrgyzstan
+1666,Kyrgyzstan,KGZ,2006,13.1,Asia,Asia_Kyrgyzstan
+1667,Kyrgyzstan,KGZ,2007,12.6,Asia,Asia_Kyrgyzstan
+1668,Kyrgyzstan,KGZ,2008,12.3,Asia,Asia_Kyrgyzstan
+1669,Kyrgyzstan,KGZ,2009,11.9,Asia,Asia_Kyrgyzstan
+1670,Kyrgyzstan,KGZ,2010,11.4,Asia,Asia_Kyrgyzstan
+1671,Kyrgyzstan,KGZ,2011,11.3,Asia,Asia_Kyrgyzstan
+1672,Kyrgyzstan,KGZ,2012,10.9,Asia,Asia_Kyrgyzstan
+1673,Kyrgyzstan,KGZ,2013,10.5,Asia,Asia_Kyrgyzstan
+1674,Kyrgyzstan,KGZ,2014,10.5,Asia,Asia_Kyrgyzstan
+1675,Kyrgyzstan,KGZ,2015,9.9,Asia,Asia_Kyrgyzstan
+1676,Kyrgyzstan,KGZ,2016,8.6,Asia,Asia_Kyrgyzstan
+1677,Kyrgyzstan,KGZ,2017,8.3,Asia,Asia_Kyrgyzstan
+1678,Kyrgyzstan,KGZ,2018,8.0,Asia,Asia_Kyrgyzstan
+1679,Kyrgyzstan,KGZ,2019,7.4,Asia,Asia_Kyrgyzstan
+1680,Laos,LAO,2000,6.9,Asia,Asia_Laos
+1681,Laos,LAO,2001,6.9,Asia,Asia_Laos
+1682,Laos,LAO,2002,6.7,Asia,Asia_Laos
+1683,Laos,LAO,2003,6.5,Asia,Asia_Laos
+1684,Laos,LAO,2004,6.5,Asia,Asia_Laos
+1685,Laos,LAO,2005,6.5,Asia,Asia_Laos
+1686,Laos,LAO,2006,6.4,Asia,Asia_Laos
+1687,Laos,LAO,2007,6.3,Asia,Asia_Laos
+1688,Laos,LAO,2008,6.3,Asia,Asia_Laos
+1689,Laos,LAO,2009,6.1,Asia,Asia_Laos
+1690,Laos,LAO,2010,6.0,Asia,Asia_Laos
+1691,Laos,LAO,2011,5.9,Asia,Asia_Laos
+1692,Laos,LAO,2012,5.7,Asia,Asia_Laos
+1693,Laos,LAO,2013,5.7,Asia,Asia_Laos
+1694,Laos,LAO,2014,5.5,Asia,Asia_Laos
+1695,Laos,LAO,2015,5.6,Asia,Asia_Laos
+1696,Laos,LAO,2016,5.6,Asia,Asia_Laos
+1697,Laos,LAO,2017,5.6,Asia,Asia_Laos
+1698,Laos,LAO,2018,5.6,Asia,Asia_Laos
+1699,Laos,LAO,2019,5.4,Asia,Asia_Laos
+1700,Latvia,LVA,2000,34.7,Europe,Europe_Latvia
+1701,Latvia,LVA,2001,32.2,Europe,Europe_Latvia
+1702,Latvia,LVA,2002,31.5,Europe,Europe_Latvia
+1703,Latvia,LVA,2003,29.1,Europe,Europe_Latvia
+1704,Latvia,LVA,2004,26.8,Europe,Europe_Latvia
+1705,Latvia,LVA,2005,26.5,Europe,Europe_Latvia
+1706,Latvia,LVA,2006,23.2,Europe,Europe_Latvia
+1707,Latvia,LVA,2007,20.9,Europe,Europe_Latvia
+1708,Latvia,LVA,2008,26.4,Europe,Europe_Latvia
+1709,Latvia,LVA,2009,26.3,Europe,Europe_Latvia
+1710,Latvia,LVA,2010,22.5,Europe,Europe_Latvia
+1711,Latvia,LVA,2011,22.7,Europe,Europe_Latvia
+1712,Latvia,LVA,2012,23.5,Europe,Europe_Latvia
+1713,Latvia,LVA,2013,20.6,Europe,Europe_Latvia
+1714,Latvia,LVA,2014,20.7,Europe,Europe_Latvia
+1715,Latvia,LVA,2015,21.6,Europe,Europe_Latvia
+1716,Latvia,LVA,2016,21.3,Europe,Europe_Latvia
+1717,Latvia,LVA,2017,21.4,Europe,Europe_Latvia
+1718,Latvia,LVA,2018,18.1,Europe,Europe_Latvia
+1719,Latvia,LVA,2019,20.1,Europe,Europe_Latvia
+1720,Lebanon,LBN,2000,2.8,Asia,Asia_Lebanon
+1721,Lebanon,LBN,2001,2.7,Asia,Asia_Lebanon
+1722,Lebanon,LBN,2002,2.7,Asia,Asia_Lebanon
+1723,Lebanon,LBN,2003,2.6,Asia,Asia_Lebanon
+1724,Lebanon,LBN,2004,2.7,Asia,Asia_Lebanon
+1725,Lebanon,LBN,2005,2.7,Asia,Asia_Lebanon
+1726,Lebanon,LBN,2006,2.5,Asia,Asia_Lebanon
+1727,Lebanon,LBN,2007,2.9,Asia,Asia_Lebanon
+1728,Lebanon,LBN,2008,2.9,Asia,Asia_Lebanon
+1729,Lebanon,LBN,2009,3.0,Asia,Asia_Lebanon
+1730,Lebanon,LBN,2010,3.0,Asia,Asia_Lebanon
+1731,Lebanon,LBN,2011,3.0,Asia,Asia_Lebanon
+1732,Lebanon,LBN,2012,3.0,Asia,Asia_Lebanon
+1733,Lebanon,LBN,2013,3.0,Asia,Asia_Lebanon
+1734,Lebanon,LBN,2014,2.8,Asia,Asia_Lebanon
+1735,Lebanon,LBN,2015,2.8,Asia,Asia_Lebanon
+1736,Lebanon,LBN,2016,2.7,Asia,Asia_Lebanon
+1737,Lebanon,LBN,2017,3.0,Asia,Asia_Lebanon
+1738,Lebanon,LBN,2018,2.5,Asia,Asia_Lebanon
+1739,Lebanon,LBN,2019,2.8,Asia,Asia_Lebanon
+1740,Lesotho,LSO,2000,28.6,Africa,Africa_Lesotho
+1741,Lesotho,LSO,2001,27.3,Africa,Africa_Lesotho
+1742,Lesotho,LSO,2002,29.2,Africa,Africa_Lesotho
+1743,Lesotho,LSO,2003,31.9,Africa,Africa_Lesotho
+1744,Lesotho,LSO,2004,33.5,Africa,Africa_Lesotho
+1745,Lesotho,LSO,2005,33.6,Africa,Africa_Lesotho
+1746,Lesotho,LSO,2006,40.3,Africa,Africa_Lesotho
+1747,Lesotho,LSO,2007,45.0,Africa,Africa_Lesotho
+1748,Lesotho,LSO,2008,57.8,Africa,Africa_Lesotho
+1749,Lesotho,LSO,2009,63.3,Africa,Africa_Lesotho
+1750,Lesotho,LSO,2010,65.4,Africa,Africa_Lesotho
+1751,Lesotho,LSO,2011,69.5,Africa,Africa_Lesotho
+1752,Lesotho,LSO,2012,79.1,Africa,Africa_Lesotho
+1753,Lesotho,LSO,2013,87.6,Africa,Africa_Lesotho
+1754,Lesotho,LSO,2014,92.6,Africa,Africa_Lesotho
+1755,Lesotho,LSO,2015,92.4,Africa,Africa_Lesotho
+1756,Lesotho,LSO,2016,87.0,Africa,Africa_Lesotho
+1757,Lesotho,LSO,2017,78.3,Africa,Africa_Lesotho
+1758,Lesotho,LSO,2018,76.6,Africa,Africa_Lesotho
+1759,Lesotho,LSO,2019,72.4,Africa,Africa_Lesotho
+1760,Liberia,LBR,2000,5.1,Africa,Africa_Liberia
+1761,Liberia,LBR,2001,4.8,Africa,Africa_Liberia
+1762,Liberia,LBR,2002,4.8,Africa,Africa_Liberia
+1763,Liberia,LBR,2003,4.8,Africa,Africa_Liberia
+1764,Liberia,LBR,2004,4.8,Africa,Africa_Liberia
+1765,Liberia,LBR,2005,4.7,Africa,Africa_Liberia
+1766,Liberia,LBR,2006,4.8,Africa,Africa_Liberia
+1767,Liberia,LBR,2007,4.9,Africa,Africa_Liberia
+1768,Liberia,LBR,2008,4.8,Africa,Africa_Liberia
+1769,Liberia,LBR,2009,4.8,Africa,Africa_Liberia
+1770,Liberia,LBR,2010,4.9,Africa,Africa_Liberia
+1771,Liberia,LBR,2011,5.0,Africa,Africa_Liberia
+1772,Liberia,LBR,2012,5.0,Africa,Africa_Liberia
+1773,Liberia,LBR,2013,4.9,Africa,Africa_Liberia
+1774,Liberia,LBR,2014,4.9,Africa,Africa_Liberia
+1775,Liberia,LBR,2015,4.5,Africa,Africa_Liberia
+1776,Liberia,LBR,2016,4.5,Africa,Africa_Liberia
+1777,Liberia,LBR,2017,4.5,Africa,Africa_Liberia
+1778,Liberia,LBR,2018,4.4,Africa,Africa_Liberia
+1779,Liberia,LBR,2019,4.5,Africa,Africa_Liberia
+1780,Libya,LBY,2000,4.9,Africa,Africa_Libya
+1781,Libya,LBY,2001,5.1,Africa,Africa_Libya
+1782,Libya,LBY,2002,5.2,Africa,Africa_Libya
+1783,Libya,LBY,2003,5.1,Africa,Africa_Libya
+1784,Libya,LBY,2004,4.4,Africa,Africa_Libya
+1785,Libya,LBY,2005,4.3,Africa,Africa_Libya
+1786,Libya,LBY,2006,4.2,Africa,Africa_Libya
+1787,Libya,LBY,2007,4.9,Africa,Africa_Libya
+1788,Libya,LBY,2008,5.4,Africa,Africa_Libya
+1789,Libya,LBY,2009,5.7,Africa,Africa_Libya
+1790,Libya,LBY,2010,5.6,Africa,Africa_Libya
+1791,Libya,LBY,2011,5.1,Africa,Africa_Libya
+1792,Libya,LBY,2012,5.7,Africa,Africa_Libya
+1793,Libya,LBY,2013,4.8,Africa,Africa_Libya
+1794,Libya,LBY,2014,6.3,Africa,Africa_Libya
+1795,Libya,LBY,2015,5.6,Africa,Africa_Libya
+1796,Libya,LBY,2016,5.0,Africa,Africa_Libya
+1797,Libya,LBY,2017,5.5,Africa,Africa_Libya
+1798,Libya,LBY,2018,5.8,Africa,Africa_Libya
+1799,Libya,LBY,2019,4.5,Africa,Africa_Libya
+1800,Lithuania,LTU,2000,50.1,Europe,Europe_Lithuania
+1801,Lithuania,LTU,2001,47.1,Europe,Europe_Lithuania
+1802,Lithuania,LTU,2002,47.0,Europe,Europe_Lithuania
+1803,Lithuania,LTU,2003,45.4,Europe,Europe_Lithuania
+1804,Lithuania,LTU,2004,43.3,Europe,Europe_Lithuania
+1805,Lithuania,LTU,2005,42.7,Europe,Europe_Lithuania
+1806,Lithuania,LTU,2006,35.2,Europe,Europe_Lithuania
+1807,Lithuania,LTU,2007,34.5,Europe,Europe_Lithuania
+1808,Lithuania,LTU,2008,37.8,Europe,Europe_Lithuania
+1809,Lithuania,LTU,2009,39.2,Europe,Europe_Lithuania
+1810,Lithuania,LTU,2010,37.2,Europe,Europe_Lithuania
+1811,Lithuania,LTU,2011,38.1,Europe,Europe_Lithuania
+1812,Lithuania,LTU,2012,35.0,Europe,Europe_Lithuania
+1813,Lithuania,LTU,2013,40.5,Europe,Europe_Lithuania
+1814,Lithuania,LTU,2014,35.6,Europe,Europe_Lithuania
+1815,Lithuania,LTU,2015,34.9,Europe,Europe_Lithuania
+1816,Lithuania,LTU,2016,32.8,Europe,Europe_Lithuania
+1817,Lithuania,LTU,2017,29.7,Europe,Europe_Lithuania
+1818,Lithuania,LTU,2018,27.4,Europe,Europe_Lithuania
+1819,Lithuania,LTU,2019,26.1,Europe,Europe_Lithuania
+1820,Luxembourg,LUX,2000,16.1,Europe,Europe_Luxembourg
+1821,Luxembourg,LUX,2001,16.7,Europe,Europe_Luxembourg
+1822,Luxembourg,LUX,2002,16.1,Europe,Europe_Luxembourg
+1823,Luxembourg,LUX,2003,15.3,Europe,Europe_Luxembourg
+1824,Luxembourg,LUX,2004,12.1,Europe,Europe_Luxembourg
+1825,Luxembourg,LUX,2005,13.4,Europe,Europe_Luxembourg
+1826,Luxembourg,LUX,2006,15.2,Europe,Europe_Luxembourg
+1827,Luxembourg,LUX,2007,14.0,Europe,Europe_Luxembourg
+1828,Luxembourg,LUX,2008,13.4,Europe,Europe_Luxembourg
+1829,Luxembourg,LUX,2009,11.3,Europe,Europe_Luxembourg
+1830,Luxembourg,LUX,2010,12.0,Europe,Europe_Luxembourg
+1831,Luxembourg,LUX,2011,11.9,Europe,Europe_Luxembourg
+1832,Luxembourg,LUX,2012,11.3,Europe,Europe_Luxembourg
+1833,Luxembourg,LUX,2013,11.3,Europe,Europe_Luxembourg
+1834,Luxembourg,LUX,2014,12.7,Europe,Europe_Luxembourg
+1835,Luxembourg,LUX,2015,12.2,Europe,Europe_Luxembourg
+1836,Luxembourg,LUX,2016,10.2,Europe,Europe_Luxembourg
+1837,Luxembourg,LUX,2017,9.8,Europe,Europe_Luxembourg
+1838,Luxembourg,LUX,2018,10.6,Europe,Europe_Luxembourg
+1839,Luxembourg,LUX,2019,11.3,Europe,Europe_Luxembourg
+1840,Madagascar,MDG,2000,5.8,Africa,Africa_Madagascar
+1841,Madagascar,MDG,2001,5.7,Africa,Africa_Madagascar
+1842,Madagascar,MDG,2002,5.8,Africa,Africa_Madagascar
+1843,Madagascar,MDG,2003,5.9,Africa,Africa_Madagascar
+1844,Madagascar,MDG,2004,5.9,Africa,Africa_Madagascar
+1845,Madagascar,MDG,2005,5.8,Africa,Africa_Madagascar
+1846,Madagascar,MDG,2006,5.8,Africa,Africa_Madagascar
+1847,Madagascar,MDG,2007,5.7,Africa,Africa_Madagascar
+1848,Madagascar,MDG,2008,5.7,Africa,Africa_Madagascar
+1849,Madagascar,MDG,2009,5.7,Africa,Africa_Madagascar
+1850,Madagascar,MDG,2010,5.7,Africa,Africa_Madagascar
+1851,Madagascar,MDG,2011,5.7,Africa,Africa_Madagascar
+1852,Madagascar,MDG,2012,5.6,Africa,Africa_Madagascar
+1853,Madagascar,MDG,2013,5.6,Africa,Africa_Madagascar
+1854,Madagascar,MDG,2014,5.6,Africa,Africa_Madagascar
+1855,Madagascar,MDG,2015,5.5,Africa,Africa_Madagascar
+1856,Madagascar,MDG,2016,5.5,Africa,Africa_Madagascar
+1857,Madagascar,MDG,2017,5.5,Africa,Africa_Madagascar
+1858,Madagascar,MDG,2018,5.5,Africa,Africa_Madagascar
+1859,Madagascar,MDG,2019,5.5,Africa,Africa_Madagascar
+1860,Malawi,MWI,2000,10.8,Africa,Africa_Malawi
+1861,Malawi,MWI,2001,9.8,Africa,Africa_Malawi
+1862,Malawi,MWI,2002,8.8,Africa,Africa_Malawi
+1863,Malawi,MWI,2003,8.2,Africa,Africa_Malawi
+1864,Malawi,MWI,2004,7.8,Africa,Africa_Malawi
+1865,Malawi,MWI,2005,7.2,Africa,Africa_Malawi
+1866,Malawi,MWI,2006,7.5,Africa,Africa_Malawi
+1867,Malawi,MWI,2007,7.8,Africa,Africa_Malawi
+1868,Malawi,MWI,2008,7.6,Africa,Africa_Malawi
+1869,Malawi,MWI,2009,8.0,Africa,Africa_Malawi
+1870,Malawi,MWI,2010,8.2,Africa,Africa_Malawi
+1871,Malawi,MWI,2011,7.3,Africa,Africa_Malawi
+1872,Malawi,MWI,2012,6.8,Africa,Africa_Malawi
+1873,Malawi,MWI,2013,6.4,Africa,Africa_Malawi
+1874,Malawi,MWI,2014,6.3,Africa,Africa_Malawi
+1875,Malawi,MWI,2015,6.2,Africa,Africa_Malawi
+1876,Malawi,MWI,2016,6.1,Africa,Africa_Malawi
+1877,Malawi,MWI,2017,5.9,Africa,Africa_Malawi
+1878,Malawi,MWI,2018,5.6,Africa,Africa_Malawi
+1879,Malawi,MWI,2019,5.4,Africa,Africa_Malawi
+1880,Malaysia,MYS,2000,4.7,Asia,Asia_Malaysia
+1881,Malaysia,MYS,2001,4.5,Asia,Asia_Malaysia
+1882,Malaysia,MYS,2002,4.5,Asia,Asia_Malaysia
+1883,Malaysia,MYS,2003,4.7,Asia,Asia_Malaysia
+1884,Malaysia,MYS,2004,4.7,Asia,Asia_Malaysia
+1885,Malaysia,MYS,2005,4.6,Asia,Asia_Malaysia
+1886,Malaysia,MYS,2006,4.5,Asia,Asia_Malaysia
+1887,Malaysia,MYS,2007,4.4,Asia,Asia_Malaysia
+1888,Malaysia,MYS,2008,4.5,Asia,Asia_Malaysia
+1889,Malaysia,MYS,2009,4.6,Asia,Asia_Malaysia
+1890,Malaysia,MYS,2010,4.5,Asia,Asia_Malaysia
+1891,Malaysia,MYS,2011,4.6,Asia,Asia_Malaysia
+1892,Malaysia,MYS,2012,4.6,Asia,Asia_Malaysia
+1893,Malaysia,MYS,2013,4.4,Asia,Asia_Malaysia
+1894,Malaysia,MYS,2014,4.6,Asia,Asia_Malaysia
+1895,Malaysia,MYS,2015,4.8,Asia,Asia_Malaysia
+1896,Malaysia,MYS,2016,5.1,Asia,Asia_Malaysia
+1897,Malaysia,MYS,2017,5.4,Asia,Asia_Malaysia
+1898,Malaysia,MYS,2018,5.4,Asia,Asia_Malaysia
+1899,Malaysia,MYS,2019,5.7,Asia,Asia_Malaysia
+1900,Maldives,MDV,2000,3.8,Asia,Asia_Maldives
+1901,Maldives,MDV,2001,3.7,Asia,Asia_Maldives
+1902,Maldives,MDV,2002,3.5,Asia,Asia_Maldives
+1903,Maldives,MDV,2003,3.5,Asia,Asia_Maldives
+1904,Maldives,MDV,2004,2.9,Asia,Asia_Maldives
+1905,Maldives,MDV,2005,3.0,Asia,Asia_Maldives
+1906,Maldives,MDV,2006,3.1,Asia,Asia_Maldives
+1907,Maldives,MDV,2007,3.0,Asia,Asia_Maldives
+1908,Maldives,MDV,2008,3.1,Asia,Asia_Maldives
+1909,Maldives,MDV,2009,2.9,Asia,Asia_Maldives
+1910,Maldives,MDV,2010,2.7,Asia,Asia_Maldives
+1911,Maldives,MDV,2011,2.6,Asia,Asia_Maldives
+1912,Maldives,MDV,2012,2.6,Asia,Asia_Maldives
+1913,Maldives,MDV,2013,2.6,Asia,Asia_Maldives
+1914,Maldives,MDV,2014,2.7,Asia,Asia_Maldives
+1915,Maldives,MDV,2015,2.8,Asia,Asia_Maldives
+1916,Maldives,MDV,2016,3.1,Asia,Asia_Maldives
+1917,Maldives,MDV,2017,3.1,Asia,Asia_Maldives
+1918,Maldives,MDV,2018,2.9,Asia,Asia_Maldives
+1919,Maldives,MDV,2019,2.7,Asia,Asia_Maldives
+1920,Mali,MLI,2000,4.8,Africa,Africa_Mali
+1921,Mali,MLI,2001,4.7,Africa,Africa_Mali
+1922,Mali,MLI,2002,4.7,Africa,Africa_Mali
+1923,Mali,MLI,2003,4.6,Africa,Africa_Mali
+1924,Mali,MLI,2004,4.5,Africa,Africa_Mali
+1925,Mali,MLI,2005,4.6,Africa,Africa_Mali
+1926,Mali,MLI,2006,4.5,Africa,Africa_Mali
+1927,Mali,MLI,2007,4.6,Africa,Africa_Mali
+1928,Mali,MLI,2008,4.6,Africa,Africa_Mali
+1929,Mali,MLI,2009,4.6,Africa,Africa_Mali
+1930,Mali,MLI,2010,4.5,Africa,Africa_Mali
+1931,Mali,MLI,2011,4.5,Africa,Africa_Mali
+1932,Mali,MLI,2012,4.5,Africa,Africa_Mali
+1933,Mali,MLI,2013,4.5,Africa,Africa_Mali
+1934,Mali,MLI,2014,4.4,Africa,Africa_Mali
+1935,Mali,MLI,2015,4.3,Africa,Africa_Mali
+1936,Mali,MLI,2016,4.2,Africa,Africa_Mali
+1937,Mali,MLI,2017,4.1,Africa,Africa_Mali
+1938,Mali,MLI,2018,4.1,Africa,Africa_Mali
+1939,Mali,MLI,2019,4.1,Africa,Africa_Mali
+1940,Malta,MLT,2000,6.8,Europe,Europe_Malta
+1941,Malta,MLT,2001,7.2,Europe,Europe_Malta
+1942,Malta,MLT,2002,5.7,Europe,Europe_Malta
+1943,Malta,MLT,2003,5.4,Europe,Europe_Malta
+1944,Malta,MLT,2004,5.9,Europe,Europe_Malta
+1945,Malta,MLT,2005,5.6,Europe,Europe_Malta
+1946,Malta,MLT,2006,6.8,Europe,Europe_Malta
+1947,Malta,MLT,2007,5.5,Europe,Europe_Malta
+1948,Malta,MLT,2008,6.4,Europe,Europe_Malta
+1949,Malta,MLT,2009,6.9,Europe,Europe_Malta
+1950,Malta,MLT,2010,7.5,Europe,Europe_Malta
+1951,Malta,MLT,2011,6.8,Europe,Europe_Malta
+1952,Malta,MLT,2012,6.0,Europe,Europe_Malta
+1953,Malta,MLT,2013,6.8,Europe,Europe_Malta
+1954,Malta,MLT,2014,7.1,Europe,Europe_Malta
+1955,Malta,MLT,2015,7.2,Europe,Europe_Malta
+1956,Malta,MLT,2016,5.8,Europe,Europe_Malta
+1957,Malta,MLT,2017,5.5,Europe,Europe_Malta
+1958,Malta,MLT,2018,6.0,Europe,Europe_Malta
+1959,Malta,MLT,2019,6.1,Europe,Europe_Malta
+1960,Mauritania,MRT,2000,3.5,Africa,Africa_Mauritania
+1961,Mauritania,MRT,2001,3.4,Africa,Africa_Mauritania
+1962,Mauritania,MRT,2002,3.4,Africa,Africa_Mauritania
+1963,Mauritania,MRT,2003,3.3,Africa,Africa_Mauritania
+1964,Mauritania,MRT,2004,3.3,Africa,Africa_Mauritania
+1965,Mauritania,MRT,2005,3.2,Africa,Africa_Mauritania
+1966,Mauritania,MRT,2006,3.2,Africa,Africa_Mauritania
+1967,Mauritania,MRT,2007,3.2,Africa,Africa_Mauritania
+1968,Mauritania,MRT,2008,3.1,Africa,Africa_Mauritania
+1969,Mauritania,MRT,2009,3.1,Africa,Africa_Mauritania
+1970,Mauritania,MRT,2010,3.1,Africa,Africa_Mauritania
+1971,Mauritania,MRT,2011,3.0,Africa,Africa_Mauritania
+1972,Mauritania,MRT,2012,3.1,Africa,Africa_Mauritania
+1973,Mauritania,MRT,2013,3.1,Africa,Africa_Mauritania
+1974,Mauritania,MRT,2014,3.1,Africa,Africa_Mauritania
+1975,Mauritania,MRT,2015,3.0,Africa,Africa_Mauritania
+1976,Mauritania,MRT,2016,3.0,Africa,Africa_Mauritania
+1977,Mauritania,MRT,2017,3.1,Africa,Africa_Mauritania
+1978,Mauritania,MRT,2018,3.1,Africa,Africa_Mauritania
+1979,Mauritania,MRT,2019,3.1,Africa,Africa_Mauritania
+1980,Mauritius,MUS,2000,11.8,Africa,Africa_Mauritius
+1981,Mauritius,MUS,2001,10.1,Africa,Africa_Mauritius
+1982,Mauritius,MUS,2002,11.3,Africa,Africa_Mauritius
+1983,Mauritius,MUS,2003,7.7,Africa,Africa_Mauritius
+1984,Mauritius,MUS,2004,8.2,Africa,Africa_Mauritius
+1985,Mauritius,MUS,2005,9.0,Africa,Africa_Mauritius
+1986,Mauritius,MUS,2006,9.2,Africa,Africa_Mauritius
+1987,Mauritius,MUS,2007,10.3,Africa,Africa_Mauritius
+1988,Mauritius,MUS,2008,6.7,Africa,Africa_Mauritius
+1989,Mauritius,MUS,2009,9.1,Africa,Africa_Mauritius
+1990,Mauritius,MUS,2010,7.8,Africa,Africa_Mauritius
+1991,Mauritius,MUS,2011,9.0,Africa,Africa_Mauritius
+1992,Mauritius,MUS,2012,9.6,Africa,Africa_Mauritius
+1993,Mauritius,MUS,2013,8.2,Africa,Africa_Mauritius
+1994,Mauritius,MUS,2014,10.2,Africa,Africa_Mauritius
+1995,Mauritius,MUS,2015,7.9,Africa,Africa_Mauritius
+1996,Mauritius,MUS,2016,8.1,Africa,Africa_Mauritius
+1997,Mauritius,MUS,2017,9.6,Africa,Africa_Mauritius
+1998,Mauritius,MUS,2018,8.7,Africa,Africa_Mauritius
+1999,Mauritius,MUS,2019,9.5,Africa,Africa_Mauritius
+2000,Mexico,MEX,2000,3.5,North America,North America_Mexico
+2001,Mexico,MEX,2001,3.8,North America,North America_Mexico
+2002,Mexico,MEX,2002,3.9,North America,North America_Mexico
+2003,Mexico,MEX,2003,4.0,North America,North America_Mexico
+2004,Mexico,MEX,2004,4.0,North America,North America_Mexico
+2005,Mexico,MEX,2005,4.1,North America,North America_Mexico
+2006,Mexico,MEX,2006,4.0,North America,North America_Mexico
+2007,Mexico,MEX,2007,4.1,North America,North America_Mexico
+2008,Mexico,MEX,2008,4.4,North America,North America_Mexico
+2009,Mexico,MEX,2009,4.6,North America,North America_Mexico
+2010,Mexico,MEX,2010,4.5,North America,North America_Mexico
+2011,Mexico,MEX,2011,5.2,North America,North America_Mexico
+2012,Mexico,MEX,2012,4.9,North America,North America_Mexico
+2013,Mexico,MEX,2013,5.2,North America,North America_Mexico
+2014,Mexico,MEX,2014,5.7,North America,North America_Mexico
+2015,Mexico,MEX,2015,5.6,North America,North America_Mexico
+2016,Mexico,MEX,2016,5.6,North America,North America_Mexico
+2017,Mexico,MEX,2017,5.9,North America,North America_Mexico
+2018,Mexico,MEX,2018,5.4,North America,North America_Mexico
+2019,Mexico,MEX,2019,5.3,North America,North America_Mexico
+2020,Moldova,MDA,2000,17.2,Europe,Europe_Moldova
+2021,Moldova,MDA,2001,18.6,Europe,Europe_Moldova
+2022,Moldova,MDA,2002,17.7,Europe,Europe_Moldova
+2023,Moldova,MDA,2003,18.5,Europe,Europe_Moldova
+2024,Moldova,MDA,2004,18.3,Europe,Europe_Moldova
+2025,Moldova,MDA,2005,19.4,Europe,Europe_Moldova
+2026,Moldova,MDA,2006,19.7,Europe,Europe_Moldova
+2027,Moldova,MDA,2007,17.2,Europe,Europe_Moldova
+2028,Moldova,MDA,2008,19.1,Europe,Europe_Moldova
+2029,Moldova,MDA,2009,19.7,Europe,Europe_Moldova
+2030,Moldova,MDA,2010,20.5,Europe,Europe_Moldova
+2031,Moldova,MDA,2011,15.3,Europe,Europe_Moldova
+2032,Moldova,MDA,2012,17.0,Europe,Europe_Moldova
+2033,Moldova,MDA,2013,17.0,Europe,Europe_Moldova
+2034,Moldova,MDA,2014,17.2,Europe,Europe_Moldova
+2035,Moldova,MDA,2015,16.2,Europe,Europe_Moldova
+2036,Moldova,MDA,2016,15.9,Europe,Europe_Moldova
+2037,Moldova,MDA,2017,14.9,Europe,Europe_Moldova
+2038,Moldova,MDA,2018,14.4,Europe,Europe_Moldova
+2039,Moldova,MDA,2019,14.7,Europe,Europe_Moldova
+2040,Mongolia,MNG,2000,22.0,Asia,Asia_Mongolia
+2041,Mongolia,MNG,2001,22.3,Asia,Asia_Mongolia
+2042,Mongolia,MNG,2002,21.7,Asia,Asia_Mongolia
+2043,Mongolia,MNG,2003,23.1,Asia,Asia_Mongolia
+2044,Mongolia,MNG,2004,23.7,Asia,Asia_Mongolia
+2045,Mongolia,MNG,2005,24.0,Asia,Asia_Mongolia
+2046,Mongolia,MNG,2006,23.7,Asia,Asia_Mongolia
+2047,Mongolia,MNG,2007,23.6,Asia,Asia_Mongolia
+2048,Mongolia,MNG,2008,23.8,Asia,Asia_Mongolia
+2049,Mongolia,MNG,2009,23.6,Asia,Asia_Mongolia
+2050,Mongolia,MNG,2010,23.4,Asia,Asia_Mongolia
+2051,Mongolia,MNG,2011,22.7,Asia,Asia_Mongolia
+2052,Mongolia,MNG,2012,21.7,Asia,Asia_Mongolia
+2053,Mongolia,MNG,2013,21.0,Asia,Asia_Mongolia
+2054,Mongolia,MNG,2014,20.0,Asia,Asia_Mongolia
+2055,Mongolia,MNG,2015,20.0,Asia,Asia_Mongolia
+2056,Mongolia,MNG,2016,20.1,Asia,Asia_Mongolia
+2057,Mongolia,MNG,2017,19.2,Asia,Asia_Mongolia
+2058,Mongolia,MNG,2018,18.6,Asia,Asia_Mongolia
+2059,Mongolia,MNG,2019,17.9,Asia,Asia_Mongolia
+2060,Montenegro,MNE,2000,20.8,Europe,Europe_Montenegro
+2061,Montenegro,MNE,2001,19.9,Europe,Europe_Montenegro
+2062,Montenegro,MNE,2002,20.2,Europe,Europe_Montenegro
+2063,Montenegro,MNE,2003,20.9,Europe,Europe_Montenegro
+2064,Montenegro,MNE,2004,21.2,Europe,Europe_Montenegro
+2065,Montenegro,MNE,2005,21.7,Europe,Europe_Montenegro
+2066,Montenegro,MNE,2006,22.3,Europe,Europe_Montenegro
+2067,Montenegro,MNE,2007,21.0,Europe,Europe_Montenegro
+2068,Montenegro,MNE,2008,20.9,Europe,Europe_Montenegro
+2069,Montenegro,MNE,2009,20.9,Europe,Europe_Montenegro
+2070,Montenegro,MNE,2010,20.3,Europe,Europe_Montenegro
+2071,Montenegro,MNE,2011,20.9,Europe,Europe_Montenegro
+2072,Montenegro,MNE,2012,21.0,Europe,Europe_Montenegro
+2073,Montenegro,MNE,2013,20.4,Europe,Europe_Montenegro
+2074,Montenegro,MNE,2014,20.6,Europe,Europe_Montenegro
+2075,Montenegro,MNE,2015,20.7,Europe,Europe_Montenegro
+2076,Montenegro,MNE,2016,20.8,Europe,Europe_Montenegro
+2077,Montenegro,MNE,2017,21.1,Europe,Europe_Montenegro
+2078,Montenegro,MNE,2018,21.2,Europe,Europe_Montenegro
+2079,Montenegro,MNE,2019,21.0,Europe,Europe_Montenegro
+2080,Morocco,MAR,2000,9.9,Africa,Africa_Morocco
+2081,Morocco,MAR,2001,9.9,Africa,Africa_Morocco
+2082,Morocco,MAR,2002,9.6,Africa,Africa_Morocco
+2083,Morocco,MAR,2003,9.6,Africa,Africa_Morocco
+2084,Morocco,MAR,2004,9.5,Africa,Africa_Morocco
+2085,Morocco,MAR,2005,9.4,Africa,Africa_Morocco
+2086,Morocco,MAR,2006,9.3,Africa,Africa_Morocco
+2087,Morocco,MAR,2007,9.3,Africa,Africa_Morocco
+2088,Morocco,MAR,2008,9.3,Africa,Africa_Morocco
+2089,Morocco,MAR,2009,9.2,Africa,Africa_Morocco
+2090,Morocco,MAR,2010,9.2,Africa,Africa_Morocco
+2091,Morocco,MAR,2011,9.2,Africa,Africa_Morocco
+2092,Morocco,MAR,2012,8.9,Africa,Africa_Morocco
+2093,Morocco,MAR,2013,8.0,Africa,Africa_Morocco
+2094,Morocco,MAR,2014,7.7,Africa,Africa_Morocco
+2095,Morocco,MAR,2015,7.4,Africa,Africa_Morocco
+2096,Morocco,MAR,2016,7.2,Africa,Africa_Morocco
+2097,Morocco,MAR,2017,7.1,Africa,Africa_Morocco
+2098,Morocco,MAR,2018,7.2,Africa,Africa_Morocco
+2099,Morocco,MAR,2019,7.2,Africa,Africa_Morocco
+2100,Mozambique,MOZ,2000,12.5,Africa,Africa_Mozambique
+2101,Mozambique,MOZ,2001,12.4,Africa,Africa_Mozambique
+2102,Mozambique,MOZ,2002,12.3,Africa,Africa_Mozambique
+2103,Mozambique,MOZ,2003,12.3,Africa,Africa_Mozambique
+2104,Mozambique,MOZ,2004,12.4,Africa,Africa_Mozambique
+2105,Mozambique,MOZ,2005,12.6,Africa,Africa_Mozambique
+2106,Mozambique,MOZ,2006,12.6,Africa,Africa_Mozambique
+2107,Mozambique,MOZ,2007,12.6,Africa,Africa_Mozambique
+2108,Mozambique,MOZ,2008,13.5,Africa,Africa_Mozambique
+2109,Mozambique,MOZ,2009,14.5,Africa,Africa_Mozambique
+2110,Mozambique,MOZ,2010,14.9,Africa,Africa_Mozambique
+2111,Mozambique,MOZ,2011,15.3,Africa,Africa_Mozambique
+2112,Mozambique,MOZ,2012,15.7,Africa,Africa_Mozambique
+2113,Mozambique,MOZ,2013,15.3,Africa,Africa_Mozambique
+2114,Mozambique,MOZ,2014,14.4,Africa,Africa_Mozambique
+2115,Mozambique,MOZ,2015,13.9,Africa,Africa_Mozambique
+2116,Mozambique,MOZ,2016,13.6,Africa,Africa_Mozambique
+2117,Mozambique,MOZ,2017,13.4,Africa,Africa_Mozambique
+2118,Mozambique,MOZ,2018,13.5,Africa,Africa_Mozambique
+2119,Mozambique,MOZ,2019,13.6,Africa,Africa_Mozambique
+2120,Namibia,NAM,2000,19.3,Africa,Africa_Namibia
+2121,Namibia,NAM,2001,18.8,Africa,Africa_Namibia
+2122,Namibia,NAM,2002,18.7,Africa,Africa_Namibia
+2123,Namibia,NAM,2003,18.2,Africa,Africa_Namibia
+2124,Namibia,NAM,2004,16.7,Africa,Africa_Namibia
+2125,Namibia,NAM,2005,17.8,Africa,Africa_Namibia
+2126,Namibia,NAM,2006,17.7,Africa,Africa_Namibia
+2127,Namibia,NAM,2007,17.3,Africa,Africa_Namibia
+2128,Namibia,NAM,2008,14.1,Africa,Africa_Namibia
+2129,Namibia,NAM,2009,13.1,Africa,Africa_Namibia
+2130,Namibia,NAM,2010,12.9,Africa,Africa_Namibia
+2131,Namibia,NAM,2011,11.4,Africa,Africa_Namibia
+2132,Namibia,NAM,2012,10.2,Africa,Africa_Namibia
+2133,Namibia,NAM,2013,10.2,Africa,Africa_Namibia
+2134,Namibia,NAM,2014,10.9,Africa,Africa_Namibia
+2135,Namibia,NAM,2015,11.6,Africa,Africa_Namibia
+2136,Namibia,NAM,2016,10.7,Africa,Africa_Namibia
+2137,Namibia,NAM,2017,10.9,Africa,Africa_Namibia
+2138,Namibia,NAM,2018,9.9,Africa,Africa_Namibia
+2139,Namibia,NAM,2019,9.7,Africa,Africa_Namibia
+2140,Nepal,NPL,2000,8.5,Asia,Asia_Nepal
+2141,Nepal,NPL,2001,8.1,Asia,Asia_Nepal
+2142,Nepal,NPL,2002,8.0,Asia,Asia_Nepal
+2143,Nepal,NPL,2003,7.8,Asia,Asia_Nepal
+2144,Nepal,NPL,2004,7.7,Asia,Asia_Nepal
+2145,Nepal,NPL,2005,7.9,Asia,Asia_Nepal
+2146,Nepal,NPL,2006,7.7,Asia,Asia_Nepal
+2147,Nepal,NPL,2007,8.0,Asia,Asia_Nepal
+2148,Nepal,NPL,2008,8.3,Asia,Asia_Nepal
+2149,Nepal,NPL,2009,8.5,Asia,Asia_Nepal
+2150,Nepal,NPL,2010,8.7,Asia,Asia_Nepal
+2151,Nepal,NPL,2011,8.9,Asia,Asia_Nepal
+2152,Nepal,NPL,2012,8.9,Asia,Asia_Nepal
+2153,Nepal,NPL,2013,8.7,Asia,Asia_Nepal
+2154,Nepal,NPL,2014,8.5,Asia,Asia_Nepal
+2155,Nepal,NPL,2015,8.5,Asia,Asia_Nepal
+2156,Nepal,NPL,2016,8.5,Asia,Asia_Nepal
+2157,Nepal,NPL,2017,8.7,Asia,Asia_Nepal
+2158,Nepal,NPL,2018,8.8,Asia,Asia_Nepal
+2159,Nepal,NPL,2019,9.0,Asia,Asia_Nepal
+2160,Netherlands,NLD,2000,9.6,Europe,Europe_Netherlands
+2161,Netherlands,NLD,2001,9.6,Europe,Europe_Netherlands
+2162,Netherlands,NLD,2002,10.0,Europe,Europe_Netherlands
+2163,Netherlands,NLD,2003,9.6,Europe,Europe_Netherlands
+2164,Netherlands,NLD,2004,9.7,Europe,Europe_Netherlands
+2165,Netherlands,NLD,2005,9.8,Europe,Europe_Netherlands
+2166,Netherlands,NLD,2006,9.6,Europe,Europe_Netherlands
+2167,Netherlands,NLD,2007,8.4,Europe,Europe_Netherlands
+2168,Netherlands,NLD,2008,9.0,Europe,Europe_Netherlands
+2169,Netherlands,NLD,2009,9.5,Europe,Europe_Netherlands
+2170,Netherlands,NLD,2010,9.8,Europe,Europe_Netherlands
+2171,Netherlands,NLD,2011,10.1,Europe,Europe_Netherlands
+2172,Netherlands,NLD,2012,10.7,Europe,Europe_Netherlands
+2173,Netherlands,NLD,2013,11.8,Europe,Europe_Netherlands
+2174,Netherlands,NLD,2014,11.6,Europe,Europe_Netherlands
+2175,Netherlands,NLD,2015,11.8,Europe,Europe_Netherlands
+2176,Netherlands,NLD,2016,11.9,Europe,Europe_Netherlands
+2177,Netherlands,NLD,2017,12.1,Europe,Europe_Netherlands
+2178,Netherlands,NLD,2018,11.4,Europe,Europe_Netherlands
+2179,Netherlands,NLD,2019,11.8,Europe,Europe_Netherlands
+2180,New Zealand,NZL,2000,12.5,Oceania,Oceania_New Zealand
+2181,New Zealand,NZL,2001,13.9,Oceania,Oceania_New Zealand
+2182,New Zealand,NZL,2002,12.5,Oceania,Oceania_New Zealand
+2183,New Zealand,NZL,2003,13.7,Oceania,Oceania_New Zealand
+2184,New Zealand,NZL,2004,12.6,Oceania,Oceania_New Zealand
+2185,New Zealand,NZL,2005,12.9,Oceania,Oceania_New Zealand
+2186,New Zealand,NZL,2006,13.1,Oceania,Oceania_New Zealand
+2187,New Zealand,NZL,2007,12.3,Oceania,Oceania_New Zealand
+2188,New Zealand,NZL,2008,12.4,Oceania,Oceania_New Zealand
+2189,New Zealand,NZL,2009,11.5,Oceania,Oceania_New Zealand
+2190,New Zealand,NZL,2010,12.6,Oceania,Oceania_New Zealand
+2191,New Zealand,NZL,2011,11.4,Oceania,Oceania_New Zealand
+2192,New Zealand,NZL,2012,12.7,Oceania,Oceania_New Zealand
+2193,New Zealand,NZL,2013,12.2,Oceania,Oceania_New Zealand
+2194,New Zealand,NZL,2014,11.3,Oceania,Oceania_New Zealand
+2195,New Zealand,NZL,2015,11.7,Oceania,Oceania_New Zealand
+2196,New Zealand,NZL,2016,12.2,Oceania,Oceania_New Zealand
+2197,New Zealand,NZL,2017,12.7,Oceania,Oceania_New Zealand
+2198,New Zealand,NZL,2018,11.4,Oceania,Oceania_New Zealand
+2199,New Zealand,NZL,2019,11.0,Oceania,Oceania_New Zealand
+2200,Nicaragua,NIC,2000,5.5,North America,North America_Nicaragua
+2201,Nicaragua,NIC,2001,5.2,North America,North America_Nicaragua
+2202,Nicaragua,NIC,2002,5.0,North America,North America_Nicaragua
+2203,Nicaragua,NIC,2003,5.6,North America,North America_Nicaragua
+2204,Nicaragua,NIC,2004,5.4,North America,North America_Nicaragua
+2205,Nicaragua,NIC,2005,5.2,North America,North America_Nicaragua
+2206,Nicaragua,NIC,2006,4.6,North America,North America_Nicaragua
+2207,Nicaragua,NIC,2007,4.9,North America,North America_Nicaragua
+2208,Nicaragua,NIC,2008,5.1,North America,North America_Nicaragua
+2209,Nicaragua,NIC,2009,5.0,North America,North America_Nicaragua
+2210,Nicaragua,NIC,2010,4.8,North America,North America_Nicaragua
+2211,Nicaragua,NIC,2011,5.5,North America,North America_Nicaragua
+2212,Nicaragua,NIC,2012,4.4,North America,North America_Nicaragua
+2213,Nicaragua,NIC,2013,5.3,North America,North America_Nicaragua
+2214,Nicaragua,NIC,2014,4.5,North America,North America_Nicaragua
+2215,Nicaragua,NIC,2015,4.2,North America,North America_Nicaragua
+2216,Nicaragua,NIC,2016,4.4,North America,North America_Nicaragua
+2217,Nicaragua,NIC,2017,4.4,North America,North America_Nicaragua
+2218,Nicaragua,NIC,2018,4.5,North America,North America_Nicaragua
+2219,Nicaragua,NIC,2019,4.4,North America,North America_Nicaragua
+2220,Niger,NER,2000,5.0,Africa,Africa_Niger
+2221,Niger,NER,2001,5.1,Africa,Africa_Niger
+2222,Niger,NER,2002,5.1,Africa,Africa_Niger
+2223,Niger,NER,2003,5.2,Africa,Africa_Niger
+2224,Niger,NER,2004,5.1,Africa,Africa_Niger
+2225,Niger,NER,2005,5.3,Africa,Africa_Niger
+2226,Niger,NER,2006,5.2,Africa,Africa_Niger
+2227,Niger,NER,2007,5.3,Africa,Africa_Niger
+2228,Niger,NER,2008,5.2,Africa,Africa_Niger
+2229,Niger,NER,2009,5.3,Africa,Africa_Niger
+2230,Niger,NER,2010,5.3,Africa,Africa_Niger
+2231,Niger,NER,2011,5.4,Africa,Africa_Niger
+2232,Niger,NER,2012,5.5,Africa,Africa_Niger
+2233,Niger,NER,2013,5.5,Africa,Africa_Niger
+2234,Niger,NER,2014,5.5,Africa,Africa_Niger
+2235,Niger,NER,2015,5.4,Africa,Africa_Niger
+2236,Niger,NER,2016,5.3,Africa,Africa_Niger
+2237,Niger,NER,2017,5.3,Africa,Africa_Niger
+2238,Niger,NER,2018,5.3,Africa,Africa_Niger
+2239,Niger,NER,2019,5.3,Africa,Africa_Niger
+2240,Nigeria,NGA,2000,4.9,Africa,Africa_Nigeria
+2241,Nigeria,NGA,2001,4.9,Africa,Africa_Nigeria
+2242,Nigeria,NGA,2002,4.8,Africa,Africa_Nigeria
+2243,Nigeria,NGA,2003,4.8,Africa,Africa_Nigeria
+2244,Nigeria,NGA,2004,4.8,Africa,Africa_Nigeria
+2245,Nigeria,NGA,2005,4.8,Africa,Africa_Nigeria
+2246,Nigeria,NGA,2006,4.7,Africa,Africa_Nigeria
+2247,Nigeria,NGA,2007,4.7,Africa,Africa_Nigeria
+2248,Nigeria,NGA,2008,4.6,Africa,Africa_Nigeria
+2249,Nigeria,NGA,2009,4.5,Africa,Africa_Nigeria
+2250,Nigeria,NGA,2010,4.4,Africa,Africa_Nigeria
+2251,Nigeria,NGA,2011,4.4,Africa,Africa_Nigeria
+2252,Nigeria,NGA,2012,4.2,Africa,Africa_Nigeria
+2253,Nigeria,NGA,2013,4.1,Africa,Africa_Nigeria
+2254,Nigeria,NGA,2014,3.9,Africa,Africa_Nigeria
+2255,Nigeria,NGA,2015,3.7,Africa,Africa_Nigeria
+2256,Nigeria,NGA,2016,3.7,Africa,Africa_Nigeria
+2257,Nigeria,NGA,2017,3.6,Africa,Africa_Nigeria
+2258,Nigeria,NGA,2018,3.5,Africa,Africa_Nigeria
+2259,Nigeria,NGA,2019,3.5,Africa,Africa_Nigeria
+2260,Norway,NOR,2000,13.9,Europe,Europe_Norway
+2261,Norway,NOR,2001,14.2,Europe,Europe_Norway
+2262,Norway,NOR,2002,12.1,Europe,Europe_Norway
+2263,Norway,NOR,2003,11.8,Europe,Europe_Norway
+2264,Norway,NOR,2004,12.8,Europe,Europe_Norway
+2265,Norway,NOR,2005,12.4,Europe,Europe_Norway
+2266,Norway,NOR,2006,12.8,Europe,Europe_Norway
+2267,Norway,NOR,2007,11.8,Europe,Europe_Norway
+2268,Norway,NOR,2008,11.8,Europe,Europe_Norway
+2269,Norway,NOR,2009,13.0,Europe,Europe_Norway
+2270,Norway,NOR,2010,12.4,Europe,Europe_Norway
+2271,Norway,NOR,2011,13.3,Europe,Europe_Norway
+2272,Norway,NOR,2012,11.4,Europe,Europe_Norway
+2273,Norway,NOR,2013,11.8,Europe,Europe_Norway
+2274,Norway,NOR,2014,11.6,Europe,Europe_Norway
+2275,Norway,NOR,2015,12.5,Europe,Europe_Norway
+2276,Norway,NOR,2016,12.6,Europe,Europe_Norway
+2277,Norway,NOR,2017,12.1,Europe,Europe_Norway
+2278,Norway,NOR,2018,12.0,Europe,Europe_Norway
+2279,Norway,NOR,2019,11.8,Europe,Europe_Norway
+2280,Oman,OMN,2000,6.2,Asia,Asia_Oman
+2281,Oman,OMN,2001,6.2,Asia,Asia_Oman
+2282,Oman,OMN,2002,5.9,Asia,Asia_Oman
+2283,Oman,OMN,2003,6.1,Asia,Asia_Oman
+2284,Oman,OMN,2004,5.9,Asia,Asia_Oman
+2285,Oman,OMN,2005,6.0,Asia,Asia_Oman
+2286,Oman,OMN,2006,6.5,Asia,Asia_Oman
+2287,Oman,OMN,2007,6.8,Asia,Asia_Oman
+2288,Oman,OMN,2008,6.8,Asia,Asia_Oman
+2289,Oman,OMN,2009,6.5,Asia,Asia_Oman
+2290,Oman,OMN,2010,6.7,Asia,Asia_Oman
+2291,Oman,OMN,2011,6.1,Asia,Asia_Oman
+2292,Oman,OMN,2012,5.4,Asia,Asia_Oman
+2293,Oman,OMN,2013,5.3,Asia,Asia_Oman
+2294,Oman,OMN,2014,5.1,Asia,Asia_Oman
+2295,Oman,OMN,2015,5.0,Asia,Asia_Oman
+2296,Oman,OMN,2016,4.7,Asia,Asia_Oman
+2297,Oman,OMN,2017,4.7,Asia,Asia_Oman
+2298,Oman,OMN,2018,4.7,Asia,Asia_Oman
+2299,Oman,OMN,2019,4.9,Asia,Asia_Oman
+2300,Pakistan,PAK,2000,8.8,Asia,Asia_Pakistan
+2301,Pakistan,PAK,2001,8.9,Asia,Asia_Pakistan
+2302,Pakistan,PAK,2002,9.1,Asia,Asia_Pakistan
+2303,Pakistan,PAK,2003,9.1,Asia,Asia_Pakistan
+2304,Pakistan,PAK,2004,9.2,Asia,Asia_Pakistan
+2305,Pakistan,PAK,2005,9.0,Asia,Asia_Pakistan
+2306,Pakistan,PAK,2006,9.2,Asia,Asia_Pakistan
+2307,Pakistan,PAK,2007,9.1,Asia,Asia_Pakistan
+2308,Pakistan,PAK,2008,9.0,Asia,Asia_Pakistan
+2309,Pakistan,PAK,2009,8.8,Asia,Asia_Pakistan
+2310,Pakistan,PAK,2010,8.8,Asia,Asia_Pakistan
+2311,Pakistan,PAK,2011,8.7,Asia,Asia_Pakistan
+2312,Pakistan,PAK,2012,8.8,Asia,Asia_Pakistan
+2313,Pakistan,PAK,2013,8.9,Asia,Asia_Pakistan
+2314,Pakistan,PAK,2014,8.9,Asia,Asia_Pakistan
+2315,Pakistan,PAK,2015,9.0,Asia,Asia_Pakistan
+2316,Pakistan,PAK,2016,9.1,Asia,Asia_Pakistan
+2317,Pakistan,PAK,2017,9.1,Asia,Asia_Pakistan
+2318,Pakistan,PAK,2018,8.9,Asia,Asia_Pakistan
+2319,Pakistan,PAK,2019,8.9,Asia,Asia_Pakistan
+2320,Panama,PAN,2000,5.4,North America,North America_Panama
+2321,Panama,PAN,2001,5.7,North America,North America_Panama
+2322,Panama,PAN,2002,5.3,North America,North America_Panama
+2323,Panama,PAN,2003,5.9,North America,North America_Panama
+2324,Panama,PAN,2004,5.8,North America,North America_Panama
+2325,Panama,PAN,2005,5.0,North America,North America_Panama
+2326,Panama,PAN,2006,5.7,North America,North America_Panama
+2327,Panama,PAN,2007,4.9,North America,North America_Panama
+2328,Panama,PAN,2008,5.4,North America,North America_Panama
+2329,Panama,PAN,2009,4.8,North America,North America_Panama
+2330,Panama,PAN,2010,4.2,North America,North America_Panama
+2331,Panama,PAN,2011,3.8,North America,North America_Panama
+2332,Panama,PAN,2012,3.6,North America,North America_Panama
+2333,Panama,PAN,2013,3.4,North America,North America_Panama
+2334,Panama,PAN,2014,4.1,North America,North America_Panama
+2335,Panama,PAN,2015,2.9,North America,North America_Panama
+2336,Panama,PAN,2016,3.3,North America,North America_Panama
+2337,Panama,PAN,2017,3.2,North America,North America_Panama
+2338,Panama,PAN,2018,2.9,North America,North America_Panama
+2339,Panama,PAN,2019,2.9,North America,North America_Panama
+2340,Papua New Guinea,PNG,2000,2.1,Oceania,Oceania_Papua New Guinea
+2341,Papua New Guinea,PNG,2001,2.3,Oceania,Oceania_Papua New Guinea
+2342,Papua New Guinea,PNG,2002,2.3,Oceania,Oceania_Papua New Guinea
+2343,Papua New Guinea,PNG,2003,2.4,Oceania,Oceania_Papua New Guinea
+2344,Papua New Guinea,PNG,2004,2.4,Oceania,Oceania_Papua New Guinea
+2345,Papua New Guinea,PNG,2005,2.4,Oceania,Oceania_Papua New Guinea
+2346,Papua New Guinea,PNG,2006,2.4,Oceania,Oceania_Papua New Guinea
+2347,Papua New Guinea,PNG,2007,2.5,Oceania,Oceania_Papua New Guinea
+2348,Papua New Guinea,PNG,2008,2.5,Oceania,Oceania_Papua New Guinea
+2349,Papua New Guinea,PNG,2009,2.4,Oceania,Oceania_Papua New Guinea
+2350,Papua New Guinea,PNG,2010,2.6,Oceania,Oceania_Papua New Guinea
+2351,Papua New Guinea,PNG,2011,2.6,Oceania,Oceania_Papua New Guinea
+2352,Papua New Guinea,PNG,2012,2.7,Oceania,Oceania_Papua New Guinea
+2353,Papua New Guinea,PNG,2013,2.7,Oceania,Oceania_Papua New Guinea
+2354,Papua New Guinea,PNG,2014,2.9,Oceania,Oceania_Papua New Guinea
+2355,Papua New Guinea,PNG,2015,3.0,Oceania,Oceania_Papua New Guinea
+2356,Papua New Guinea,PNG,2016,3.0,Oceania,Oceania_Papua New Guinea
+2357,Papua New Guinea,PNG,2017,2.8,Oceania,Oceania_Papua New Guinea
+2358,Papua New Guinea,PNG,2018,2.9,Oceania,Oceania_Papua New Guinea
+2359,Papua New Guinea,PNG,2019,3.0,Oceania,Oceania_Papua New Guinea
+2360,Paraguay,PRY,2000,3.1,South America,South America_Paraguay
+2361,Paraguay,PRY,2001,3.1,South America,South America_Paraguay
+2362,Paraguay,PRY,2002,3.6,South America,South America_Paraguay
+2363,Paraguay,PRY,2003,3.4,South America,South America_Paraguay
+2364,Paraguay,PRY,2004,4.2,South America,South America_Paraguay
+2365,Paraguay,PRY,2005,4.4,South America,South America_Paraguay
+2366,Paraguay,PRY,2006,4.2,South America,South America_Paraguay
+2367,Paraguay,PRY,2007,3.8,South America,South America_Paraguay
+2368,Paraguay,PRY,2008,3.6,South America,South America_Paraguay
+2369,Paraguay,PRY,2009,4.4,South America,South America_Paraguay
+2370,Paraguay,PRY,2010,3.5,South America,South America_Paraguay
+2371,Paraguay,PRY,2011,4.6,South America,South America_Paraguay
+2372,Paraguay,PRY,2012,4.6,South America,South America_Paraguay
+2373,Paraguay,PRY,2013,4.9,South America,South America_Paraguay
+2374,Paraguay,PRY,2014,5.9,South America,South America_Paraguay
+2375,Paraguay,PRY,2015,5.7,South America,South America_Paraguay
+2376,Paraguay,PRY,2016,5.3,South America,South America_Paraguay
+2377,Paraguay,PRY,2017,6.1,South America,South America_Paraguay
+2378,Paraguay,PRY,2018,6.0,South America,South America_Paraguay
+2379,Paraguay,PRY,2019,6.0,South America,South America_Paraguay
+2380,Peru,PER,2000,3.1,South America,South America_Peru
+2381,Peru,PER,2001,2.9,South America,South America_Peru
+2382,Peru,PER,2002,2.9,South America,South America_Peru
+2383,Peru,PER,2003,3.0,South America,South America_Peru
+2384,Peru,PER,2004,2.8,South America,South America_Peru
+2385,Peru,PER,2005,2.7,South America,South America_Peru
+2386,Peru,PER,2006,2.7,South America,South America_Peru
+2387,Peru,PER,2007,2.6,South America,South America_Peru
+2388,Peru,PER,2008,2.7,South America,South America_Peru
+2389,Peru,PER,2009,3.3,South America,South America_Peru
+2390,Peru,PER,2010,3.5,South America,South America_Peru
+2391,Peru,PER,2011,3.3,South America,South America_Peru
+2392,Peru,PER,2012,3.2,South America,South America_Peru
+2393,Peru,PER,2013,3.1,South America,South America_Peru
+2394,Peru,PER,2014,2.9,South America,South America_Peru
+2395,Peru,PER,2015,2.7,South America,South America_Peru
+2396,Peru,PER,2016,2.6,South America,South America_Peru
+2397,Peru,PER,2017,2.7,South America,South America_Peru
+2398,Peru,PER,2018,2.8,South America,South America_Peru
+2399,Peru,PER,2019,2.8,South America,South America_Peru
+2400,Philippines,PHL,2000,1.8,Asia,Asia_Philippines
+2401,Philippines,PHL,2001,1.5,Asia,Asia_Philippines
+2402,Philippines,PHL,2002,1.7,Asia,Asia_Philippines
+2403,Philippines,PHL,2003,1.8,Asia,Asia_Philippines
+2404,Philippines,PHL,2004,1.8,Asia,Asia_Philippines
+2405,Philippines,PHL,2005,1.9,Asia,Asia_Philippines
+2406,Philippines,PHL,2006,2.0,Asia,Asia_Philippines
+2407,Philippines,PHL,2007,1.9,Asia,Asia_Philippines
+2408,Philippines,PHL,2008,2.0,Asia,Asia_Philippines
+2409,Philippines,PHL,2009,2.3,Asia,Asia_Philippines
+2410,Philippines,PHL,2010,2.4,Asia,Asia_Philippines
+2411,Philippines,PHL,2011,2.7,Asia,Asia_Philippines
+2412,Philippines,PHL,2012,2.4,Asia,Asia_Philippines
+2413,Philippines,PHL,2013,2.4,Asia,Asia_Philippines
+2414,Philippines,PHL,2014,2.3,Asia,Asia_Philippines
+2415,Philippines,PHL,2015,2.3,Asia,Asia_Philippines
+2416,Philippines,PHL,2016,2.2,Asia,Asia_Philippines
+2417,Philippines,PHL,2017,2.2,Asia,Asia_Philippines
+2418,Philippines,PHL,2018,2.2,Asia,Asia_Philippines
+2419,Philippines,PHL,2019,2.2,Asia,Asia_Philippines
+2420,Poland,POL,2000,17.0,Europe,Europe_Poland
+2421,Poland,POL,2001,17.2,Europe,Europe_Poland
+2422,Poland,POL,2002,17.3,Europe,Europe_Poland
+2423,Poland,POL,2003,17.0,Europe,Europe_Poland
+2424,Poland,POL,2004,17.6,Europe,Europe_Poland
+2425,Poland,POL,2005,17.7,Europe,Europe_Poland
+2426,Poland,POL,2006,17.1,Europe,Europe_Poland
+2427,Poland,POL,2007,15.7,Europe,Europe_Poland
+2428,Poland,POL,2008,17.0,Europe,Europe_Poland
+2429,Poland,POL,2009,19.2,Europe,Europe_Poland
+2430,Poland,POL,2010,18.6,Europe,Europe_Poland
+2431,Poland,POL,2011,18.0,Europe,Europe_Poland
+2432,Poland,POL,2012,18.5,Europe,Europe_Poland
+2433,Poland,POL,2013,18.2,Europe,Europe_Poland
+2434,Poland,POL,2014,17.4,Europe,Europe_Poland
+2435,Poland,POL,2015,15.9,Europe,Europe_Poland
+2436,Poland,POL,2016,13.8,Europe,Europe_Poland
+2437,Poland,POL,2017,13.3,Europe,Europe_Poland
+2438,Poland,POL,2018,12.7,Europe,Europe_Poland
+2439,Poland,POL,2019,11.3,Europe,Europe_Poland
+2440,Portugal,PRT,2000,7.6,Europe,Europe_Portugal
+2441,Portugal,PRT,2001,8.8,Europe,Europe_Portugal
+2442,Portugal,PRT,2002,12.5,Europe,Europe_Portugal
+2443,Portugal,PRT,2003,11.9,Europe,Europe_Portugal
+2444,Portugal,PRT,2004,10.6,Europe,Europe_Portugal
+2445,Portugal,PRT,2005,11.4,Europe,Europe_Portugal
+2446,Portugal,PRT,2006,11.5,Europe,Europe_Portugal
+2447,Portugal,PRT,2007,12.6,Europe,Europe_Portugal
+2448,Portugal,PRT,2008,13.1,Europe,Europe_Portugal
+2449,Portugal,PRT,2009,13.1,Europe,Europe_Portugal
+2450,Portugal,PRT,2010,13.6,Europe,Europe_Portugal
+2451,Portugal,PRT,2011,12.3,Europe,Europe_Portugal
+2452,Portugal,PRT,2012,13.5,Europe,Europe_Portugal
+2453,Portugal,PRT,2013,12.5,Europe,Europe_Portugal
+2454,Portugal,PRT,2014,14.2,Europe,Europe_Portugal
+2455,Portugal,PRT,2015,13.2,Europe,Europe_Portugal
+2456,Portugal,PRT,2016,11.4,Europe,Europe_Portugal
+2457,Portugal,PRT,2017,12.0,Europe,Europe_Portugal
+2458,Portugal,PRT,2018,11.7,Europe,Europe_Portugal
+2459,Portugal,PRT,2019,11.5,Europe,Europe_Portugal
+2460,Qatar,QAT,2000,7.8,Asia,Asia_Qatar
+2461,Qatar,QAT,2001,8.0,Asia,Asia_Qatar
+2462,Qatar,QAT,2002,7.8,Asia,Asia_Qatar
+2463,Qatar,QAT,2003,7.4,Asia,Asia_Qatar
+2464,Qatar,QAT,2004,7.2,Asia,Asia_Qatar
+2465,Qatar,QAT,2005,6.8,Asia,Asia_Qatar
+2466,Qatar,QAT,2006,6.8,Asia,Asia_Qatar
+2467,Qatar,QAT,2007,8.4,Asia,Asia_Qatar
+2468,Qatar,QAT,2008,8.3,Asia,Asia_Qatar
+2469,Qatar,QAT,2009,8.4,Asia,Asia_Qatar
+2470,Qatar,QAT,2010,8.2,Asia,Asia_Qatar
+2471,Qatar,QAT,2011,8.0,Asia,Asia_Qatar
+2472,Qatar,QAT,2012,7.4,Asia,Asia_Qatar
+2473,Qatar,QAT,2013,6.7,Asia,Asia_Qatar
+2474,Qatar,QAT,2014,6.3,Asia,Asia_Qatar
+2475,Qatar,QAT,2015,6.1,Asia,Asia_Qatar
+2476,Qatar,QAT,2016,6.1,Asia,Asia_Qatar
+2477,Qatar,QAT,2017,5.8,Asia,Asia_Qatar
+2478,Qatar,QAT,2018,5.8,Asia,Asia_Qatar
+2479,Qatar,QAT,2019,5.8,Asia,Asia_Qatar
+2480,Romania,ROU,2000,12.9,Europe,Europe_Romania
+2481,Romania,ROU,2001,12.3,Europe,Europe_Romania
+2482,Romania,ROU,2002,14.2,Europe,Europe_Romania
+2483,Romania,ROU,2003,13.5,Europe,Europe_Romania
+2484,Romania,ROU,2004,12.7,Europe,Europe_Romania
+2485,Romania,ROU,2005,12.3,Europe,Europe_Romania
+2486,Romania,ROU,2006,12.9,Europe,Europe_Romania
+2487,Romania,ROU,2007,11.6,Europe,Europe_Romania
+2488,Romania,ROU,2008,11.7,Europe,Europe_Romania
+2489,Romania,ROU,2009,12.2,Europe,Europe_Romania
+2490,Romania,ROU,2010,13.2,Europe,Europe_Romania
+2491,Romania,ROU,2011,12.1,Europe,Europe_Romania
+2492,Romania,ROU,2012,12.6,Europe,Europe_Romania
+2493,Romania,ROU,2013,12.2,Europe,Europe_Romania
+2494,Romania,ROU,2014,11.3,Europe,Europe_Romania
+2495,Romania,ROU,2015,11.5,Europe,Europe_Romania
+2496,Romania,ROU,2016,10.2,Europe,Europe_Romania
+2497,Romania,ROU,2017,10.1,Europe,Europe_Romania
+2498,Romania,ROU,2018,10.2,Europe,Europe_Romania
+2499,Romania,ROU,2019,9.7,Europe,Europe_Romania
+2500,Rwanda,RWA,2000,15.8,Africa,Africa_Rwanda
+2501,Rwanda,RWA,2001,14.0,Africa,Africa_Rwanda
+2502,Rwanda,RWA,2002,12.5,Africa,Africa_Rwanda
+2503,Rwanda,RWA,2003,11.0,Africa,Africa_Rwanda
+2504,Rwanda,RWA,2004,9.6,Africa,Africa_Rwanda
+2505,Rwanda,RWA,2005,8.8,Africa,Africa_Rwanda
+2506,Rwanda,RWA,2006,8.4,Africa,Africa_Rwanda
+2507,Rwanda,RWA,2007,8.0,Africa,Africa_Rwanda
+2508,Rwanda,RWA,2008,7.5,Africa,Africa_Rwanda
+2509,Rwanda,RWA,2009,7.0,Africa,Africa_Rwanda
+2510,Rwanda,RWA,2010,6.6,Africa,Africa_Rwanda
+2511,Rwanda,RWA,2011,6.2,Africa,Africa_Rwanda
+2512,Rwanda,RWA,2012,6.0,Africa,Africa_Rwanda
+2513,Rwanda,RWA,2013,5.8,Africa,Africa_Rwanda
+2514,Rwanda,RWA,2014,5.8,Africa,Africa_Rwanda
+2515,Rwanda,RWA,2015,5.7,Africa,Africa_Rwanda
+2516,Rwanda,RWA,2016,5.7,Africa,Africa_Rwanda
+2517,Rwanda,RWA,2017,5.6,Africa,Africa_Rwanda
+2518,Rwanda,RWA,2018,5.6,Africa,Africa_Rwanda
+2519,Rwanda,RWA,2019,5.6,Africa,Africa_Rwanda
+2520,Saint Lucia,LCA,2000,7.2,North America,North America_Saint Lucia
+2521,Saint Lucia,LCA,2001,7.3,North America,North America_Saint Lucia
+2522,Saint Lucia,LCA,2002,6.8,North America,North America_Saint Lucia
+2523,Saint Lucia,LCA,2003,7.2,North America,North America_Saint Lucia
+2524,Saint Lucia,LCA,2004,6.9,North America,North America_Saint Lucia
+2525,Saint Lucia,LCA,2005,7.1,North America,North America_Saint Lucia
+2526,Saint Lucia,LCA,2006,7.6,North America,North America_Saint Lucia
+2527,Saint Lucia,LCA,2007,7.1,North America,North America_Saint Lucia
+2528,Saint Lucia,LCA,2008,8.0,North America,North America_Saint Lucia
+2529,Saint Lucia,LCA,2009,7.2,North America,North America_Saint Lucia
+2530,Saint Lucia,LCA,2010,7.9,North America,North America_Saint Lucia
+2531,Saint Lucia,LCA,2011,7.2,North America,North America_Saint Lucia
+2532,Saint Lucia,LCA,2012,8.7,North America,North America_Saint Lucia
+2533,Saint Lucia,LCA,2013,8.3,North America,North America_Saint Lucia
+2534,Saint Lucia,LCA,2014,8.9,North America,North America_Saint Lucia
+2535,Saint Lucia,LCA,2015,8.7,North America,North America_Saint Lucia
+2536,Saint Lucia,LCA,2016,7.4,North America,North America_Saint Lucia
+2537,Saint Lucia,LCA,2017,7.9,North America,North America_Saint Lucia
+2538,Saint Lucia,LCA,2018,8.0,North America,North America_Saint Lucia
+2539,Saint Lucia,LCA,2019,7.9,North America,North America_Saint Lucia
+2540,Saint Vincent and the Grenadines,VCT,2000,5.7,North America,North America_Saint Vincent and the Grenadines
+2541,Saint Vincent and the Grenadines,VCT,2001,5.2,North America,North America_Saint Vincent and the Grenadines
+2542,Saint Vincent and the Grenadines,VCT,2002,6.6,North America,North America_Saint Vincent and the Grenadines
+2543,Saint Vincent and the Grenadines,VCT,2003,5.8,North America,North America_Saint Vincent and the Grenadines
+2544,Saint Vincent and the Grenadines,VCT,2004,5.1,North America,North America_Saint Vincent and the Grenadines
+2545,Saint Vincent and the Grenadines,VCT,2005,9.9,North America,North America_Saint Vincent and the Grenadines
+2546,Saint Vincent and the Grenadines,VCT,2006,6.2,North America,North America_Saint Vincent and the Grenadines
+2547,Saint Vincent and the Grenadines,VCT,2007,8.4,North America,North America_Saint Vincent and the Grenadines
+2548,Saint Vincent and the Grenadines,VCT,2008,4.2,North America,North America_Saint Vincent and the Grenadines
+2549,Saint Vincent and the Grenadines,VCT,2009,2.6,North America,North America_Saint Vincent and the Grenadines
+2550,Saint Vincent and the Grenadines,VCT,2010,3.0,North America,North America_Saint Vincent and the Grenadines
+2551,Saint Vincent and the Grenadines,VCT,2011,5.6,North America,North America_Saint Vincent and the Grenadines
+2552,Saint Vincent and the Grenadines,VCT,2012,5.4,North America,North America_Saint Vincent and the Grenadines
+2553,Saint Vincent and the Grenadines,VCT,2013,3.9,North America,North America_Saint Vincent and the Grenadines
+2554,Saint Vincent and the Grenadines,VCT,2014,1.4,North America,North America_Saint Vincent and the Grenadines
+2555,Saint Vincent and the Grenadines,VCT,2015,3.3,North America,North America_Saint Vincent and the Grenadines
+2556,Saint Vincent and the Grenadines,VCT,2016,0.7,North America,North America_Saint Vincent and the Grenadines
+2557,Saint Vincent and the Grenadines,VCT,2017,0.0,North America,North America_Saint Vincent and the Grenadines
+2558,Saint Vincent and the Grenadines,VCT,2018,1.0,North America,North America_Saint Vincent and the Grenadines
+2559,Saint Vincent and the Grenadines,VCT,2019,1.0,North America,North America_Saint Vincent and the Grenadines
+2560,Samoa,WSM,2000,13.7,Oceania,Oceania_Samoa
+2561,Samoa,WSM,2001,13.7,Oceania,Oceania_Samoa
+2562,Samoa,WSM,2002,13.4,Oceania,Oceania_Samoa
+2563,Samoa,WSM,2003,13.2,Oceania,Oceania_Samoa
+2564,Samoa,WSM,2004,12.8,Oceania,Oceania_Samoa
+2565,Samoa,WSM,2005,12.9,Oceania,Oceania_Samoa
+2566,Samoa,WSM,2006,13.0,Oceania,Oceania_Samoa
+2567,Samoa,WSM,2007,12.9,Oceania,Oceania_Samoa
+2568,Samoa,WSM,2008,12.8,Oceania,Oceania_Samoa
+2569,Samoa,WSM,2009,11.0,Oceania,Oceania_Samoa
+2570,Samoa,WSM,2010,12.8,Oceania,Oceania_Samoa
+2571,Samoa,WSM,2011,12.8,Oceania,Oceania_Samoa
+2572,Samoa,WSM,2012,12.7,Oceania,Oceania_Samoa
+2573,Samoa,WSM,2013,12.1,Oceania,Oceania_Samoa
+2574,Samoa,WSM,2014,12.8,Oceania,Oceania_Samoa
+2575,Samoa,WSM,2015,12.7,Oceania,Oceania_Samoa
+2576,Samoa,WSM,2016,12.8,Oceania,Oceania_Samoa
+2577,Samoa,WSM,2017,12.6,Oceania,Oceania_Samoa
+2578,Samoa,WSM,2018,12.6,Oceania,Oceania_Samoa
+2579,Samoa,WSM,2019,12.6,Oceania,Oceania_Samoa
+2580,Sao Tome and Principe,STP,2000,1.4,Africa,Africa_Sao Tome and Principe
+2581,Sao Tome and Principe,STP,2001,1.5,Africa,Africa_Sao Tome and Principe
+2582,Sao Tome and Principe,STP,2002,1.6,Africa,Africa_Sao Tome and Principe
+2583,Sao Tome and Principe,STP,2003,1.3,Africa,Africa_Sao Tome and Principe
+2584,Sao Tome and Principe,STP,2004,1.5,Africa,Africa_Sao Tome and Principe
+2585,Sao Tome and Principe,STP,2005,1.3,Africa,Africa_Sao Tome and Principe
+2586,Sao Tome and Principe,STP,2006,1.5,Africa,Africa_Sao Tome and Principe
+2587,Sao Tome and Principe,STP,2007,1.6,Africa,Africa_Sao Tome and Principe
+2588,Sao Tome and Principe,STP,2008,1.6,Africa,Africa_Sao Tome and Principe
+2589,Sao Tome and Principe,STP,2009,1.5,Africa,Africa_Sao Tome and Principe
+2590,Sao Tome and Principe,STP,2010,1.5,Africa,Africa_Sao Tome and Principe
+2591,Sao Tome and Principe,STP,2011,1.4,Africa,Africa_Sao Tome and Principe
+2592,Sao Tome and Principe,STP,2012,1.5,Africa,Africa_Sao Tome and Principe
+2593,Sao Tome and Principe,STP,2013,1.5,Africa,Africa_Sao Tome and Principe
+2594,Sao Tome and Principe,STP,2014,1.5,Africa,Africa_Sao Tome and Principe
+2595,Sao Tome and Principe,STP,2015,1.5,Africa,Africa_Sao Tome and Principe
+2596,Sao Tome and Principe,STP,2016,1.5,Africa,Africa_Sao Tome and Principe
+2597,Sao Tome and Principe,STP,2017,1.5,Africa,Africa_Sao Tome and Principe
+2598,Sao Tome and Principe,STP,2018,1.5,Africa,Africa_Sao Tome and Principe
+2599,Sao Tome and Principe,STP,2019,1.5,Africa,Africa_Sao Tome and Principe
+2600,Saudi Arabia,SAU,2000,3.2,Asia,Asia_Saudi Arabia
+2601,Saudi Arabia,SAU,2001,3.3,Asia,Asia_Saudi Arabia
+2602,Saudi Arabia,SAU,2002,3.4,Asia,Asia_Saudi Arabia
+2603,Saudi Arabia,SAU,2003,3.5,Asia,Asia_Saudi Arabia
+2604,Saudi Arabia,SAU,2004,3.4,Asia,Asia_Saudi Arabia
+2605,Saudi Arabia,SAU,2005,3.7,Asia,Asia_Saudi Arabia
+2606,Saudi Arabia,SAU,2006,4.0,Asia,Asia_Saudi Arabia
+2607,Saudi Arabia,SAU,2007,4.3,Asia,Asia_Saudi Arabia
+2608,Saudi Arabia,SAU,2008,4.6,Asia,Asia_Saudi Arabia
+2609,Saudi Arabia,SAU,2009,5.0,Asia,Asia_Saudi Arabia
+2610,Saudi Arabia,SAU,2010,5.5,Asia,Asia_Saudi Arabia
+2611,Saudi Arabia,SAU,2011,6.1,Asia,Asia_Saudi Arabia
+2612,Saudi Arabia,SAU,2012,6.4,Asia,Asia_Saudi Arabia
+2613,Saudi Arabia,SAU,2013,6.5,Asia,Asia_Saudi Arabia
+2614,Saudi Arabia,SAU,2014,6.6,Asia,Asia_Saudi Arabia
+2615,Saudi Arabia,SAU,2015,6.3,Asia,Asia_Saudi Arabia
+2616,Saudi Arabia,SAU,2016,6.3,Asia,Asia_Saudi Arabia
+2617,Saudi Arabia,SAU,2017,6.2,Asia,Asia_Saudi Arabia
+2618,Saudi Arabia,SAU,2018,6.1,Asia,Asia_Saudi Arabia
+2619,Saudi Arabia,SAU,2019,6.0,Asia,Asia_Saudi Arabia
+2620,Senegal,SEN,2000,7.8,Africa,Africa_Senegal
+2621,Senegal,SEN,2001,7.6,Africa,Africa_Senegal
+2622,Senegal,SEN,2002,7.5,Africa,Africa_Senegal
+2623,Senegal,SEN,2003,7.4,Africa,Africa_Senegal
+2624,Senegal,SEN,2004,7.3,Africa,Africa_Senegal
+2625,Senegal,SEN,2005,7.2,Africa,Africa_Senegal
+2626,Senegal,SEN,2006,7.0,Africa,Africa_Senegal
+2627,Senegal,SEN,2007,6.7,Africa,Africa_Senegal
+2628,Senegal,SEN,2008,6.8,Africa,Africa_Senegal
+2629,Senegal,SEN,2009,6.7,Africa,Africa_Senegal
+2630,Senegal,SEN,2010,6.6,Africa,Africa_Senegal
+2631,Senegal,SEN,2011,6.5,Africa,Africa_Senegal
+2632,Senegal,SEN,2012,6.5,Africa,Africa_Senegal
+2633,Senegal,SEN,2013,6.5,Africa,Africa_Senegal
+2634,Senegal,SEN,2014,6.5,Africa,Africa_Senegal
+2635,Senegal,SEN,2015,6.4,Africa,Africa_Senegal
+2636,Senegal,SEN,2016,6.3,Africa,Africa_Senegal
+2637,Senegal,SEN,2017,6.2,Africa,Africa_Senegal
+2638,Senegal,SEN,2018,6.1,Africa,Africa_Senegal
+2639,Senegal,SEN,2019,6.0,Africa,Africa_Senegal
+2640,Serbia,SRB,2000,23.1,Europe,Europe_Serbia
+2641,Serbia,SRB,2001,21.8,Europe,Europe_Serbia
+2642,Serbia,SRB,2002,22.4,Europe,Europe_Serbia
+2643,Serbia,SRB,2003,21.2,Europe,Europe_Serbia
+2644,Serbia,SRB,2004,21.3,Europe,Europe_Serbia
+2645,Serbia,SRB,2005,20.1,Europe,Europe_Serbia
+2646,Serbia,SRB,2006,19.5,Europe,Europe_Serbia
+2647,Serbia,SRB,2007,18.7,Europe,Europe_Serbia
+2648,Serbia,SRB,2008,18.0,Europe,Europe_Serbia
+2649,Serbia,SRB,2009,19.5,Europe,Europe_Serbia
+2650,Serbia,SRB,2010,17.2,Europe,Europe_Serbia
+2651,Serbia,SRB,2011,18.0,Europe,Europe_Serbia
+2652,Serbia,SRB,2012,18.2,Europe,Europe_Serbia
+2653,Serbia,SRB,2013,17.9,Europe,Europe_Serbia
+2654,Serbia,SRB,2014,17.0,Europe,Europe_Serbia
+2655,Serbia,SRB,2015,16.4,Europe,Europe_Serbia
+2656,Serbia,SRB,2016,15.2,Europe,Europe_Serbia
+2657,Serbia,SRB,2017,0.6,Europe,Europe_Serbia
+2658,Serbia,SRB,2018,11.3,Europe,Europe_Serbia
+2659,Serbia,SRB,2019,11.4,Europe,Europe_Serbia
+2660,Seychelles,SYC,2000,9.2,Africa,Africa_Seychelles
+2661,Seychelles,SYC,2001,9.2,Africa,Africa_Seychelles
+2662,Seychelles,SYC,2002,8.6,Africa,Africa_Seychelles
+2663,Seychelles,SYC,2003,9.0,Africa,Africa_Seychelles
+2664,Seychelles,SYC,2004,9.3,Africa,Africa_Seychelles
+2665,Seychelles,SYC,2005,8.4,Africa,Africa_Seychelles
+2666,Seychelles,SYC,2006,8.1,Africa,Africa_Seychelles
+2667,Seychelles,SYC,2007,7.6,Africa,Africa_Seychelles
+2668,Seychelles,SYC,2008,7.8,Africa,Africa_Seychelles
+2669,Seychelles,SYC,2009,7.5,Africa,Africa_Seychelles
+2670,Seychelles,SYC,2010,7.8,Africa,Africa_Seychelles
+2671,Seychelles,SYC,2011,7.9,Africa,Africa_Seychelles
+2672,Seychelles,SYC,2012,7.7,Africa,Africa_Seychelles
+2673,Seychelles,SYC,2013,7.7,Africa,Africa_Seychelles
+2674,Seychelles,SYC,2014,7.9,Africa,Africa_Seychelles
+2675,Seychelles,SYC,2015,8.0,Africa,Africa_Seychelles
+2676,Seychelles,SYC,2016,8.0,Africa,Africa_Seychelles
+2677,Seychelles,SYC,2017,8.3,Africa,Africa_Seychelles
+2678,Seychelles,SYC,2018,8.2,Africa,Africa_Seychelles
+2679,Seychelles,SYC,2019,8.1,Africa,Africa_Seychelles
+2680,Sierra Leone,SLE,2000,5.7,Africa,Africa_Sierra Leone
+2681,Sierra Leone,SLE,2001,5.9,Africa,Africa_Sierra Leone
+2682,Sierra Leone,SLE,2002,6.0,Africa,Africa_Sierra Leone
+2683,Sierra Leone,SLE,2003,6.1,Africa,Africa_Sierra Leone
+2684,Sierra Leone,SLE,2004,6.1,Africa,Africa_Sierra Leone
+2685,Sierra Leone,SLE,2005,6.0,Africa,Africa_Sierra Leone
+2686,Sierra Leone,SLE,2006,6.5,Africa,Africa_Sierra Leone
+2687,Sierra Leone,SLE,2007,6.4,Africa,Africa_Sierra Leone
+2688,Sierra Leone,SLE,2008,6.5,Africa,Africa_Sierra Leone
+2689,Sierra Leone,SLE,2009,6.6,Africa,Africa_Sierra Leone
+2690,Sierra Leone,SLE,2010,6.8,Africa,Africa_Sierra Leone
+2691,Sierra Leone,SLE,2011,6.5,Africa,Africa_Sierra Leone
+2692,Sierra Leone,SLE,2012,6.6,Africa,Africa_Sierra Leone
+2693,Sierra Leone,SLE,2013,6.3,Africa,Africa_Sierra Leone
+2694,Sierra Leone,SLE,2014,6.2,Africa,Africa_Sierra Leone
+2695,Sierra Leone,SLE,2015,5.9,Africa,Africa_Sierra Leone
+2696,Sierra Leone,SLE,2016,6.2,Africa,Africa_Sierra Leone
+2697,Sierra Leone,SLE,2017,6.3,Africa,Africa_Sierra Leone
+2698,Sierra Leone,SLE,2018,6.6,Africa,Africa_Sierra Leone
+2699,Sierra Leone,SLE,2019,6.7,Africa,Africa_Sierra Leone
+2700,Singapore,SGP,2000,12.4,Asia,Asia_Singapore
+2701,Singapore,SGP,2001,11.3,Asia,Asia_Singapore
+2702,Singapore,SGP,2002,12.4,Asia,Asia_Singapore
+2703,Singapore,SGP,2003,12.1,Asia,Asia_Singapore
+2704,Singapore,SGP,2004,11.7,Asia,Asia_Singapore
+2705,Singapore,SGP,2005,11.2,Asia,Asia_Singapore
+2706,Singapore,SGP,2006,11.7,Asia,Asia_Singapore
+2707,Singapore,SGP,2007,10.7,Asia,Asia_Singapore
+2708,Singapore,SGP,2008,10.4,Asia,Asia_Singapore
+2709,Singapore,SGP,2009,10.5,Asia,Asia_Singapore
+2710,Singapore,SGP,2010,9.9,Asia,Asia_Singapore
+2711,Singapore,SGP,2011,9.6,Asia,Asia_Singapore
+2712,Singapore,SGP,2012,11.3,Asia,Asia_Singapore
+2713,Singapore,SGP,2013,10.3,Asia,Asia_Singapore
+2714,Singapore,SGP,2014,10.2,Asia,Asia_Singapore
+2715,Singapore,SGP,2015,9.0,Asia,Asia_Singapore
+2716,Singapore,SGP,2016,9.1,Asia,Asia_Singapore
+2717,Singapore,SGP,2017,9.0,Asia,Asia_Singapore
+2718,Singapore,SGP,2018,9.4,Asia,Asia_Singapore
+2719,Singapore,SGP,2019,11.2,Asia,Asia_Singapore
+2720,Slovakia,SVK,2000,14.2,Europe,Europe_Slovakia
+2721,Slovakia,SVK,2001,13.9,Europe,Europe_Slovakia
+2722,Slovakia,SVK,2002,14.6,Europe,Europe_Slovakia
+2723,Slovakia,SVK,2003,15.0,Europe,Europe_Slovakia
+2724,Slovakia,SVK,2004,13.9,Europe,Europe_Slovakia
+2725,Slovakia,SVK,2005,13.7,Europe,Europe_Slovakia
+2726,Slovakia,SVK,2006,14.5,Europe,Europe_Slovakia
+2727,Slovakia,SVK,2007,14.0,Europe,Europe_Slovakia
+2728,Slovakia,SVK,2008,12.7,Europe,Europe_Slovakia
+2729,Slovakia,SVK,2009,13.1,Europe,Europe_Slovakia
+2730,Slovakia,SVK,2010,13.6,Europe,Europe_Slovakia
+2731,Slovakia,SVK,2011,12.9,Europe,Europe_Slovakia
+2732,Slovakia,SVK,2012,12.6,Europe,Europe_Slovakia
+2733,Slovakia,SVK,2013,12.3,Europe,Europe_Slovakia
+2734,Slovakia,SVK,2014,12.9,Europe,Europe_Slovakia
+2735,Slovakia,SVK,2015,12.4,Europe,Europe_Slovakia
+2736,Slovakia,SVK,2016,12.3,Europe,Europe_Slovakia
+2737,Slovakia,SVK,2017,12.3,Europe,Europe_Slovakia
+2738,Slovakia,SVK,2018,12.2,Europe,Europe_Slovakia
+2739,Slovakia,SVK,2019,12.1,Europe,Europe_Slovakia
+2740,Slovenia,SVN,2000,32.0,Europe,Europe_Slovenia
+2741,Slovenia,SVN,2001,30.9,Europe,Europe_Slovenia
+2742,Slovenia,SVN,2002,29.1,Europe,Europe_Slovenia
+2743,Slovenia,SVN,2003,29.7,Europe,Europe_Slovenia
+2744,Slovenia,SVN,2004,28.7,Europe,Europe_Slovenia
+2745,Slovenia,SVN,2005,26.8,Europe,Europe_Slovenia
+2746,Slovenia,SVN,2006,27.9,Europe,Europe_Slovenia
+2747,Slovenia,SVN,2007,22.9,Europe,Europe_Slovenia
+2748,Slovenia,SVN,2008,20.6,Europe,Europe_Slovenia
+2749,Slovenia,SVN,2009,22.5,Europe,Europe_Slovenia
+2750,Slovenia,SVN,2010,20.7,Europe,Europe_Slovenia
+2751,Slovenia,SVN,2011,21.6,Europe,Europe_Slovenia
+2752,Slovenia,SVN,2012,22.0,Europe,Europe_Slovenia
+2753,Slovenia,SVN,2013,22.2,Europe,Europe_Slovenia
+2754,Slovenia,SVN,2014,19.6,Europe,Europe_Slovenia
+2755,Slovenia,SVN,2015,21.0,Europe,Europe_Slovenia
+2756,Slovenia,SVN,2016,19.0,Europe,Europe_Slovenia
+2757,Slovenia,SVN,2017,20.9,Europe,Europe_Slovenia
+2758,Slovenia,SVN,2018,17.8,Europe,Europe_Slovenia
+2759,Slovenia,SVN,2019,19.8,Europe,Europe_Slovenia
+2760,Solomon Islands,SLB,2000,14.4,Oceania,Oceania_Solomon Islands
+2761,Solomon Islands,SLB,2001,14.1,Oceania,Oceania_Solomon Islands
+2762,Solomon Islands,SLB,2002,14.3,Oceania,Oceania_Solomon Islands
+2763,Solomon Islands,SLB,2003,14.6,Oceania,Oceania_Solomon Islands
+2764,Solomon Islands,SLB,2004,13.8,Oceania,Oceania_Solomon Islands
+2765,Solomon Islands,SLB,2005,14.0,Oceania,Oceania_Solomon Islands
+2766,Solomon Islands,SLB,2006,14.1,Oceania,Oceania_Solomon Islands
+2767,Solomon Islands,SLB,2007,15.2,Oceania,Oceania_Solomon Islands
+2768,Solomon Islands,SLB,2008,15.8,Oceania,Oceania_Solomon Islands
+2769,Solomon Islands,SLB,2009,15.8,Oceania,Oceania_Solomon Islands
+2770,Solomon Islands,SLB,2010,15.7,Oceania,Oceania_Solomon Islands
+2771,Solomon Islands,SLB,2011,15.7,Oceania,Oceania_Solomon Islands
+2772,Solomon Islands,SLB,2012,15.6,Oceania,Oceania_Solomon Islands
+2773,Solomon Islands,SLB,2013,15.4,Oceania,Oceania_Solomon Islands
+2774,Solomon Islands,SLB,2014,15.3,Oceania,Oceania_Solomon Islands
+2775,Solomon Islands,SLB,2015,15.2,Oceania,Oceania_Solomon Islands
+2776,Solomon Islands,SLB,2016,15.1,Oceania,Oceania_Solomon Islands
+2777,Solomon Islands,SLB,2017,15.1,Oceania,Oceania_Solomon Islands
+2778,Solomon Islands,SLB,2018,15.0,Oceania,Oceania_Solomon Islands
+2779,Solomon Islands,SLB,2019,14.7,Oceania,Oceania_Solomon Islands
+2780,Somalia,SOM,2000,9.1,Africa,Africa_Somalia
+2781,Somalia,SOM,2001,8.9,Africa,Africa_Somalia
+2782,Somalia,SOM,2002,8.9,Africa,Africa_Somalia
+2783,Somalia,SOM,2003,8.9,Africa,Africa_Somalia
+2784,Somalia,SOM,2004,9.1,Africa,Africa_Somalia
+2785,Somalia,SOM,2005,8.9,Africa,Africa_Somalia
+2786,Somalia,SOM,2006,8.7,Africa,Africa_Somalia
+2787,Somalia,SOM,2007,8.4,Africa,Africa_Somalia
+2788,Somalia,SOM,2008,8.5,Africa,Africa_Somalia
+2789,Somalia,SOM,2009,8.5,Africa,Africa_Somalia
+2790,Somalia,SOM,2010,8.2,Africa,Africa_Somalia
+2791,Somalia,SOM,2011,8.1,Africa,Africa_Somalia
+2792,Somalia,SOM,2012,8.1,Africa,Africa_Somalia
+2793,Somalia,SOM,2013,8.1,Africa,Africa_Somalia
+2794,Somalia,SOM,2014,8.1,Africa,Africa_Somalia
+2795,Somalia,SOM,2015,8.0,Africa,Africa_Somalia
+2796,Somalia,SOM,2016,7.9,Africa,Africa_Somalia
+2797,Somalia,SOM,2017,8.0,Africa,Africa_Somalia
+2798,Somalia,SOM,2018,8.0,Africa,Africa_Somalia
+2799,Somalia,SOM,2019,7.9,Africa,Africa_Somalia
+2800,South Africa,ZAF,2000,22.4,Africa,Africa_South Africa
+2801,South Africa,ZAF,2001,23.0,Africa,Africa_South Africa
+2802,South Africa,ZAF,2002,24.3,Africa,Africa_South Africa
+2803,South Africa,ZAF,2003,25.1,Africa,Africa_South Africa
+2804,South Africa,ZAF,2004,24.6,Africa,Africa_South Africa
+2805,South Africa,ZAF,2005,24.4,Africa,Africa_South Africa
+2806,South Africa,ZAF,2006,23.6,Africa,Africa_South Africa
+2807,South Africa,ZAF,2007,24.6,Africa,Africa_South Africa
+2808,South Africa,ZAF,2008,26.7,Africa,Africa_South Africa
+2809,South Africa,ZAF,2009,26.7,Africa,Africa_South Africa
+2810,South Africa,ZAF,2010,24.6,Africa,Africa_South Africa
+2811,South Africa,ZAF,2011,22.4,Africa,Africa_South Africa
+2812,South Africa,ZAF,2012,22.9,Africa,Africa_South Africa
+2813,South Africa,ZAF,2013,23.7,Africa,Africa_South Africa
+2814,South Africa,ZAF,2014,24.1,Africa,Africa_South Africa
+2815,South Africa,ZAF,2015,24.5,Africa,Africa_South Africa
+2816,South Africa,ZAF,2016,24.4,Africa,Africa_South Africa
+2817,South Africa,ZAF,2017,25.2,Africa,Africa_South Africa
+2818,South Africa,ZAF,2018,24.1,Africa,Africa_South Africa
+2819,South Africa,ZAF,2019,23.5,Africa,Africa_South Africa
+2820,South Sudan,SSD,2000,4.3,Africa,Africa_South Sudan
+2821,South Sudan,SSD,2001,4.0,Africa,Africa_South Sudan
+2822,South Sudan,SSD,2002,3.9,Africa,Africa_South Sudan
+2823,South Sudan,SSD,2003,3.9,Africa,Africa_South Sudan
+2824,South Sudan,SSD,2004,3.9,Africa,Africa_South Sudan
+2825,South Sudan,SSD,2005,3.9,Africa,Africa_South Sudan
+2826,South Sudan,SSD,2006,3.9,Africa,Africa_South Sudan
+2827,South Sudan,SSD,2007,3.9,Africa,Africa_South Sudan
+2828,South Sudan,SSD,2008,3.8,Africa,Africa_South Sudan
+2829,South Sudan,SSD,2009,3.7,Africa,Africa_South Sudan
+2830,South Sudan,SSD,2010,3.7,Africa,Africa_South Sudan
+2831,South Sudan,SSD,2011,3.6,Africa,Africa_South Sudan
+2832,South Sudan,SSD,2012,3.7,Africa,Africa_South Sudan
+2833,South Sudan,SSD,2013,3.6,Africa,Africa_South Sudan
+2834,South Sudan,SSD,2014,3.5,Africa,Africa_South Sudan
+2835,South Sudan,SSD,2015,3.6,Africa,Africa_South Sudan
+2836,South Sudan,SSD,2016,3.7,Africa,Africa_South Sudan
+2837,South Sudan,SSD,2017,3.7,Africa,Africa_South Sudan
+2838,South Sudan,SSD,2018,3.8,Africa,Africa_South Sudan
+2839,South Sudan,SSD,2019,3.9,Africa,Africa_South Sudan
+2840,Spain,ESP,2000,8.6,Europe,Europe_Spain
+2841,Spain,ESP,2001,8.0,Europe,Europe_Spain
+2842,Spain,ESP,2002,8.3,Europe,Europe_Spain
+2843,Spain,ESP,2003,8.5,Europe,Europe_Spain
+2844,Spain,ESP,2004,8.5,Europe,Europe_Spain
+2845,Spain,ESP,2005,8.0,Europe,Europe_Spain
+2846,Spain,ESP,2006,7.5,Europe,Europe_Spain
+2847,Spain,ESP,2007,7.4,Europe,Europe_Spain
+2848,Spain,ESP,2008,7.8,Europe,Europe_Spain
+2849,Spain,ESP,2009,7.6,Europe,Europe_Spain
+2850,Spain,ESP,2010,6.9,Europe,Europe_Spain
+2851,Spain,ESP,2011,7.1,Europe,Europe_Spain
+2852,Spain,ESP,2012,7.7,Europe,Europe_Spain
+2853,Spain,ESP,2013,8.5,Europe,Europe_Spain
+2854,Spain,ESP,2014,8.6,Europe,Europe_Spain
+2855,Spain,ESP,2015,7.9,Europe,Europe_Spain
+2856,Spain,ESP,2016,7.8,Europe,Europe_Spain
+2857,Spain,ESP,2017,8.2,Europe,Europe_Spain
+2858,Spain,ESP,2018,7.8,Europe,Europe_Spain
+2859,Spain,ESP,2019,7.7,Europe,Europe_Spain
+2860,Sri Lanka,LKA,2000,26.7,Asia,Asia_Sri Lanka
+2861,Sri Lanka,LKA,2001,21.8,Asia,Asia_Sri Lanka
+2862,Sri Lanka,LKA,2002,21.0,Asia,Asia_Sri Lanka
+2863,Sri Lanka,LKA,2003,20.9,Asia,Asia_Sri Lanka
+2864,Sri Lanka,LKA,2004,21.8,Asia,Asia_Sri Lanka
+2865,Sri Lanka,LKA,2005,28.6,Asia,Asia_Sri Lanka
+2866,Sri Lanka,LKA,2006,18.3,Asia,Asia_Sri Lanka
+2867,Sri Lanka,LKA,2007,20.0,Asia,Asia_Sri Lanka
+2868,Sri Lanka,LKA,2008,17.5,Asia,Asia_Sri Lanka
+2869,Sri Lanka,LKA,2009,22.7,Asia,Asia_Sri Lanka
+2870,Sri Lanka,LKA,2010,21.9,Asia,Asia_Sri Lanka
+2871,Sri Lanka,LKA,2011,17.9,Asia,Asia_Sri Lanka
+2872,Sri Lanka,LKA,2012,16.6,Asia,Asia_Sri Lanka
+2873,Sri Lanka,LKA,2013,15.2,Asia,Asia_Sri Lanka
+2874,Sri Lanka,LKA,2014,13.1,Asia,Asia_Sri Lanka
+2875,Sri Lanka,LKA,2015,15.1,Asia,Asia_Sri Lanka
+2876,Sri Lanka,LKA,2016,14.8,Asia,Asia_Sri Lanka
+2877,Sri Lanka,LKA,2017,14.4,Asia,Asia_Sri Lanka
+2878,Sri Lanka,LKA,2018,14.2,Asia,Asia_Sri Lanka
+2879,Sri Lanka,LKA,2019,14.0,Asia,Asia_Sri Lanka
+2880,Sudan,SDN,2000,4.3,Africa,Africa_Sudan
+2881,Sudan,SDN,2001,4.2,Africa,Africa_Sudan
+2882,Sudan,SDN,2002,4.2,Africa,Africa_Sudan
+2883,Sudan,SDN,2003,4.1,Africa,Africa_Sudan
+2884,Sudan,SDN,2004,4.1,Africa,Africa_Sudan
+2885,Sudan,SDN,2005,4.2,Africa,Africa_Sudan
+2886,Sudan,SDN,2006,4.1,Africa,Africa_Sudan
+2887,Sudan,SDN,2007,4.1,Africa,Africa_Sudan
+2888,Sudan,SDN,2008,4.1,Africa,Africa_Sudan
+2889,Sudan,SDN,2009,4.1,Africa,Africa_Sudan
+2890,Sudan,SDN,2010,4.0,Africa,Africa_Sudan
+2891,Sudan,SDN,2011,4.1,Africa,Africa_Sudan
+2892,Sudan,SDN,2012,4.0,Africa,Africa_Sudan
+2893,Sudan,SDN,2013,4.0,Africa,Africa_Sudan
+2894,Sudan,SDN,2014,3.9,Africa,Africa_Sudan
+2895,Sudan,SDN,2015,3.9,Africa,Africa_Sudan
+2896,Sudan,SDN,2016,3.9,Africa,Africa_Sudan
+2897,Sudan,SDN,2017,3.8,Africa,Africa_Sudan
+2898,Sudan,SDN,2018,3.9,Africa,Africa_Sudan
+2899,Sudan,SDN,2019,3.8,Africa,Africa_Sudan
+2900,Suriname,SUR,2000,21.5,South America,South America_Suriname
+2901,Suriname,SUR,2001,24.2,South America,South America_Suriname
+2902,Suriname,SUR,2002,24.4,South America,South America_Suriname
+2903,Suriname,SUR,2003,24.3,South America,South America_Suriname
+2904,Suriname,SUR,2004,23.6,South America,South America_Suriname
+2905,Suriname,SUR,2005,24.2,South America,South America_Suriname
+2906,Suriname,SUR,2006,24.6,South America,South America_Suriname
+2907,Suriname,SUR,2007,24.5,South America,South America_Suriname
+2908,Suriname,SUR,2008,24.5,South America,South America_Suriname
+2909,Suriname,SUR,2009,24.4,South America,South America_Suriname
+2910,Suriname,SUR,2010,25.5,South America,South America_Suriname
+2911,Suriname,SUR,2011,24.3,South America,South America_Suriname
+2912,Suriname,SUR,2012,25.2,South America,South America_Suriname
+2913,Suriname,SUR,2013,25.1,South America,South America_Suriname
+2914,Suriname,SUR,2014,24.7,South America,South America_Suriname
+2915,Suriname,SUR,2015,24.8,South America,South America_Suriname
+2916,Suriname,SUR,2016,24.4,South America,South America_Suriname
+2917,Suriname,SUR,2017,24.5,South America,South America_Suriname
+2918,Suriname,SUR,2018,25.5,South America,South America_Suriname
+2919,Suriname,SUR,2019,25.4,South America,South America_Suriname
+2920,Sweden,SWE,2000,15.1,Europe,Europe_Sweden
+2921,Sweden,SWE,2001,16.0,Europe,Europe_Sweden
+2922,Sweden,SWE,2002,15.5,Europe,Europe_Sweden
+2923,Sweden,SWE,2003,14.4,Europe,Europe_Sweden
+2924,Sweden,SWE,2004,14.8,Europe,Europe_Sweden
+2925,Sweden,SWE,2005,15.7,Europe,Europe_Sweden
+2926,Sweden,SWE,2006,15.0,Europe,Europe_Sweden
+2927,Sweden,SWE,2007,14.5,Europe,Europe_Sweden
+2928,Sweden,SWE,2008,15.0,Europe,Europe_Sweden
+2929,Sweden,SWE,2009,15.7,Europe,Europe_Sweden
+2930,Sweden,SWE,2010,14.7,Europe,Europe_Sweden
+2931,Sweden,SWE,2011,14.2,Europe,Europe_Sweden
+2932,Sweden,SWE,2012,15.0,Europe,Europe_Sweden
+2933,Sweden,SWE,2013,15.9,Europe,Europe_Sweden
+2934,Sweden,SWE,2014,14.8,Europe,Europe_Sweden
+2935,Sweden,SWE,2015,15.7,Europe,Europe_Sweden
+2936,Sweden,SWE,2016,14.6,Europe,Europe_Sweden
+2937,Sweden,SWE,2017,15.0,Europe,Europe_Sweden
+2938,Sweden,SWE,2018,14.9,Europe,Europe_Sweden
+2939,Sweden,SWE,2019,14.7,Europe,Europe_Sweden
+2940,Switzerland,CHE,2000,20.2,Europe,Europe_Switzerland
+2941,Switzerland,CHE,2001,19.6,Europe,Europe_Switzerland
+2942,Switzerland,CHE,2002,20.9,Europe,Europe_Switzerland
+2943,Switzerland,CHE,2003,18.7,Europe,Europe_Switzerland
+2944,Switzerland,CHE,2004,18.5,Europe,Europe_Switzerland
+2945,Switzerland,CHE,2005,19.0,Europe,Europe_Switzerland
+2946,Switzerland,CHE,2006,18.8,Europe,Europe_Switzerland
+2947,Switzerland,CHE,2007,19.5,Europe,Europe_Switzerland
+2948,Switzerland,CHE,2008,18.8,Europe,Europe_Switzerland
+2949,Switzerland,CHE,2009,16.0,Europe,Europe_Switzerland
+2950,Switzerland,CHE,2010,14.5,Europe,Europe_Switzerland
+2951,Switzerland,CHE,2011,14.6,Europe,Europe_Switzerland
+2952,Switzerland,CHE,2012,14.7,Europe,Europe_Switzerland
+2953,Switzerland,CHE,2013,15.1,Europe,Europe_Switzerland
+2954,Switzerland,CHE,2014,14.7,Europe,Europe_Switzerland
+2955,Switzerland,CHE,2015,15.0,Europe,Europe_Switzerland
+2956,Switzerland,CHE,2016,14.1,Europe,Europe_Switzerland
+2957,Switzerland,CHE,2017,14.6,Europe,Europe_Switzerland
+2958,Switzerland,CHE,2018,14.5,Europe,Europe_Switzerland
+2959,Switzerland,CHE,2019,14.5,Europe,Europe_Switzerland
+2960,Syria,SYR,2000,1.5,Asia,Asia_Syria
+2961,Syria,SYR,2001,1.4,Asia,Asia_Syria
+2962,Syria,SYR,2002,1.4,Asia,Asia_Syria
+2963,Syria,SYR,2003,1.3,Asia,Asia_Syria
+2964,Syria,SYR,2004,1.4,Asia,Asia_Syria
+2965,Syria,SYR,2005,1.4,Asia,Asia_Syria
+2966,Syria,SYR,2006,1.4,Asia,Asia_Syria
+2967,Syria,SYR,2007,1.4,Asia,Asia_Syria
+2968,Syria,SYR,2008,1.4,Asia,Asia_Syria
+2969,Syria,SYR,2009,1.4,Asia,Asia_Syria
+2970,Syria,SYR,2010,1.5,Asia,Asia_Syria
+2971,Syria,SYR,2011,1.5,Asia,Asia_Syria
+2972,Syria,SYR,2012,1.6,Asia,Asia_Syria
+2973,Syria,SYR,2013,1.8,Asia,Asia_Syria
+2974,Syria,SYR,2014,1.8,Asia,Asia_Syria
+2975,Syria,SYR,2015,1.7,Asia,Asia_Syria
+2976,Syria,SYR,2016,1.6,Asia,Asia_Syria
+2977,Syria,SYR,2017,1.8,Asia,Asia_Syria
+2978,Syria,SYR,2018,1.9,Asia,Asia_Syria
+2979,Syria,SYR,2019,2.0,Asia,Asia_Syria
+2980,Tajikistan,TJK,2000,3.8,Asia,Asia_Tajikistan
+2981,Tajikistan,TJK,2001,3.6,Asia,Asia_Tajikistan
+2982,Tajikistan,TJK,2002,3.5,Asia,Asia_Tajikistan
+2983,Tajikistan,TJK,2003,3.4,Asia,Asia_Tajikistan
+2984,Tajikistan,TJK,2004,3.5,Asia,Asia_Tajikistan
+2985,Tajikistan,TJK,2005,3.6,Asia,Asia_Tajikistan
+2986,Tajikistan,TJK,2006,3.6,Asia,Asia_Tajikistan
+2987,Tajikistan,TJK,2007,3.7,Asia,Asia_Tajikistan
+2988,Tajikistan,TJK,2008,3.8,Asia,Asia_Tajikistan
+2989,Tajikistan,TJK,2009,3.9,Asia,Asia_Tajikistan
+2990,Tajikistan,TJK,2010,4.0,Asia,Asia_Tajikistan
+2991,Tajikistan,TJK,2011,4.0,Asia,Asia_Tajikistan
+2992,Tajikistan,TJK,2012,4.1,Asia,Asia_Tajikistan
+2993,Tajikistan,TJK,2013,4.0,Asia,Asia_Tajikistan
+2994,Tajikistan,TJK,2014,4.1,Asia,Asia_Tajikistan
+2995,Tajikistan,TJK,2015,4.1,Asia,Asia_Tajikistan
+2996,Tajikistan,TJK,2016,4.3,Asia,Asia_Tajikistan
+2997,Tajikistan,TJK,2017,4.2,Asia,Asia_Tajikistan
+2998,Tajikistan,TJK,2018,4.2,Asia,Asia_Tajikistan
+2999,Tajikistan,TJK,2019,4.3,Asia,Asia_Tajikistan
+3000,Tanzania,TZA,2000,8.9,Africa,Africa_Tanzania
+3001,Tanzania,TZA,2001,7.9,Africa,Africa_Tanzania
+3002,Tanzania,TZA,2002,7.0,Africa,Africa_Tanzania
+3003,Tanzania,TZA,2003,6.4,Africa,Africa_Tanzania
+3004,Tanzania,TZA,2004,5.8,Africa,Africa_Tanzania
+3005,Tanzania,TZA,2005,5.4,Africa,Africa_Tanzania
+3006,Tanzania,TZA,2006,5.3,Africa,Africa_Tanzania
+3007,Tanzania,TZA,2007,5.4,Africa,Africa_Tanzania
+3008,Tanzania,TZA,2008,5.8,Africa,Africa_Tanzania
+3009,Tanzania,TZA,2009,5.5,Africa,Africa_Tanzania
+3010,Tanzania,TZA,2010,5.0,Africa,Africa_Tanzania
+3011,Tanzania,TZA,2011,4.8,Africa,Africa_Tanzania
+3012,Tanzania,TZA,2012,4.3,Africa,Africa_Tanzania
+3013,Tanzania,TZA,2013,4.4,Africa,Africa_Tanzania
+3014,Tanzania,TZA,2014,4.2,Africa,Africa_Tanzania
+3015,Tanzania,TZA,2015,4.2,Africa,Africa_Tanzania
+3016,Tanzania,TZA,2016,4.2,Africa,Africa_Tanzania
+3017,Tanzania,TZA,2017,4.2,Africa,Africa_Tanzania
+3018,Tanzania,TZA,2018,4.2,Africa,Africa_Tanzania
+3019,Tanzania,TZA,2019,4.3,Africa,Africa_Tanzania
+3020,Thailand,THA,2000,12.0,Asia,Asia_Thailand
+3021,Thailand,THA,2001,10.9,Asia,Asia_Thailand
+3022,Thailand,THA,2002,11.0,Asia,Asia_Thailand
+3023,Thailand,THA,2003,10.7,Asia,Asia_Thailand
+3024,Thailand,THA,2004,10.5,Asia,Asia_Thailand
+3025,Thailand,THA,2005,9.1,Asia,Asia_Thailand
+3026,Thailand,THA,2006,8.9,Asia,Asia_Thailand
+3027,Thailand,THA,2007,8.4,Asia,Asia_Thailand
+3028,Thailand,THA,2008,8.1,Asia,Asia_Thailand
+3029,Thailand,THA,2009,8.0,Asia,Asia_Thailand
+3030,Thailand,THA,2010,8.1,Asia,Asia_Thailand
+3031,Thailand,THA,2011,8.0,Asia,Asia_Thailand
+3032,Thailand,THA,2012,7.9,Asia,Asia_Thailand
+3033,Thailand,THA,2013,7.5,Asia,Asia_Thailand
+3034,Thailand,THA,2014,7.8,Asia,Asia_Thailand
+3035,Thailand,THA,2015,8.0,Asia,Asia_Thailand
+3036,Thailand,THA,2016,8.5,Asia,Asia_Thailand
+3037,Thailand,THA,2017,8.4,Asia,Asia_Thailand
+3038,Thailand,THA,2018,8.8,Asia,Asia_Thailand
+3039,Thailand,THA,2019,8.8,Asia,Asia_Thailand
+3040,Togo,TGO,2000,10.0,Africa,Africa_Togo
+3041,Togo,TGO,2001,10.3,Africa,Africa_Togo
+3042,Togo,TGO,2002,10.4,Africa,Africa_Togo
+3043,Togo,TGO,2003,10.7,Africa,Africa_Togo
+3044,Togo,TGO,2004,10.8,Africa,Africa_Togo
+3045,Togo,TGO,2005,10.7,Africa,Africa_Togo
+3046,Togo,TGO,2006,11.0,Africa,Africa_Togo
+3047,Togo,TGO,2007,10.9,Africa,Africa_Togo
+3048,Togo,TGO,2008,10.8,Africa,Africa_Togo
+3049,Togo,TGO,2009,10.5,Africa,Africa_Togo
+3050,Togo,TGO,2010,10.4,Africa,Africa_Togo
+3051,Togo,TGO,2011,10.4,Africa,Africa_Togo
+3052,Togo,TGO,2012,10.4,Africa,Africa_Togo
+3053,Togo,TGO,2013,10.3,Africa,Africa_Togo
+3054,Togo,TGO,2014,10.1,Africa,Africa_Togo
+3055,Togo,TGO,2015,9.7,Africa,Africa_Togo
+3056,Togo,TGO,2016,9.3,Africa,Africa_Togo
+3057,Togo,TGO,2017,9.0,Africa,Africa_Togo
+3058,Togo,TGO,2018,8.7,Africa,Africa_Togo
+3059,Togo,TGO,2019,8.8,Africa,Africa_Togo
+3060,Tonga,TON,2000,4.2,Oceania,Oceania_Tonga
+3061,Tonga,TON,2001,4.2,Oceania,Oceania_Tonga
+3062,Tonga,TON,2002,4.2,Oceania,Oceania_Tonga
+3063,Tonga,TON,2003,4.2,Oceania,Oceania_Tonga
+3064,Tonga,TON,2004,4.2,Oceania,Oceania_Tonga
+3065,Tonga,TON,2005,4.0,Oceania,Oceania_Tonga
+3066,Tonga,TON,2006,4.0,Oceania,Oceania_Tonga
+3067,Tonga,TON,2007,4.0,Oceania,Oceania_Tonga
+3068,Tonga,TON,2008,3.9,Oceania,Oceania_Tonga
+3069,Tonga,TON,2009,4.3,Oceania,Oceania_Tonga
+3070,Tonga,TON,2010,4.6,Oceania,Oceania_Tonga
+3071,Tonga,TON,2011,4.5,Oceania,Oceania_Tonga
+3072,Tonga,TON,2012,4.5,Oceania,Oceania_Tonga
+3073,Tonga,TON,2013,4.6,Oceania,Oceania_Tonga
+3074,Tonga,TON,2014,4.6,Oceania,Oceania_Tonga
+3075,Tonga,TON,2015,4.6,Oceania,Oceania_Tonga
+3076,Tonga,TON,2016,4.1,Oceania,Oceania_Tonga
+3077,Tonga,TON,2017,4.2,Oceania,Oceania_Tonga
+3078,Tonga,TON,2018,4.0,Oceania,Oceania_Tonga
+3079,Tonga,TON,2019,3.8,Oceania,Oceania_Tonga
+3080,Trinidad and Tobago,TTO,2000,16.3,North America,North America_Trinidad and Tobago
+3081,Trinidad and Tobago,TTO,2001,16.3,North America,North America_Trinidad and Tobago
+3082,Trinidad and Tobago,TTO,2002,15.3,North America,North America_Trinidad and Tobago
+3083,Trinidad and Tobago,TTO,2003,13.4,North America,North America_Trinidad and Tobago
+3084,Trinidad and Tobago,TTO,2004,13.1,North America,North America_Trinidad and Tobago
+3085,Trinidad and Tobago,TTO,2005,12.7,North America,North America_Trinidad and Tobago
+3086,Trinidad and Tobago,TTO,2006,11.3,North America,North America_Trinidad and Tobago
+3087,Trinidad and Tobago,TTO,2007,11.2,North America,North America_Trinidad and Tobago
+3088,Trinidad and Tobago,TTO,2008,13.7,North America,North America_Trinidad and Tobago
+3089,Trinidad and Tobago,TTO,2009,11.2,North America,North America_Trinidad and Tobago
+3090,Trinidad and Tobago,TTO,2010,11.3,North America,North America_Trinidad and Tobago
+3091,Trinidad and Tobago,TTO,2011,9.9,North America,North America_Trinidad and Tobago
+3092,Trinidad and Tobago,TTO,2012,9.5,North America,North America_Trinidad and Tobago
+3093,Trinidad and Tobago,TTO,2013,10.9,North America,North America_Trinidad and Tobago
+3094,Trinidad and Tobago,TTO,2014,10.5,North America,North America_Trinidad and Tobago
+3095,Trinidad and Tobago,TTO,2015,10.2,North America,North America_Trinidad and Tobago
+3096,Trinidad and Tobago,TTO,2016,9.8,North America,North America_Trinidad and Tobago
+3097,Trinidad and Tobago,TTO,2017,9.5,North America,North America_Trinidad and Tobago
+3098,Trinidad and Tobago,TTO,2018,9.0,North America,North America_Trinidad and Tobago
+3099,Trinidad and Tobago,TTO,2019,8.7,North America,North America_Trinidad and Tobago
+3100,Tunisia,TUN,2000,3.7,Africa,Africa_Tunisia
+3101,Tunisia,TUN,2001,3.7,Africa,Africa_Tunisia
+3102,Tunisia,TUN,2002,3.8,Africa,Africa_Tunisia
+3103,Tunisia,TUN,2003,3.8,Africa,Africa_Tunisia
+3104,Tunisia,TUN,2004,3.7,Africa,Africa_Tunisia
+3105,Tunisia,TUN,2005,3.7,Africa,Africa_Tunisia
+3106,Tunisia,TUN,2006,3.7,Africa,Africa_Tunisia
+3107,Tunisia,TUN,2007,3.6,Africa,Africa_Tunisia
+3108,Tunisia,TUN,2008,3.5,Africa,Africa_Tunisia
+3109,Tunisia,TUN,2009,3.5,Africa,Africa_Tunisia
+3110,Tunisia,TUN,2010,3.5,Africa,Africa_Tunisia
+3111,Tunisia,TUN,2011,3.4,Africa,Africa_Tunisia
+3112,Tunisia,TUN,2012,3.4,Africa,Africa_Tunisia
+3113,Tunisia,TUN,2013,3.3,Africa,Africa_Tunisia
+3114,Tunisia,TUN,2014,3.2,Africa,Africa_Tunisia
+3115,Tunisia,TUN,2015,3.1,Africa,Africa_Tunisia
+3116,Tunisia,TUN,2016,3.1,Africa,Africa_Tunisia
+3117,Tunisia,TUN,2017,3.1,Africa,Africa_Tunisia
+3118,Tunisia,TUN,2018,3.2,Africa,Africa_Tunisia
+3119,Tunisia,TUN,2019,3.3,Africa,Africa_Tunisia
+3120,Turkey,TUR,2000,4.0,Asia,Asia_Turkey
+3121,Turkey,TUR,2001,3.6,Asia,Asia_Turkey
+3122,Turkey,TUR,2002,3.2,Asia,Asia_Turkey
+3123,Turkey,TUR,2003,3.1,Asia,Asia_Turkey
+3124,Turkey,TUR,2004,3.0,Asia,Asia_Turkey
+3125,Turkey,TUR,2005,2.8,Asia,Asia_Turkey
+3126,Turkey,TUR,2006,2.7,Asia,Asia_Turkey
+3127,Turkey,TUR,2007,2.5,Asia,Asia_Turkey
+3128,Turkey,TUR,2008,2.4,Asia,Asia_Turkey
+3129,Turkey,TUR,2009,2.4,Asia,Asia_Turkey
+3130,Turkey,TUR,2010,2.4,Asia,Asia_Turkey
+3131,Turkey,TUR,2011,2.2,Asia,Asia_Turkey
+3132,Turkey,TUR,2012,2.2,Asia,Asia_Turkey
+3133,Turkey,TUR,2013,2.3,Asia,Asia_Turkey
+3134,Turkey,TUR,2014,2.3,Asia,Asia_Turkey
+3135,Turkey,TUR,2015,2.3,Asia,Asia_Turkey
+3136,Turkey,TUR,2016,2.3,Asia,Asia_Turkey
+3137,Turkey,TUR,2017,2.3,Asia,Asia_Turkey
+3138,Turkey,TUR,2018,2.3,Asia,Asia_Turkey
+3139,Turkey,TUR,2019,2.4,Asia,Asia_Turkey
+3140,Turkmenistan,TKM,2000,12.5,Asia,Asia_Turkmenistan
+3141,Turkmenistan,TKM,2001,13.5,Asia,Asia_Turkmenistan
+3142,Turkmenistan,TKM,2002,14.1,Asia,Asia_Turkmenistan
+3143,Turkmenistan,TKM,2003,14.3,Asia,Asia_Turkmenistan
+3144,Turkmenistan,TKM,2004,14.3,Asia,Asia_Turkmenistan
+3145,Turkmenistan,TKM,2005,15.1,Asia,Asia_Turkmenistan
+3146,Turkmenistan,TKM,2006,15.1,Asia,Asia_Turkmenistan
+3147,Turkmenistan,TKM,2007,13.2,Asia,Asia_Turkmenistan
+3148,Turkmenistan,TKM,2008,11.4,Asia,Asia_Turkmenistan
+3149,Turkmenistan,TKM,2009,9.4,Asia,Asia_Turkmenistan
+3150,Turkmenistan,TKM,2010,8.5,Asia,Asia_Turkmenistan
+3151,Turkmenistan,TKM,2011,7.6,Asia,Asia_Turkmenistan
+3152,Turkmenistan,TKM,2012,7.1,Asia,Asia_Turkmenistan
+3153,Turkmenistan,TKM,2013,7.1,Asia,Asia_Turkmenistan
+3154,Turkmenistan,TKM,2014,6.8,Asia,Asia_Turkmenistan
+3155,Turkmenistan,TKM,2015,6.3,Asia,Asia_Turkmenistan
+3156,Turkmenistan,TKM,2016,6.2,Asia,Asia_Turkmenistan
+3157,Turkmenistan,TKM,2017,5.8,Asia,Asia_Turkmenistan
+3158,Turkmenistan,TKM,2018,5.7,Asia,Asia_Turkmenistan
+3159,Turkmenistan,TKM,2019,5.7,Asia,Asia_Turkmenistan
+3160,Uganda,UGA,2000,10.2,Africa,Africa_Uganda
+3161,Uganda,UGA,2001,9.8,Africa,Africa_Uganda
+3162,Uganda,UGA,2002,9.4,Africa,Africa_Uganda
+3163,Uganda,UGA,2003,9.4,Africa,Africa_Uganda
+3164,Uganda,UGA,2004,9.5,Africa,Africa_Uganda
+3165,Uganda,UGA,2005,9.7,Africa,Africa_Uganda
+3166,Uganda,UGA,2006,9.4,Africa,Africa_Uganda
+3167,Uganda,UGA,2007,8.0,Africa,Africa_Uganda
+3168,Uganda,UGA,2008,7.1,Africa,Africa_Uganda
+3169,Uganda,UGA,2009,6.8,Africa,Africa_Uganda
+3170,Uganda,UGA,2010,6.3,Africa,Africa_Uganda
+3171,Uganda,UGA,2011,6.3,Africa,Africa_Uganda
+3172,Uganda,UGA,2012,5.7,Africa,Africa_Uganda
+3173,Uganda,UGA,2013,5.2,Africa,Africa_Uganda
+3174,Uganda,UGA,2014,4.8,Africa,Africa_Uganda
+3175,Uganda,UGA,2015,4.7,Africa,Africa_Uganda
+3176,Uganda,UGA,2016,4.7,Africa,Africa_Uganda
+3177,Uganda,UGA,2017,4.4,Africa,Africa_Uganda
+3178,Uganda,UGA,2018,4.4,Africa,Africa_Uganda
+3179,Uganda,UGA,2019,4.6,Africa,Africa_Uganda
+3180,Ukraine,UKR,2000,39.1,Europe,Europe_Ukraine
+3181,Ukraine,UKR,2001,36.7,Europe,Europe_Ukraine
+3182,Ukraine,UKR,2002,36.0,Europe,Europe_Ukraine
+3183,Ukraine,UKR,2003,34.5,Europe,Europe_Ukraine
+3184,Ukraine,UKR,2004,33.8,Europe,Europe_Ukraine
+3185,Ukraine,UKR,2005,33.8,Europe,Europe_Ukraine
+3186,Ukraine,UKR,2006,30.8,Europe,Europe_Ukraine
+3187,Ukraine,UKR,2007,31.5,Europe,Europe_Ukraine
+3188,Ukraine,UKR,2008,30.9,Europe,Europe_Ukraine
+3189,Ukraine,UKR,2009,26.3,Europe,Europe_Ukraine
+3190,Ukraine,UKR,2010,24.5,Europe,Europe_Ukraine
+3191,Ukraine,UKR,2011,23.0,Europe,Europe_Ukraine
+3192,Ukraine,UKR,2012,23.1,Europe,Europe_Ukraine
+3193,Ukraine,UKR,2013,22.6,Europe,Europe_Ukraine
+3194,Ukraine,UKR,2014,24.4,Europe,Europe_Ukraine
+3195,Ukraine,UKR,2015,21.6,Europe,Europe_Ukraine
+3196,Ukraine,UKR,2016,21.4,Europe,Europe_Ukraine
+3197,Ukraine,UKR,2017,20.6,Europe,Europe_Ukraine
+3198,Ukraine,UKR,2018,21.9,Europe,Europe_Ukraine
+3199,Ukraine,UKR,2019,21.6,Europe,Europe_Ukraine
+3200,United Arab Emirates,ARE,2000,8.6,Asia,Asia_United Arab Emirates
+3201,United Arab Emirates,ARE,2001,8.6,Asia,Asia_United Arab Emirates
+3202,United Arab Emirates,ARE,2002,8.0,Asia,Asia_United Arab Emirates
+3203,United Arab Emirates,ARE,2003,7.5,Asia,Asia_United Arab Emirates
+3204,United Arab Emirates,ARE,2004,7.7,Asia,Asia_United Arab Emirates
+3205,United Arab Emirates,ARE,2005,7.9,Asia,Asia_United Arab Emirates
+3206,United Arab Emirates,ARE,2006,8.3,Asia,Asia_United Arab Emirates
+3207,United Arab Emirates,ARE,2007,8.3,Asia,Asia_United Arab Emirates
+3208,United Arab Emirates,ARE,2008,8.5,Asia,Asia_United Arab Emirates
+3209,United Arab Emirates,ARE,2009,8.5,Asia,Asia_United Arab Emirates
+3210,United Arab Emirates,ARE,2010,8.4,Asia,Asia_United Arab Emirates
+3211,United Arab Emirates,ARE,2011,8.2,Asia,Asia_United Arab Emirates
+3212,United Arab Emirates,ARE,2012,7.9,Asia,Asia_United Arab Emirates
+3213,United Arab Emirates,ARE,2013,7.5,Asia,Asia_United Arab Emirates
+3214,United Arab Emirates,ARE,2014,7.0,Asia,Asia_United Arab Emirates
+3215,United Arab Emirates,ARE,2015,6.5,Asia,Asia_United Arab Emirates
+3216,United Arab Emirates,ARE,2016,6.0,Asia,Asia_United Arab Emirates
+3217,United Arab Emirates,ARE,2017,5.6,Asia,Asia_United Arab Emirates
+3218,United Arab Emirates,ARE,2018,6.0,Asia,Asia_United Arab Emirates
+3219,United Arab Emirates,ARE,2019,6.4,Asia,Asia_United Arab Emirates
+3220,United Kingdom,GBR,2000,8.6,Europe,Europe_United Kingdom
+3221,United Kingdom,GBR,2001,8.3,Europe,Europe_United Kingdom
+3222,United Kingdom,GBR,2002,8.3,Europe,Europe_United Kingdom
+3223,United Kingdom,GBR,2003,7.9,Europe,Europe_United Kingdom
+3224,United Kingdom,GBR,2004,8.2,Europe,Europe_United Kingdom
+3225,United Kingdom,GBR,2005,7.9,Europe,Europe_United Kingdom
+3226,United Kingdom,GBR,2006,7.8,Europe,Europe_United Kingdom
+3227,United Kingdom,GBR,2007,7.6,Europe,Europe_United Kingdom
+3228,United Kingdom,GBR,2008,8.1,Europe,Europe_United Kingdom
+3229,United Kingdom,GBR,2009,8.0,Europe,Europe_United Kingdom
+3230,United Kingdom,GBR,2010,7.8,Europe,Europe_United Kingdom
+3231,United Kingdom,GBR,2011,8.3,Europe,Europe_United Kingdom
+3232,United Kingdom,GBR,2012,8.2,Europe,Europe_United Kingdom
+3233,United Kingdom,GBR,2013,8.8,Europe,Europe_United Kingdom
+3234,United Kingdom,GBR,2014,8.6,Europe,Europe_United Kingdom
+3235,United Kingdom,GBR,2015,8.8,Europe,Europe_United Kingdom
+3236,United Kingdom,GBR,2016,8.5,Europe,Europe_United Kingdom
+3237,United Kingdom,GBR,2017,8.2,Europe,Europe_United Kingdom
+3238,United Kingdom,GBR,2018,8.1,Europe,Europe_United Kingdom
+3239,United Kingdom,GBR,2019,7.9,Europe,Europe_United Kingdom
+3240,Uruguay,URY,2000,16.0,South America,South America_Uruguay
+3241,Uruguay,URY,2001,14.5,South America,South America_Uruguay
+3242,Uruguay,URY,2002,19.8,South America,South America_Uruguay
+3243,Uruguay,URY,2003,15.6,South America,South America_Uruguay
+3244,Uruguay,URY,2004,15.3,South America,South America_Uruguay
+3245,Uruguay,URY,2005,14.8,South America,South America_Uruguay
+3246,Uruguay,URY,2006,15.5,South America,South America_Uruguay
+3247,Uruguay,URY,2007,17.4,South America,South America_Uruguay
+3248,Uruguay,URY,2008,15.1,South America,South America_Uruguay
+3249,Uruguay,URY,2009,15.0,South America,South America_Uruguay
+3250,Uruguay,URY,2010,16.0,South America,South America_Uruguay
+3251,Uruguay,URY,2011,16.8,South America,South America_Uruguay
+3252,Uruguay,URY,2012,17.8,South America,South America_Uruguay
+3253,Uruguay,URY,2013,15.8,South America,South America_Uruguay
+3254,Uruguay,URY,2014,17.4,South America,South America_Uruguay
+3255,Uruguay,URY,2015,18.6,South America,South America_Uruguay
+3256,Uruguay,URY,2016,21.1,South America,South America_Uruguay
+3257,Uruguay,URY,2017,20.8,South America,South America_Uruguay
+3258,Uruguay,URY,2018,21.2,South America,South America_Uruguay
+3259,Uruguay,URY,2019,21.2,South America,South America_Uruguay
+3260,Uzbekistan,UZB,2000,10.1,Asia,Asia_Uzbekistan
+3261,Uzbekistan,UZB,2001,10.0,Asia,Asia_Uzbekistan
+3262,Uzbekistan,UZB,2002,9.7,Asia,Asia_Uzbekistan
+3263,Uzbekistan,UZB,2003,9.0,Asia,Asia_Uzbekistan
+3264,Uzbekistan,UZB,2004,8.6,Asia,Asia_Uzbekistan
+3265,Uzbekistan,UZB,2005,9.1,Asia,Asia_Uzbekistan
+3266,Uzbekistan,UZB,2006,8.8,Asia,Asia_Uzbekistan
+3267,Uzbekistan,UZB,2007,8.6,Asia,Asia_Uzbekistan
+3268,Uzbekistan,UZB,2008,8.5,Asia,Asia_Uzbekistan
+3269,Uzbekistan,UZB,2009,8.0,Asia,Asia_Uzbekistan
+3270,Uzbekistan,UZB,2010,8.1,Asia,Asia_Uzbekistan
+3271,Uzbekistan,UZB,2011,8.5,Asia,Asia_Uzbekistan
+3272,Uzbekistan,UZB,2012,8.9,Asia,Asia_Uzbekistan
+3273,Uzbekistan,UZB,2013,8.9,Asia,Asia_Uzbekistan
+3274,Uzbekistan,UZB,2014,9.0,Asia,Asia_Uzbekistan
+3275,Uzbekistan,UZB,2015,9.2,Asia,Asia_Uzbekistan
+3276,Uzbekistan,UZB,2016,9.1,Asia,Asia_Uzbekistan
+3277,Uzbekistan,UZB,2017,8.8,Asia,Asia_Uzbekistan
+3278,Uzbekistan,UZB,2018,8.6,Asia,Asia_Uzbekistan
+3279,Uzbekistan,UZB,2019,8.0,Asia,Asia_Uzbekistan
+3280,Vanuatu,VUT,2000,19.1,Oceania,Oceania_Vanuatu
+3281,Vanuatu,VUT,2001,18.9,Oceania,Oceania_Vanuatu
+3282,Vanuatu,VUT,2002,19.1,Oceania,Oceania_Vanuatu
+3283,Vanuatu,VUT,2003,19.0,Oceania,Oceania_Vanuatu
+3284,Vanuatu,VUT,2004,18.6,Oceania,Oceania_Vanuatu
+3285,Vanuatu,VUT,2005,18.2,Oceania,Oceania_Vanuatu
+3286,Vanuatu,VUT,2006,19.2,Oceania,Oceania_Vanuatu
+3287,Vanuatu,VUT,2007,19.1,Oceania,Oceania_Vanuatu
+3288,Vanuatu,VUT,2008,18.9,Oceania,Oceania_Vanuatu
+3289,Vanuatu,VUT,2009,19.8,Oceania,Oceania_Vanuatu
+3290,Vanuatu,VUT,2010,19.5,Oceania,Oceania_Vanuatu
+3291,Vanuatu,VUT,2011,19.0,Oceania,Oceania_Vanuatu
+3292,Vanuatu,VUT,2012,19.1,Oceania,Oceania_Vanuatu
+3293,Vanuatu,VUT,2013,18.9,Oceania,Oceania_Vanuatu
+3294,Vanuatu,VUT,2014,18.2,Oceania,Oceania_Vanuatu
+3295,Vanuatu,VUT,2015,18.2,Oceania,Oceania_Vanuatu
+3296,Vanuatu,VUT,2016,18.0,Oceania,Oceania_Vanuatu
+3297,Vanuatu,VUT,2017,18.1,Oceania,Oceania_Vanuatu
+3298,Vanuatu,VUT,2018,18.1,Oceania,Oceania_Vanuatu
+3299,Vanuatu,VUT,2019,18.0,Oceania,Oceania_Vanuatu
+3300,Venezuela,VEN,2000,5.4,South America,South America_Venezuela
+3301,Venezuela,VEN,2001,5.7,South America,South America_Venezuela
+3302,Venezuela,VEN,2002,5.4,South America,South America_Venezuela
+3303,Venezuela,VEN,2003,4.9,South America,South America_Venezuela
+3304,Venezuela,VEN,2004,4.5,South America,South America_Venezuela
+3305,Venezuela,VEN,2005,4.4,South America,South America_Venezuela
+3306,Venezuela,VEN,2006,3.9,South America,South America_Venezuela
+3307,Venezuela,VEN,2007,3.7,South America,South America_Venezuela
+3308,Venezuela,VEN,2008,3.5,South America,South America_Venezuela
+3309,Venezuela,VEN,2009,3.2,South America,South America_Venezuela
+3310,Venezuela,VEN,2010,3.4,South America,South America_Venezuela
+3311,Venezuela,VEN,2011,3.6,South America,South America_Venezuela
+3312,Venezuela,VEN,2012,3.2,South America,South America_Venezuela
+3313,Venezuela,VEN,2013,2.5,South America,South America_Venezuela
+3314,Venezuela,VEN,2014,2.1,South America,South America_Venezuela
+3315,Venezuela,VEN,2015,2.3,South America,South America_Venezuela
+3316,Venezuela,VEN,2016,2.2,South America,South America_Venezuela
+3317,Venezuela,VEN,2017,2.2,South America,South America_Venezuela
+3318,Venezuela,VEN,2018,2.2,South America,South America_Venezuela
+3319,Venezuela,VEN,2019,2.1,South America,South America_Venezuela
+3320,Vietnam,VNM,2000,6.1,Asia,Asia_Vietnam
+3321,Vietnam,VNM,2001,6.1,Asia,Asia_Vietnam
+3322,Vietnam,VNM,2002,6.1,Asia,Asia_Vietnam
+3323,Vietnam,VNM,2003,6.1,Asia,Asia_Vietnam
+3324,Vietnam,VNM,2004,6.3,Asia,Asia_Vietnam
+3325,Vietnam,VNM,2005,6.3,Asia,Asia_Vietnam
+3326,Vietnam,VNM,2006,6.4,Asia,Asia_Vietnam
+3327,Vietnam,VNM,2007,6.7,Asia,Asia_Vietnam
+3328,Vietnam,VNM,2008,6.9,Asia,Asia_Vietnam
+3329,Vietnam,VNM,2009,6.9,Asia,Asia_Vietnam
+3330,Vietnam,VNM,2010,7.0,Asia,Asia_Vietnam
+3331,Vietnam,VNM,2011,7.2,Asia,Asia_Vietnam
+3332,Vietnam,VNM,2012,7.4,Asia,Asia_Vietnam
+3333,Vietnam,VNM,2013,7.5,Asia,Asia_Vietnam
+3334,Vietnam,VNM,2014,7.6,Asia,Asia_Vietnam
+3335,Vietnam,VNM,2015,7.7,Asia,Asia_Vietnam
+3336,Vietnam,VNM,2016,7.7,Asia,Asia_Vietnam
+3337,Vietnam,VNM,2017,7.7,Asia,Asia_Vietnam
+3338,Vietnam,VNM,2018,7.6,Asia,Asia_Vietnam
+3339,Vietnam,VNM,2019,7.5,Asia,Asia_Vietnam
+3340,Yemen,YEM,2000,6.1,Asia,Asia_Yemen
+3341,Yemen,YEM,2001,6.1,Asia,Asia_Yemen
+3342,Yemen,YEM,2002,5.9,Asia,Asia_Yemen
+3343,Yemen,YEM,2003,5.9,Asia,Asia_Yemen
+3344,Yemen,YEM,2004,6.0,Asia,Asia_Yemen
+3345,Yemen,YEM,2005,5.9,Asia,Asia_Yemen
+3346,Yemen,YEM,2006,5.8,Asia,Asia_Yemen
+3347,Yemen,YEM,2007,5.8,Asia,Asia_Yemen
+3348,Yemen,YEM,2008,6.0,Asia,Asia_Yemen
+3349,Yemen,YEM,2009,5.9,Asia,Asia_Yemen
+3350,Yemen,YEM,2010,5.7,Asia,Asia_Yemen
+3351,Yemen,YEM,2011,5.6,Asia,Asia_Yemen
+3352,Yemen,YEM,2012,5.7,Asia,Asia_Yemen
+3353,Yemen,YEM,2013,5.7,Asia,Asia_Yemen
+3354,Yemen,YEM,2014,5.7,Asia,Asia_Yemen
+3355,Yemen,YEM,2015,5.5,Asia,Asia_Yemen
+3356,Yemen,YEM,2016,5.7,Asia,Asia_Yemen
+3357,Yemen,YEM,2017,5.6,Asia,Asia_Yemen
+3358,Yemen,YEM,2018,5.9,Asia,Asia_Yemen
+3359,Yemen,YEM,2019,5.8,Asia,Asia_Yemen
+3360,Zambia,ZMB,2000,13.3,Africa,Africa_Zambia
+3361,Zambia,ZMB,2001,12.4,Africa,Africa_Zambia
+3362,Zambia,ZMB,2002,12.1,Africa,Africa_Zambia
+3363,Zambia,ZMB,2003,11.6,Africa,Africa_Zambia
+3364,Zambia,ZMB,2004,12.2,Africa,Africa_Zambia
+3365,Zambia,ZMB,2005,11.9,Africa,Africa_Zambia
+3366,Zambia,ZMB,2006,11.7,Africa,Africa_Zambia
+3367,Zambia,ZMB,2007,10.3,Africa,Africa_Zambia
+3368,Zambia,ZMB,2008,9.7,Africa,Africa_Zambia
+3369,Zambia,ZMB,2009,9.8,Africa,Africa_Zambia
+3370,Zambia,ZMB,2010,10.1,Africa,Africa_Zambia
+3371,Zambia,ZMB,2011,10.3,Africa,Africa_Zambia
+3372,Zambia,ZMB,2012,9.4,Africa,Africa_Zambia
+3373,Zambia,ZMB,2013,9.1,Africa,Africa_Zambia
+3374,Zambia,ZMB,2014,9.0,Africa,Africa_Zambia
+3375,Zambia,ZMB,2015,8.7,Africa,Africa_Zambia
+3376,Zambia,ZMB,2016,8.5,Africa,Africa_Zambia
+3377,Zambia,ZMB,2017,8.5,Africa,Africa_Zambia
+3378,Zambia,ZMB,2018,8.1,Africa,Africa_Zambia
+3379,Zambia,ZMB,2019,7.3,Africa,Africa_Zambia
+3380,Zimbabwe,ZWE,2000,13.3,Africa,Africa_Zimbabwe
+3381,Zimbabwe,ZWE,2001,12.8,Africa,Africa_Zimbabwe
+3382,Zimbabwe,ZWE,2002,13.4,Africa,Africa_Zimbabwe
+3383,Zimbabwe,ZWE,2003,13.2,Africa,Africa_Zimbabwe
+3384,Zimbabwe,ZWE,2004,14.2,Africa,Africa_Zimbabwe
+3385,Zimbabwe,ZWE,2005,14.0,Africa,Africa_Zimbabwe
+3386,Zimbabwe,ZWE,2006,14.4,Africa,Africa_Zimbabwe
+3387,Zimbabwe,ZWE,2007,17.2,Africa,Africa_Zimbabwe
+3388,Zimbabwe,ZWE,2008,20.1,Africa,Africa_Zimbabwe
+3389,Zimbabwe,ZWE,2009,22.2,Africa,Africa_Zimbabwe
+3390,Zimbabwe,ZWE,2010,21.5,Africa,Africa_Zimbabwe
+3391,Zimbabwe,ZWE,2011,20.7,Africa,Africa_Zimbabwe
+3392,Zimbabwe,ZWE,2012,19.7,Africa,Africa_Zimbabwe
+3393,Zimbabwe,ZWE,2013,18.6,Africa,Africa_Zimbabwe
+3394,Zimbabwe,ZWE,2014,18.2,Africa,Africa_Zimbabwe
+3395,Zimbabwe,ZWE,2015,18.0,Africa,Africa_Zimbabwe
+3396,Zimbabwe,ZWE,2016,16.8,Africa,Africa_Zimbabwe
+3397,Zimbabwe,ZWE,2017,15.0,Africa,Africa_Zimbabwe
+3398,Zimbabwe,ZWE,2018,14.0,Africa,Africa_Zimbabwe
+3399,Zimbabwe,ZWE,2019,14.1,Africa,Africa_Zimbabwe
